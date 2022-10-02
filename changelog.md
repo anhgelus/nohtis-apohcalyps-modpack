@@ -6,6 +6,8 @@ Add minecart and boat to the shop
 
 Add a map and a way to move minecart/boat
 
+Disable MTS (cars)
+
 # v0.13.3
 
 Fix bugs while loading loots
