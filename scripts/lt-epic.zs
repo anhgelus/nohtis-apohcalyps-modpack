@@ -13,7 +13,7 @@ var important = epic.addPool("important", 1.0, 2.0, 1.0, 6.0); // important loot
 
 // Loots
 main.addItemEntry(<mw:shotgun12gauge>, 70, 1, [Functions.setCount(2, 5)], []);
-rare.addItemEntry(<mw:m18white>, 45, 1);
+main.addItemEntry(<mw:m18white>, 45, 1);
 main.addItemEntry(<mw:m67frag>, 40, 0);
 main.addItemEntry(<mw:bullet556x45>, 45, 1, [Functions.setCount(8, 12)], []);
 main.addItemEntry(<mw:m38mag_2>, 30, 1);

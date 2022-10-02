@@ -23,8 +23,8 @@ heavy.addItemEntry(<mw:as50>, 75, 1);
 heavy.addItemEntry(<mw:spas_12>, 70, 1);
 heavy.addItemEntry(<mw:srs99>, 25, 1);
 
-mag.addItemEntry(<mw:m82_mag2>, 50, 1);
-mag.addItemEntry(<mw:as50_mag2>, 25, 1);
+mag.addItemEntry(<mw:m82mag_2>, 50, 1);
+mag.addItemEntry(<mw:as50mag_2>, 25, 1);
 
 bullets.addItemEntry(<mw:bullet50bmg>, 75, 1, [Functions.setCount(2, 4)], []);
 bullets.addItemEntry(<mw:shotgun12gauge>, 50, 1, [Functions.setCount(10, 16)], []);
