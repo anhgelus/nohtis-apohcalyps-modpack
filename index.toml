@@ -1746,6 +1746,11 @@ hash = "2acbe0f770a8303ecea88bc3ceef4ea6f76cb69206f15229647fb4773f0d9198"
 metafile = true
 
 [[files]]
+file = "mods/collective.pw.toml"
+hash = "2f032abefdc59f6946c9d1c5efd567d2c664c0c9ea4f427f62c6271bb25d66b4"
+metafile = true
+
+[[files]]
 file = "mods/coroutil.pw.toml"
 hash = "d17527467cbe5945e5424a2920912890cc047b8e779f702a665c8b27caf50453"
 metafile = true
@@ -1886,6 +1891,16 @@ hash = "b1c49b731d00e2e70f33348d15ddde32fd50621151e1a066df61ec1f4ad933c8"
 metafile = true
 
 [[files]]
+file = "mods/move-boats.pw.toml"
+hash = "175b56dee91ec849e0b5db0922d828e8abef6bb73792a533d170513c56a83b19"
+metafile = true
+
+[[files]]
+file = "mods/move-minecarts.pw.toml"
+hash = "6d6fc3341117e9710325b70f3378453374c1f8bbfb01ce25364def6767c0cc8c"
+metafile = true
+
+[[files]]
 file = "mods/mumblelink.pw.toml"
 hash = "bfdcf742bff37055bdb70ee8c19fbd3545dfe1584c1cf507831a63d37c0a7a5e"
 metafile = true
@@ -1998,6 +2013,11 @@ metafile = true
 [[files]]
 file = "mods/weather-storms-tornadoes.pw.toml"
 hash = "faece63c31002b0929cfc4b14d8c7f998cc9ae13518a4d5eef46fc11be041349"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "6d0b166096b1b677235e3b11081a5b11b93f7ca0c1e55a21701cbb023e9eabe0"
 metafile = true
 
 [[files]]
