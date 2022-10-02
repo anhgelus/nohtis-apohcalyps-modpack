@@ -10,7 +10,7 @@ hash = "57c129c6d4045319afd6636ad663a5dabd4a9f47e3b04456a6c4a5919e50a218"
 
 [[files]]
 file = "changelog.md"
-hash = "d1693ebdea25afc0ce441bf91378bf0e777377860c63bd8cdeea9d6a968935ed"
+hash = "4f99dde6af7206ea37feb28b51efe63172f0d92ec05bb7b1b2c2814078071854"
 
 [[files]]
 file = "config/CoroUtil/BlockDestruction.cfg"
@@ -1667,6 +1667,10 @@ hash = "0a583eb8a8f4e8f797e965fdecb5d72ec4d33fc7e8d6002a82a4e62d35abe9c2"
 [[files]]
 file = "config/vehicle.cfg"
 hash = "b5815bf5020fe029b2fc329bcb391c6c50e9881bc29587eb7dc2572ce42e672e"
+
+[[files]]
+file = "export.sh"
+hash = "b27e3d777467f0b1cdaec7680348bfa8efda17c282ea2728e099669de728279a"
 
 [[files]]
 file = "import.sh"
