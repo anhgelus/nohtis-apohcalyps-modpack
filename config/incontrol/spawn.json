@@ -9,7 +9,7 @@
     },
     {
         "dimension": 0,
-        "maxdifficulty": 1.63,
+        "maxdifficulty": 1.55,
         "mob": "mw:zombie",
         "healthmultiply": 0.5,
         "damagemultiply": 0.75,
@@ -21,7 +21,7 @@
     },
     {
         "dimension": 0,
-        "mindifficulty": 1.63,
+        "mindifficulty": 1.55,
         "mob": "mw:zombie",
         "maxcount": {
             "amount": 35,
@@ -31,7 +31,7 @@
     },
     {
         "dimension": 0,
-        "mindifficulty": 1.63,
+        "mindifficulty": 1.55,
         "mob": "mw:zombieblistered",
         "healthmultiply": 0.125,
         "damagemultiply": 1.25,
@@ -43,7 +43,7 @@
     },
     {
         "dimension": 0,
-        "mindifficulty": 1.69,
+        "mindifficulty": 1.60,
         "mob": "mw:zombieripper",
         "healthmultiply": 0.25,
         "maxcount": {
@@ -54,7 +54,7 @@
     },
     {
         "dimension": 0,
-        "mindifficulty": 1.69,
+        "mindifficulty": 1.60,
         "mob": "mw:licker",
         "healthmultiply": 0.125,
         "damagemultiply": 1.5,
@@ -66,7 +66,7 @@
     },
     {
         "dimension": 0,
-        "mindifficulty": 1.69,
+        "mindifficulty": 1.65,
         "mob":"mw:hazmat_zombie",
         "healthmultiply": 0.75,
         "damagemultiply": 2,
@@ -78,7 +78,7 @@
     },
     {
         "dimension": 0,
-        "mindifficulty": 1.79,
+        "mindifficulty": 1.70,
         "mob": "mw:necromorph",
         "healthmultiply": 0.25,
         "damagemultiply": 3,
