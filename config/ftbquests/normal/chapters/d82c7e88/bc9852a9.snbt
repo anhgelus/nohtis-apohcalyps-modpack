@@ -1,0 +1,31 @@
+{
+	x: 2.5d,
+	y: -1.0d,
+	shape: "rsquare",
+	dependencies: [
+		"9935937c",
+		"36cca643"
+	],
+	hide: true,
+	tasks: [{
+		uid: "e60c3ed7",
+		type: "stat",
+		title: "Entity farming I",
+		icon: {
+			id: "minecraft:spawn_egg",
+			tag: {
+				EntityTag: {
+					id: "minecraft:chicken"
+				}
+			}
+		},
+		stat: "stat.mobKills",
+		value: 200
+	}],
+	rewards: [{
+		uid: "29477c1b",
+		type: "item",
+		item: "minecraft:cooked_beef",
+		count: 16
+	}]
+}

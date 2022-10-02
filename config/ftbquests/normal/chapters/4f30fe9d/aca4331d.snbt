@@ -1,0 +1,25 @@
+{
+	x: -1.5d,
+	y: -3.0d,
+	shape: "rsquare",
+	description: "Bad choice :p",
+	dependencies: [
+		"6b8d0bbf"
+	],
+	hide: true,
+	tasks: [{
+		uid: "b012fec2",
+		type: "item",
+		items: [{
+			item: "mw:aps"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "6adf54b7",
+		type: "item",
+		item: "mw:bullet9x19mm",
+		count: 5
+	}]
+}

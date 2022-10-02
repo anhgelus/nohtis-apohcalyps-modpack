@@ -1,0 +1,13 @@
+name = "DarknessLib"
+filename = "DarknessLib-1.12.2-1.1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8ddb310a517f59eddf6e1b884dd924bee1036ca8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3672570
+project-id = 349174

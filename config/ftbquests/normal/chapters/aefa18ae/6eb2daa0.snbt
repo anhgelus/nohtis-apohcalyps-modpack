@@ -1,0 +1,16 @@
+{
+	x: 0.0d,
+	y: 4.0d,
+	shape: "rsquare",
+	dependencies: [
+		"341d03a9"
+	],
+	hide: true,
+	tasks: [{
+		uid: "8a6845cf",
+		type: "item",
+		items: [{
+			item: "mw:urban_force_recon_vest"
+		}]
+	}]
+}

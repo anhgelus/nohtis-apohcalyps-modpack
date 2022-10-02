@@ -1,0 +1,14 @@
+{
+	x: 1.0d,
+	y: -2.0d,
+	dependencies: [
+		"7f727042"
+	],
+	tasks: [{
+		uid: "dce010c7",
+		type: "item",
+		items: [{
+			item: "mw:urban_blackhawk_stealth_backpack"
+		}]
+	}]
+}

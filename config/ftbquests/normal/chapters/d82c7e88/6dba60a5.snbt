@@ -1,0 +1,28 @@
+{
+	x: 0.0d,
+	y: -3.0d,
+	dependencies: [
+		"36cca643"
+	],
+	hide: true,
+	tasks: [{
+		uid: "0eb6d74d",
+		type: "kill",
+		title: "Zombie II",
+		icon: "minecraft:skull 1 2",
+		entity: "minecraft:zombie",
+		value: 200L
+	}],
+	rewards: [{
+		uid: "eea4f670",
+		type: "item",
+		item: "mw:bullet762x39",
+		count: 16
+	},
+	{
+		uid: "9b6635d3",
+		type: "item",
+		item: "mw:bullet556x45",
+		count: 4
+	}]
+}

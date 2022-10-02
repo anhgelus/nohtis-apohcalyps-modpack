@@ -1,0 +1,13 @@
+name = "Thicc Entities"
+filename = "thiccentities-1.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c36d59d474d14ff363106accfd4d6e73ec058143"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2555453
+project-id = 291991

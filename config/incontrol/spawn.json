@@ -1,0 +1,102 @@
+[
+    {
+        "maxheight": 50,
+        "result": "deny"
+    },
+    {
+        "maxspawndist": 100,
+        "result": "deny"
+    },
+    {
+        "dimension": 0,
+        "maxdifficulty": 1.63,
+        "mob": "mw:zombie",
+        "healthmultiply": 0.5,
+        "damagemultiply": 0.75,
+        "maxcount": {
+            "amount": 10,
+            "perplayer": true
+        },
+        "result": "allow"
+    },
+    {
+        "dimension": 0,
+        "mindifficulty": 1.63,
+        "mob": "mw:zombie",
+        "maxcount": {
+            "amount": 35,
+            "perplayer": true
+        },
+        "result": "allow"
+    },
+    {
+        "dimension": 0,
+        "mindifficulty": 1.63,
+        "mob": "mw:zombieblistered",
+        "healthmultiply": 0.125,
+        "damagemultiply": 1.25,
+        "maxcount": {
+            "amount": 25,
+            "perplayer": true
+        },
+        "result": "allow"
+    },
+    {
+        "dimension": 0,
+        "mindifficulty": 1.69,
+        "mob": "mw:zombieripper",
+        "healthmultiply": 0.25,
+        "maxcount": {
+            "amount": 15,
+            "perplayer": true
+        },
+        "result": "allow"
+    },
+    {
+        "dimension": 0,
+        "mindifficulty": 1.69,
+        "mob": "mw:licker",
+        "healthmultiply": 0.125,
+        "damagemultiply": 1.5,
+        "maxcount": {
+            "amount": 10,
+            "perplayer": true
+        },
+        "result": "allow"
+    },
+    {
+        "dimension": 0,
+        "mindifficulty": 1.69,
+        "mob":"mw:hazmat_zombie",
+        "healthmultiply": 0.75,
+        "damagemultiply": 2,
+        "maxcount": {
+            "amount": 10,
+            "perplayer": true
+        },
+        "result": "allow"
+    },
+    {
+        "dimension": 0,
+        "mindifficulty": 1.79,
+        "mob": "mw:necromorph",
+        "healthmultiply": 0.25,
+        "damagemultiply": 3,
+        "maxcount": {
+            "amount": 5,
+            "perplayer": true
+        },
+        "result": "allow"
+    },
+    {
+        "mobs": [
+            {"mob": "mw:hazmat_zombie"},
+            {"mob": "mw:licker"},
+            {"mob": "mw:necromorph"},
+            {"mob": "mw:zombieblistered"},
+            {"mob": "mw:zombieripper"},
+            {"mob": "mw:zombie"}
+        ],
+        "result": "deny"
+    }
+]

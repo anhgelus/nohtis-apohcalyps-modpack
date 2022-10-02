@@ -1,0 +1,50 @@
+{
+	title: "A solid trapped storage",
+	x: 4.0d,
+	y: 2.0d,
+	shape: "rsquare",
+	dependencies: [
+		"81251015",
+		"fc584584"
+	],
+	hide: true,
+	tasks: [{
+		uid: "9b9af2ab",
+		type: "item",
+		items: [{
+			item: "minetraps:spikes"
+		}],
+		count: 3L
+	},
+	{
+		uid: "57be0cdd",
+		type: "item",
+		items: [{
+			item: "minecraft:redstone"
+		}],
+		count: 32L
+	},
+	{
+		uid: "abb91491",
+		type: "item",
+		items: [{
+			item: "minecraft:lever"
+		}]
+	},
+	{
+		uid: "4bf135ca",
+		type: "item",
+		items: [{
+			item: "minecraft:stone 1 6"
+		}],
+		count: 64L
+	},
+	{
+		uid: "ce5666fd",
+		type: "item",
+		items: [{
+			item: "bettercrates:wooden_crate"
+		}],
+		count: 10L
+	}]
+}

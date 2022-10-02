@@ -1,0 +1,24 @@
+{
+	x: 1.0d,
+	y: -8.0d,
+	shape: "rsquare",
+	dependencies: [
+		"3369f681"
+	],
+	hide: true,
+	tasks: [{
+		uid: "1b9c870c",
+		type: "item",
+		items: [{
+			item: "mw:m40a6"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "dbffb882",
+		type: "item",
+		item: "mw:bullet308winchester",
+		count: 3
+	}]
+}

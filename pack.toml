@@ -1,0 +1,13 @@
+name = "Nohtis Apohcalyps"
+author = "Anhgelus Morhtuuzh"
+version = "0.13.3"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "dc15c34df8d579612abe52a78658507e4fcf0be9ce01c2794b19bf12a52cc446"
+
+[versions]
+forge = "14.23.0.2486"
+minecraft = "1.12.2"

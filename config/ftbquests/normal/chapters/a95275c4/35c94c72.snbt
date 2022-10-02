@@ -1,0 +1,16 @@
+{
+	title: "Understanding redstone",
+	x: 2.5d,
+	y: -3.0d,
+	shape: "rsquare",
+	dependencies: [
+		"a5a72822"
+	],
+	tasks: [{
+		uid: "2f10891e",
+		type: "item",
+		items: [{
+			item: "minecraft:repeater"
+		}]
+	}]
+}

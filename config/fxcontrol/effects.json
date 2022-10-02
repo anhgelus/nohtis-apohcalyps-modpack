@@ -1,0 +1,14 @@
+[
+    {
+        "timeout": 100,
+        "seesky": true,
+        "summer": true,
+        "fire": 3
+    },
+    {
+        "timeout": 100,
+        "winter": true,
+        "damage": "fall=2.0",
+        "potion": "minecraft:slowness,100,1"
+    }
+]

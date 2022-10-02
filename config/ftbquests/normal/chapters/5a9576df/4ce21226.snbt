@@ -1,0 +1,17 @@
+{
+	x: 0.0d,
+	y: 7.5d,
+	shape: "rsquare",
+	dependencies: [
+		"300ce857"
+	],
+	tasks: [{
+		uid: "431d6b1a",
+		type: "item",
+		items: [{
+			item: "mts:unuparts.unuparts_part_unu_seat_standard_ivory"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

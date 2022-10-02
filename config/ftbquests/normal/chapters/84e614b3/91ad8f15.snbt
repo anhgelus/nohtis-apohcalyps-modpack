@@ -1,0 +1,23 @@
+{
+	title: "Many crates for an important stuff",
+	x: 5.5d,
+	y: 0.0d,
+	shape: "rsquare",
+	dependencies: [
+		"8b713248"
+	],
+	hide: true,
+	tasks: [{
+		uid: "77fbd553",
+		type: "item",
+		items: [{
+			item: "bettercrates:wooden_crate"
+		}],
+		count: 16L
+	}],
+	rewards: [{
+		uid: "27f11c96",
+		type: "item",
+		item: "mw:tactical_helmet"
+	}]
+}

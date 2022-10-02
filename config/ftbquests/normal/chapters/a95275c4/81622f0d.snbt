@@ -1,0 +1,23 @@
+{
+	title: "Furnace's Power",
+	x: -3.0d,
+	y: 1.5d,
+	description: "More furnace = more foods",
+	dependencies: [
+		"ab376cde"
+	],
+	tasks: [{
+		uid: "6a0318d1",
+		type: "item",
+		items: [{
+			item: "minecraft:furnace"
+		}],
+		count: 5L
+	}],
+	rewards: [{
+		uid: "ce15c841",
+		type: "item",
+		item: "minecraft:coal",
+		count: 3
+	}]
+}

@@ -1,0 +1,18 @@
+{
+	title: "Get a fuel pump",
+	x: 0.0d,
+	y: 7.0d,
+	shape: "gear",
+	dependencies: [
+		"e189f1d0"
+	],
+	tasks: [{
+		uid: "30d62356",
+		type: "item",
+		items: [{
+			item: "mts:fuelpump"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

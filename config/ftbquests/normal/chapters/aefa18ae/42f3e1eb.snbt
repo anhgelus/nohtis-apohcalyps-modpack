@@ -1,0 +1,37 @@
+{
+	title: "Juggernaut Armor",
+	x: 0.0d,
+	y: -4.0d,
+	shape: "rsquare",
+	dependencies: [
+		"f34f2f3e"
+	],
+	hide: true,
+	tasks: [{
+		uid: "c0d9daa3",
+		type: "item",
+		items: [{
+			item: "mw:juggernaut_helmet"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "4ece3871",
+		type: "item",
+		items: [{
+			item: "mw:juggernaut_chest"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "de260bd8",
+		type: "item",
+		items: [{
+			item: "mw:juggernaut_boots"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

@@ -1,0 +1,27 @@
+{
+	title: "COOOOAAAALLLLLS",
+	x: -8.0d,
+	y: 0.5d,
+	shape: "gear",
+	description: "Sorry for you, you waste lot of moneys and times",
+	dependencies: [
+		"f8c3e92f",
+		"d2485f1d",
+		"d39a2768"
+	],
+	hide: true,
+	tasks: [{
+		uid: "7b9dadf9",
+		type: "item",
+		items: [{
+			item: "minecraft:coal"
+		}],
+		count: 64L
+	}],
+	rewards: [{
+		uid: "2cb63fdc",
+		type: "item",
+		item: "minecraft:cooked_beef",
+		count: 16
+	}]
+}

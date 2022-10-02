@@ -1,0 +1,18 @@
+{
+	x: 0.0d,
+	y: -4.0d,
+	shape: "rsquare",
+	dependencies: [
+		"1002556f",
+		"b0c0e2ee"
+	],
+	hide: true,
+	dependency_requirement: "one_completed",
+	tasks: [{
+		uid: "18668475",
+		type: "item",
+		items: [{
+			item: "mw:urban_assault_backpack"
+		}]
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: -2.5d,
+	y: 4.0d,
+	shape: "rsquare",
+	dependencies: [
+		"81251015",
+		"1ade930e"
+	],
+	tasks: [{
+		uid: "c5618339",
+		type: "item",
+		items: [{
+			item: "grapplemod:block_grapple_modifier"
+		}]
+	}]
+}

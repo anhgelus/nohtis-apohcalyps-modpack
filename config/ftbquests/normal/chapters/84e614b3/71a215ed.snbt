@@ -1,0 +1,17 @@
+{
+	x: -6.0d,
+	y: 4.0d,
+	shape: "rsquare",
+	dependencies: [
+		"5b0bfa4a"
+	],
+	tasks: [{
+		uid: "bd2f03c0",
+		type: "item",
+		items: [{
+			item: "grapplemod:ropeupgradeitem"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

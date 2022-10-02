@@ -1,0 +1,18 @@
+{
+	x: 3.0d,
+	y: 4.5d,
+	shape: "rsquare",
+	description: "200°C (392°F), everything is okay",
+	dependencies: [
+		"d94f73fa"
+	],
+	tasks: [{
+		uid: "100bcc42",
+		type: "item",
+		items: [{
+			item: "mts:iv_tpp.trin_car-boat_gauge_blue_enginetemp_c"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

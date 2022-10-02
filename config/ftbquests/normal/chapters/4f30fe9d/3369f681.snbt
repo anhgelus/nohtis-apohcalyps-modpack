@@ -1,0 +1,23 @@
+{
+	x: 1.0d,
+	y: -6.0d,
+	shape: "rsquare",
+	dependencies: [
+		"65efb2b7"
+	],
+	tasks: [{
+		uid: "7e3b50c1",
+		type: "item",
+		items: [{
+			item: "mw:scar_l"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "6ccf339a",
+		type: "item",
+		item: "mw:bullet556x45",
+		count: 15
+	}]
+}

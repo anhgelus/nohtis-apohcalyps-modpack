@@ -1,0 +1,13 @@
+name = "Mob Dismemberment"
+filename = "MobDismemberment-1.12.2-7.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e8f62b290746e6713e5233cc1c187e20a08489e3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2487081
+project-id = 229067

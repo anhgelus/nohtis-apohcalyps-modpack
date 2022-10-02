@@ -1,0 +1,24 @@
+[
+  {
+    "type": "condition",
+    "name": "chestloot",
+    "values": [
+      {
+        "factor": 12,
+        "value": "nohtis-apohcalyps:chests/rare"
+      },
+      {
+        "factor": 4,
+        "value": "nohtis-apohcalyps:chests/epic"
+      },
+      {
+        "factor": 1,
+        "value": "nohtis-apohcalyps:chests/legendary"
+      },
+      {
+        "factor": 25,
+        "value": "nohtis-apohcalyps:chests/common"
+      }
+    ]
+  }
+]

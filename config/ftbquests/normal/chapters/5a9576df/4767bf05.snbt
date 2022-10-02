@@ -1,0 +1,16 @@
+{
+	x: 2.0d,
+	y: -7.5d,
+	dependencies: [
+		"27e7e047"
+	],
+	tasks: [{
+		uid: "78a753b1",
+		type: "item",
+		items: [{
+			item: "mts:iv_tpp.trin_seat_1_beige"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

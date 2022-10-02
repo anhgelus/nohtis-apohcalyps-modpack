@@ -1,0 +1,148 @@
+[
+    {
+        "mob": "minecraft:zombie",
+        "removeall": true
+    },
+    {
+        "mob": "minecraft:zombie",
+        "item": "minecraft:rotten_flesh",
+        "itemcount": "1-2"
+    },
+    {
+        "mob": "minecraft:zombie",
+        "item": "minecraft:porkchop",
+        "itemcount": "0-1"
+    },
+    {
+        "mob": "minecraft:cow",
+        "removeall": true
+    },
+    {
+        "mob": "minecraft:pig",
+        "removeall": true
+    },
+    {
+        "mob": "minecraft:sheep",
+        "removeall": true
+    },
+    {
+        "mob": "minecraft:pig",
+        "item": "minecraft:porkchop",
+        "itemcount": "2-4"
+    },
+    {
+        "mob": "minecraft:cow",
+        "item": "minecraft:beef",
+        "itemcount": "2-4"
+    },
+    {
+        "mob": "minecraft:sheep",
+        "item": "minecraft:mutton",
+        "itemcount": "3-5"
+    },
+    {
+        "mob": "mw:zombie",
+        "item": "minecraft:rotten_flesh",
+        "itemcount": "0-2"
+    },
+    {
+        "mob": "mw:zombie",
+        "item": "minecraft:golden_apple",
+        "itemcount": "0-1"
+    },
+    {
+        "mob": "mw:zombie",
+        "item": "mw:bullet9x19mm",
+        "itemcount": "0-1"
+    },
+    {
+        "mob": "mw:zombieblistered",
+        "item": "minecraft:rotten_flesh",
+        "itemcount": "2-10"
+    },
+    {
+        "mob": "mw:zombieblistered",
+        "item": "mw:bullet762x39",
+        "itemcount": "0-3"
+    },
+    {
+        "mob": "mw:zombieblistered",
+        "item": "mw:bullet9x19mm",
+        "itemcount": "1-4"
+    },
+    {
+        "mob": "mw:zombieblistered",
+        "item": "firstaid:plaster",
+        "itemcount": "0-1"
+    },
+    {
+        "mob": "mw:zombieripper",
+        "item": "minecraft:rotten_flesh",
+        "itemcount": "1-3"
+    },
+    {
+        "mob": "mw:zombieripper",
+        "item": "minecraft:bullet556x45",
+        "itemcount": "0-3"
+    },
+    {
+        "mob": "mw:zombieripper",
+        "item": "firstaid:plaster",
+        "itemcount": "0-1"
+    },
+    {
+        "mob": "mw:zombieripper",
+        "item": "mw:bullet762x39",
+        "itemcount": "1-4"
+    },
+    {
+        "mob": "mw:hazmat_zombie",
+        "item": "minecraft:rotten_flesh",
+        "itemcount": "2-10"
+    },
+    {
+        "mob": "mw:hazmat_zombie",
+        "item": "mw:m40gasmask_helmet",
+        "itemcount": "0/0-1"
+    },
+    {
+        "mob": "mw:hazmat_zombie",
+        "item": "mw:gasgrenade",
+        "itemcount": "0-1"
+    },
+    {
+        "mob": "mw:hazmat_zombie",
+        "item": "mw:urban_blackhawk_stealth_backpack",
+        "itemcount": "0-1"
+    },
+    {
+        "mob": "mw:licker",
+        "item": "minecraft:rotten_flesh",
+        "itemcount": "3-11"
+    },
+    {
+        "mob": "mw:licker",
+        "item": "minecraft:coal",
+        "itemcount": "0-2"
+    },
+    {
+        "mob": "mw:necromorph",
+        "item": "minecraft:rotten_flesh",
+        "itemcount": "4-12"
+    },
+    {
+        "mob": "mw:necromorph",
+        "item": "mw:urban_f4m_terminator_backpack",
+        "itemcount": "0-1"
+    },
+    {
+        "mob": "mw:necromorph",
+        "item": "mw:m40a6",
+        "itemcount": "0-1"
+    },
+    {
+        "mob": "mw:necromorph",
+        "item": "firstaid:bandage",
+        "itemcount": "0-2"
+    }
+]

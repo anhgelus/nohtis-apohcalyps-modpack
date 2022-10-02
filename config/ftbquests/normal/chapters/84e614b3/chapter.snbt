@@ -1,0 +1,7 @@
+{
+	title: "Base level 2",
+	icon: "bettercrates:wooden_crate",
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}

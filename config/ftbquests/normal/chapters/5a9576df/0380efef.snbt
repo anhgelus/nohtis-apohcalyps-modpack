@@ -1,0 +1,18 @@
+{
+	x: 6.0d,
+	y: 6.5d,
+	shape: "gear",
+	description: "PSI, PSI, Psychologic?",
+	dependencies: [
+		"c12f283e"
+	],
+	tasks: [{
+		uid: "ae322295",
+		type: "item",
+		items: [{
+			item: "mts:iv_tpp.trin_car-boat_gauge_blue_oilpressure_psi"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

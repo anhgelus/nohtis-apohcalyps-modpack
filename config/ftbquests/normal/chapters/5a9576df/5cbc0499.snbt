@@ -1,0 +1,17 @@
+{
+	x: 3.0d,
+	y: -3.0d,
+	shape: "rsquare",
+	dependencies: [
+		"77ca080e"
+	],
+	tasks: [{
+		uid: "e7a0adc5",
+		type: "item",
+		items: [{
+			item: "mts:iv_tpp.trin_v6_turbo"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

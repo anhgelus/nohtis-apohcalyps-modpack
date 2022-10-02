@@ -1,0 +1,17 @@
+{
+	title: "Get a crate",
+	x: 0.0d,
+	y: 1.5d,
+	dependencies: [
+		"7dda20f2",
+		"10caef23"
+	],
+	hide: true,
+	tasks: [{
+		uid: "939d78df",
+		type: "item",
+		items: [{
+			item: "bettercrates:wooden_crate"
+		}]
+	}]
+}

@@ -1,0 +1,14 @@
+{
+	x: 0.0d,
+	y: 2.0d,
+	dependencies: [
+		"80266bed"
+	],
+	tasks: [{
+		uid: "0566befe",
+		type: "item",
+		items: [{
+			item: "mw:urban_flyye_molle_rrv"
+		}]
+	}]
+}

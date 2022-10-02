@@ -1,0 +1,20 @@
+{
+	title: "Wheel x4",
+	x: 2.0d,
+	y: -5.0d,
+	dependencies: [
+		"5cbc0499",
+		"0591b577"
+	],
+	dependency_requirement: "one_completed",
+	tasks: [{
+		uid: "d1c0ca7c",
+		type: "item",
+		items: [{
+			item: "mts:iv_tpp.wheel_14h_4w_steely_c"
+		}],
+		count: 4L,
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

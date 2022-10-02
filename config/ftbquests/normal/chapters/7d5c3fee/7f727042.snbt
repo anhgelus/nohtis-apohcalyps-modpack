@@ -1,0 +1,16 @@
+{
+	x: 0.0d,
+	y: 0.0d,
+	dependencies: [
+		"1d0a01d6",
+		"ecd929c4"
+	],
+	hide: true,
+	tasks: [{
+		uid: "f46849f7",
+		type: "item",
+		items: [{
+			item: "mw:tactical_push_backpack"
+		}]
+	}]
+}

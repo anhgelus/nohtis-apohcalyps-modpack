@@ -1,0 +1,15 @@
+{
+	x: 0.0d,
+	y: -10.0d,
+	shape: "rsquare",
+	dependencies: [
+		"862eaeb9"
+	],
+	tasks: [{
+		uid: "51164639",
+		type: "item",
+		items: [{
+			item: "mw:urban_f4m_terminator_backpack"
+		}]
+	}]
+}

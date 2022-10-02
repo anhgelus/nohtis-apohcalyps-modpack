@@ -1,0 +1,29 @@
+{
+	x: 0.0d,
+	y: 0.0d,
+	tasks: [{
+		uid: "0c590e54",
+		type: "checkmark",
+		title: "Find the quests gui",
+		icon: "ftbquests:book"
+	}],
+	rewards: [{
+		uid: "0ae70a45",
+		type: "item",
+		item: {
+			id: "mw:baseball_bat",
+			tag: {}
+		}
+	},
+	{
+		uid: "f4fa2d26",
+		type: "item",
+		item: "minecraft:cooked_porkchop",
+		count: 5
+	},
+	{
+		uid: "9e22eb75",
+		type: "item",
+		item: "flashlight:flashlight"
+	}]
+}

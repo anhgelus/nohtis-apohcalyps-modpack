@@ -1,0 +1,22 @@
+{
+	x: 1.5d,
+	y: -1.0d,
+	description: "Or, how to create a trap",
+	dependencies: [
+		"ab376cde"
+	],
+	tasks: [{
+		uid: "fd6b42d6",
+		type: "item",
+		items: [{
+			item: "minecraft:redstone"
+		}],
+		count: 32L
+	}],
+	rewards: [{
+		uid: "291c9b12",
+		type: "item",
+		item: "minecraft:redstone_torch",
+		count: 3
+	}]
+}

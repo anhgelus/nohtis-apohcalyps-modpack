@@ -1,0 +1,22 @@
+{
+	title: "Weather Alert",
+	x: -5.5d,
+	y: 0.0d,
+	shape: "rsquare",
+	dependencies: [
+		"7d03a9fb"
+	],
+	tasks: [{
+		uid: "e28e8621",
+		type: "item",
+		items: [{
+			item: "weather2:tornado_siren"
+		}]
+	}],
+	rewards: [{
+		uid: "3d459630",
+		type: "item",
+		item: "minecraft:stone 1 6",
+		count: 8
+	}]
+}

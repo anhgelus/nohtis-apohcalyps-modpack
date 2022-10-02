@@ -1,0 +1,17 @@
+{
+	x: -1.5d,
+	y: 2.5d,
+	dependencies: [
+		"775d7954"
+	],
+	tasks: [{
+		uid: "721b7687",
+		type: "item",
+		items: [{
+			id: "mw:tactical_tomahawk",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

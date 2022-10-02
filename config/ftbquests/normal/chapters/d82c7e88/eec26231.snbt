@@ -1,0 +1,35 @@
+{
+	x: 2.5d,
+	y: -3.0d,
+	shape: "rsquare",
+	dependencies: [
+		"bc9852a9"
+	],
+	tasks: [{
+		uid: "b396edc7",
+		type: "stat",
+		title: "Entity farming II",
+		icon: {
+			id: "minecraft:spawn_egg",
+			tag: {
+				EntityTag: {
+					id: "minecraft:chicken"
+				}
+			}
+		},
+		stat: "stat.mobKills",
+		value: 500
+	}],
+	rewards: [{
+		uid: "a7a02c21",
+		type: "item",
+		item: "minecraft:cooked_beef",
+		count: 32
+	},
+	{
+		uid: "c6fb18ce",
+		type: "item",
+		item: "mw:bullet556x45",
+		count: 16
+	}]
+}

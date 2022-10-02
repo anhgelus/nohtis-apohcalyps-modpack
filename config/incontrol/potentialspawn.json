@@ -1,0 +1,66 @@
+[
+    {
+        "dimension": 0,
+        "mobs": [
+          {
+            "mob": "mw:zombie",
+            "weight": 10,
+            "groupcountmin": 2,
+            "groupcountmax": 4
+          }
+        ]
+    },
+    {
+        "dimension": 0,
+        "mobs": [
+          {
+            "mob": "mw:zombieblistered",
+            "weight": 7,
+            "groupcountmin": 2,
+            "groupcountmax": 4
+          }
+        ]
+    },
+    {
+        "dimension": 0,
+        "mobs": [
+          {
+            "mob": "mw:zombieripper",
+            "weight": 5,
+            "groupcountmin": 2,
+            "groupcountmax": 4
+          }
+        ]
+    },
+    {
+        "dimension": 0,
+        "mobs": [
+          {
+            "mob": "mw:hazmat_zombie",
+            "weight": 5,
+            "groupcountmin": 1,
+            "groupcountmax": 3
+          }
+        ]
+    },
+    {
+        "dimension": 0,
+        "mobs": [
+          {
+            "mob": "mw:licker",
+            "weight": 3,
+            "groupcountmin": 2,
+            "groupcountmax": 3
+          }
+        ]
+    },
+    {
+        "dimension": 0,
+        "mobs": [
+          {
+            "mob": "mw:necromorph",
+            "weight": 1
+          }
+        ]
+    }
+]

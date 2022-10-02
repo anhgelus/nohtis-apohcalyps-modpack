@@ -1,0 +1,18 @@
+{
+	title: "Red car",
+	x: 2.0d,
+	y: -1.0d,
+	description: "A cool car",
+	dependencies: [
+		"dad1a6b8"
+	],
+	tasks: [{
+		uid: "9e92eb76",
+		type: "item",
+		items: [{
+			item: "mts:iv_tcp_v3.trin_urlon_sedan_compass_comfort_firered_g"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

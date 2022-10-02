@@ -1,0 +1,19 @@
+{
+	title: "White Car",
+	x: -1.5d,
+	y: -1.0d,
+	shape: "circle",
+	description: "A basic car",
+	dependencies: [
+		"dad1a6b8"
+	],
+	tasks: [{
+		uid: "4589afa2",
+		type: "item",
+		items: [{
+			item: "mts:iv_tcp_v3.trin_urlon_sedan_compass_root_sage_g"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

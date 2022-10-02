@@ -1,0 +1,17 @@
+{
+	x: -1.0d,
+	y: 3.5d,
+	shape: "rsquare",
+	dependencies: [
+		"66d22b3b"
+	],
+	tasks: [{
+		uid: "755c5ef7",
+		type: "item",
+		items: [{
+			item: "mts:iv_tpp.trin_v8"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

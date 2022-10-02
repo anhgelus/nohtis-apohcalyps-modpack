@@ -1,0 +1,24 @@
+{
+	title: "Storage",
+	x: 3.0d,
+	y: 0.0d,
+	dependencies: [
+		"2d1dd881",
+		"177b583e"
+	],
+	hide: true,
+	tasks: [{
+		uid: "3987a935",
+		type: "item",
+		items: [{
+			item: "bettercrates:wooden_crate"
+		}],
+		count: 8L
+	}],
+	rewards: [{
+		uid: "f8d3d14c",
+		type: "item",
+		item: "bettercrates:wooden_crate",
+		count: 2
+	}]
+}

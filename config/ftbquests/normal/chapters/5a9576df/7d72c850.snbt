@@ -1,0 +1,19 @@
+{
+	x: 4.0d,
+	y: 2.0d,
+	shape: "rsquare",
+	description: "Use it to siphon a vehicle",
+	dependencies: [
+		"50c49682"
+	],
+	hide: true,
+	tasks: [{
+		uid: "76882803",
+		type: "item",
+		items: [{
+			item: "mts:fuelhose"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

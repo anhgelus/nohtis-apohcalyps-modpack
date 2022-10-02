@@ -1,0 +1,15 @@
+{
+	x: 0.0d,
+	y: 8.0d,
+	shape: "rsquare",
+	dependencies: [
+		"c2c053f3"
+	],
+	tasks: [{
+		uid: "b6dff9fd",
+		type: "item",
+		items: [{
+			item: "mw:fort_armor"
+		}]
+	}]
+}

@@ -1,0 +1,35 @@
+{
+	title: "SCAR Armor",
+	x: 0.0d,
+	y: -2.0d,
+	dependencies: [
+		"80266bed"
+	],
+	tasks: [{
+		uid: "ba0f41a6",
+		type: "item",
+		items: [{
+			item: "mw:scar_helmet"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "6a900e2c",
+		type: "item",
+		items: [{
+			item: "mw:scar_chest"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "986e6b28",
+		type: "item",
+		items: [{
+			item: "mw:scar_boots"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

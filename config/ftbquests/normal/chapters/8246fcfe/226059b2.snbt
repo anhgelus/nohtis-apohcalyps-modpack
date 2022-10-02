@@ -1,0 +1,31 @@
+{
+	title: "Shop",
+	x: 0.0d,
+	y: 2.0d,
+	can_repeat: true,
+	dependencies: [
+		"a0b6a1a8"
+	],
+	optional: true,
+	tasks: [{
+		uid: "f6156f1f",
+		type: "item",
+		items: [{
+			item: "minecraft:rotten_flesh"
+		}],
+		count: 64L
+	},
+	{
+		uid: "8699397e",
+		type: "item",
+		items: [{
+			item: "minecraft:rotten_flesh"
+		}],
+		count: 32L
+	}],
+	rewards: [{
+		uid: "0288a551",
+		type: "item",
+		item: "adminshop:shop"
+	}]
+}

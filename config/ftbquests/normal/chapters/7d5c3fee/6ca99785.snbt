@@ -1,0 +1,16 @@
+{
+	x: 1.5d,
+	y: 1.0d,
+	dependencies: [
+		"7f727042"
+	],
+	tasks: [{
+		uid: "3d68a38a",
+		type: "item",
+		items: [{
+			item: "mw:silencer762x39"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

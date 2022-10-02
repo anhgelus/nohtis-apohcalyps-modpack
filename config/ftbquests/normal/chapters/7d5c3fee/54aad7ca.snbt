@@ -1,0 +1,16 @@
+{
+	x: -1.5d,
+	y: 1.0d,
+	dependencies: [
+		"7f727042"
+	],
+	tasks: [{
+		uid: "84b3333c",
+		type: "item",
+		items: [{
+			item: "mw:holographicalt"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

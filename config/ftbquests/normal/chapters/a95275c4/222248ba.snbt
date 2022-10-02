@@ -1,0 +1,17 @@
+{
+	icon: "minecraft:furnace",
+	x: -3.0d,
+	y: -2.5d,
+	description: "Use at many times a furnace",
+	dependencies: [
+		"2c194173"
+	],
+	tasks: [{
+		uid: "4f95741e",
+		type: "stat",
+		title: "Like furnace",
+		icon: "minecraft:fire_charge",
+		stat: "stat.furnaceInteraction",
+		value: 10
+	}]
+}

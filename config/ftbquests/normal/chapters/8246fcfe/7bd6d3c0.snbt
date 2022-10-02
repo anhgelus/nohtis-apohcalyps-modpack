@@ -1,0 +1,22 @@
+{
+	x: 0.0d,
+	y: -2.5d,
+	dependencies: [
+		"a0b6a1a8"
+	],
+	tasks: [{
+		uid: "fc5cd415",
+		type: "kill",
+		title: "Apocalypse",
+		icon: {
+			id: "minecraft:spawn_egg",
+			tag: {
+				EntityTag: {
+					id: "minecraft:zombie"
+				}
+			}
+		},
+		entity: "minecraft:zombie",
+		value: 10L
+	}]
+}

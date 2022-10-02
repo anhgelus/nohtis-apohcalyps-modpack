@@ -1,0 +1,25 @@
+{
+	title: "A solid storage",
+	x: 0.0d,
+	y: 2.5d,
+	dependencies: [
+		"7d03a9fb",
+		"8b713248"
+	],
+	tasks: [{
+		uid: "b67b3a5d",
+		type: "item",
+		items: [{
+			item: "minecraft:stone 1 6"
+		}],
+		count: 64L
+	},
+	{
+		uid: "b0be38ad",
+		type: "item",
+		items: [{
+			item: "bettercrates:wooden_crate"
+		}],
+		count: 3L
+	}]
+}

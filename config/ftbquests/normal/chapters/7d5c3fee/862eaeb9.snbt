@@ -1,0 +1,15 @@
+{
+	x: 0.0d,
+	y: -8.0d,
+	shape: "rsquare",
+	dependencies: [
+		"86e45cd3"
+	],
+	tasks: [{
+		uid: "1fd14b14",
+		type: "item",
+		items: [{
+			item: "mw:urban_mil_spec_alice_backpack"
+		}]
+	}]
+}

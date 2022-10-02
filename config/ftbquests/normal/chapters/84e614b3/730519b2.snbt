@@ -1,0 +1,31 @@
+{
+	title: "First trap",
+	x: 0.0d,
+	y: -2.5d,
+	dependencies: [
+		"177b583e"
+	],
+	hide: true,
+	tasks: [{
+		uid: "372411f7",
+		type: "item",
+		items: [{
+			item: "minecraft:redstone"
+		}],
+		count: 16L
+	},
+	{
+		uid: "61bd0af1",
+		type: "item",
+		items: [{
+			item: "minetraps:spikes"
+		}],
+		count: 5L
+	}],
+	rewards: [{
+		uid: "438b10de",
+		type: "item",
+		item: "minecraft:redstone_torch",
+		count: 5
+	}]
+}

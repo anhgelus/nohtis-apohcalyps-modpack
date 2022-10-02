@@ -1,0 +1,16 @@
+{
+	x: -2.5d,
+	y: -3.0d,
+	dependencies: [
+		"d2db79ce"
+	],
+	tasks: [{
+		uid: "937f0239",
+		type: "item",
+		items: [{
+			item: "mts:iv_tpp.trin_i4"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

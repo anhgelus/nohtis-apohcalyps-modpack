@@ -1,0 +1,17 @@
+{
+	title: "Coal is life",
+	x: -7.0d,
+	y: 3.0d,
+	shape: "rsquare",
+	dependencies: [
+		"9acde1a9"
+	],
+	tasks: [{
+		uid: "6c7f1075",
+		type: "item",
+		items: [{
+			item: "minecraft:coal"
+		}],
+		count: 32L
+	}]
+}

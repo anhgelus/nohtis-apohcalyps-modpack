@@ -1,0 +1,17 @@
+{
+	x: 0.0d,
+	y: 0.0d,
+	description: "Who said solid base?",
+	dependencies: [
+		"bebf5a54"
+	],
+	hide: true,
+	tasks: [{
+		uid: "54e64e7a",
+		type: "item",
+		items: [{
+			item: "minecraft:stone 1 6"
+		}],
+		count: 64L
+	}]
+}

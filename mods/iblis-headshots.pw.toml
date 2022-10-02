@@ -1,0 +1,13 @@
+name = "Iblis Headshots"
+filename = "iblis-headshots-1.2.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "bdccf5569dca6cbd9f0d9029873ab8a638836bed"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2742537
+project-id = 306886

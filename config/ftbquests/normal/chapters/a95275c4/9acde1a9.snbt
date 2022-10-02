@@ -1,0 +1,16 @@
+{
+	title: "Get coals",
+	x: -5.0d,
+	y: 2.5d,
+	dependencies: [
+		"81622f0d"
+	],
+	tasks: [{
+		uid: "61a737b7",
+		type: "item",
+		items: [{
+			item: "minecraft:coal"
+		}],
+		count: 15L
+	}]
+}

@@ -1,0 +1,13 @@
+name = "Immersive Vehicles Trin Civil Pack V3"
+filename = "IV_Trin_Civil_Pack_V3.18.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "135c712dff972fed2156fabc1eefed9409f745b6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3837929
+project-id = 305830

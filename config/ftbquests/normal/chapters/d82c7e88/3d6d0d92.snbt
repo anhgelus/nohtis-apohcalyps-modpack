@@ -1,0 +1,27 @@
+{
+	icon: "minecraft:skull 1 2",
+	x: 0.0d,
+	y: -7.0d,
+	shape: "rsquare",
+	dependencies: [
+		"d1315d88"
+	],
+	tasks: [{
+		uid: "a27020e4",
+		type: "kill",
+		title: "Zombie IV",
+		entity: "minecraft:zombie",
+		value: 600L
+	}],
+	rewards: [{
+		uid: "1e4d3c47",
+		type: "item",
+		item: "mw:spas_12"
+	},
+	{
+		uid: "387bc77e",
+		type: "item",
+		item: "mw:shotgun12gauge",
+		count: 16
+	}]
+}

@@ -1,0 +1,18 @@
+{
+	x: 0.25d,
+	y: 0.0d,
+	description: "Get this book to have lot of informations about vehicles!",
+	dependencies: [
+		"8bd29201"
+	],
+	hide: true,
+	tasks: [{
+		uid: "702da366",
+		type: "item",
+		items: [{
+			item: "mts:handbook_en"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

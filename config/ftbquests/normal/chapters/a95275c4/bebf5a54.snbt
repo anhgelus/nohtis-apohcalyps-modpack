@@ -1,0 +1,16 @@
+{
+	x: -3.5d,
+	y: 7.5d,
+	shape: "gear",
+	dependencies: [
+		"8ad6285e",
+		"b657481a"
+	],
+	hide: true,
+	tasks: [{
+		uid: "1b64d07c",
+		type: "checkmark",
+		title: "Base level 2",
+		icon: "minecraft:stone 1 6"
+	}]
+}

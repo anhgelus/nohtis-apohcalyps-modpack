@@ -1,0 +1,24 @@
+{
+	title: "Get the base pistol (Glock-19)",
+	x: 0.0d,
+	y: 1.0d,
+	dependencies: [
+		"2b2decc6"
+	],
+	hide: true,
+	tasks: [{
+		uid: "c205aba4",
+		type: "item",
+		items: [{
+			item: "mw:glock_19"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "8af1bbfe",
+		type: "item",
+		item: "mw:bullet9x19mm",
+		count: 15
+	}]
+}

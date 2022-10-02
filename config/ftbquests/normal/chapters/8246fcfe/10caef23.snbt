@@ -1,0 +1,21 @@
+{
+	title: "Find a furnace",
+	icon: "minecraft:furnace",
+	x: -5.0d,
+	y: -2.5d,
+	dependencies: [
+		"6752e9d5"
+	],
+	tasks: [{
+		uid: "c825a8fa",
+		type: "item",
+		items: [{
+			item: "minecraft:furnace"
+		}]
+	}],
+	rewards: [{
+		uid: "73d066cd",
+		type: "item",
+		item: "minecraft:coal"
+	}]
+}

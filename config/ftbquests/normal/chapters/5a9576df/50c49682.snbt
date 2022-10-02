@@ -1,0 +1,16 @@
+{
+	x: 2.0d,
+	y: 1.5d,
+	dependencies: [
+		"dad1a6b8"
+	],
+	tasks: [{
+		uid: "5d54c869",
+		type: "item",
+		items: [{
+			item: "mts:wrench"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

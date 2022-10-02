@@ -1,0 +1,18 @@
+{
+	title: "Poisonous trap",
+	x: -4.0d,
+	y: 5.5d,
+	shape: "rsquare",
+	dependencies: [
+		"257a67ca",
+		"03be73f8"
+	],
+	tasks: [{
+		uid: "0028d2f5",
+		type: "item",
+		items: [{
+			item: "minetraps:toxic_nail_trap"
+		}],
+		count: 3L
+	}]
+}

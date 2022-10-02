@@ -1,0 +1,25 @@
+{
+	title: "STAY PROTECTED",
+	x: -1.0d,
+	y: 7.0d,
+	shape: "rsquare",
+	dependencies: [
+		"d7cd2005",
+		"03be73f8"
+	],
+	hide: true,
+	tasks: [{
+		uid: "6705ecb1",
+		type: "item",
+		items: [{
+			item: "minetraps:razor_wire"
+		}],
+		count: 5L
+	}],
+	rewards: [{
+		uid: "cea038cf",
+		type: "item",
+		item: "minetraps:razor_wire",
+		count: 5
+	}]
+}

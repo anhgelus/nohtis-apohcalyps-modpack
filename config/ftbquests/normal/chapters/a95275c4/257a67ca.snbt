@@ -1,0 +1,23 @@
+{
+	title: "SPIKES",
+	x: -3.0d,
+	y: 4.0d,
+	dependencies: [
+		"6199c83d"
+	],
+	hide: true,
+	tasks: [{
+		uid: "92b096c2",
+		type: "item",
+		items: [{
+			item: "minetraps:spikes"
+		}],
+		count: 3L
+	}],
+	rewards: [{
+		uid: "94e92f2c",
+		type: "item",
+		item: "minecraft:redstone",
+		count: 5
+	}]
+}

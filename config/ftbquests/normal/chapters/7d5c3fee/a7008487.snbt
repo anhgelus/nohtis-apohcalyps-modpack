@@ -1,0 +1,16 @@
+{
+	x: 0.0d,
+	y: 2.5d,
+	dependencies: [
+		"7f727042"
+	],
+	tasks: [{
+		uid: "8a03b1da",
+		type: "item",
+		items: [{
+			item: "mw:gas-detector"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

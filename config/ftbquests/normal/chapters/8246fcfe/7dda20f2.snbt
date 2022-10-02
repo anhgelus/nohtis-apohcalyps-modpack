@@ -1,0 +1,23 @@
+{
+	x: -3.0d,
+	y: -3.5d,
+	shape: "rsquare",
+	description: "Can stock stuff",
+	dependencies: [
+		"6752e9d5"
+	],
+	hide: true,
+	tasks: [{
+		uid: "3eb2f55b",
+		type: "item",
+		items: [{
+			item: "bettercrates:wooden_crate"
+		}]
+	}],
+	rewards: [{
+		uid: "7b889f82",
+		type: "item",
+		item: "mw:bullet9x19mm",
+		count: 15
+	}]
+}

@@ -1,0 +1,33 @@
+{
+	x: 0.0d,
+	y: -9.0d,
+	shape: "gear",
+	description: "No life I",
+	dependencies: [
+		"3d6d0d92"
+	],
+	tasks: [{
+		uid: "e0b400d0",
+		type: "kill",
+		title: "Zombie V",
+		entity: "minecraft:zombie",
+		value: 1000L
+	}],
+	rewards: [{
+		uid: "b7732364",
+		type: "item",
+		item: "mw:m45"
+	},
+	{
+		uid: "270a56af",
+		type: "item",
+		item: "mw:shotgun12gauge",
+		count: 16
+	},
+	{
+		uid: "5128efa2",
+		type: "item",
+		item: "mw:bullet556x45",
+		count: 32
+	}]
+}
