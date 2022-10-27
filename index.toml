@@ -1776,6 +1776,11 @@ hash = "69c3c017648cdadabf61d08d401a90da58a41487075e7937595547cb6adf3cbd"
 metafile = true
 
 [[files]]
+file = "mods/enhancedvisuals.pw.toml"
+hash = "72c8a08dba8daaa616991c79feae5e9ccc2ed5373bf759b7d09ab490b4e452e1"
+metafile = true
+
+[[files]]
 file = "mods/epic-siege-mod.pw.toml"
 hash = "94f6a3d42c20d0e022ae802cca23568d8e288b086e9b2667527d798257b26f59"
 metafile = true
