@@ -1,3 +1,9 @@
+# v0.14.1
+
+Fix forge version crash
+
+Add Enhanced Visuals
+
 # v0.14.0
 
 Adjust price of armors and of redstone torchs
