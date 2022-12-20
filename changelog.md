@@ -1,6 +1,6 @@
 # v0.15.0
 
-Add Resource Loader, Custom Main Menu, Custom Backgrounds
+Add Resource Loader, Custom Main Menu, Custom Backgrounds, Dark Theme Mod
 
 Add Mob Amputation
 

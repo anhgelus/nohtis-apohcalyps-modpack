@@ -1,0 +1,13 @@
+name = "Dark Theme Mod"
+filename = "DarkTheme-1.12.2-12.2.15.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "83dc8fbf295a499fc2e1bb62c2d71257980ce37e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3146120
+project-id = 323440

@@ -1781,6 +1781,11 @@ hash = "a09edf92bd331270af9f88a11df2b12b7d2f1397c5a8e91d8438404df46e8d04"
 metafile = true
 
 [[files]]
+file = "mods/dark-theme-mod.pw.toml"
+hash = "449b0697f7177a287956bbf475a42cd191d0c3d781ba739c0c4fe4282b76ffe6"
+metafile = true
+
+[[files]]
 file = "mods/darknesslib.pw.toml"
 hash = "69c3c017648cdadabf61d08d401a90da58a41487075e7937595547cb6adf3cbd"
 metafile = true
