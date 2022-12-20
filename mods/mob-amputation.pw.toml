@@ -1,0 +1,13 @@
+name = "Mob Amputation"
+filename = "MobAmputation-1.12.2-7.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f7d709d53671b1080e8f68125cf5adedc19c485f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2939100
+project-id = 229105

@@ -2,9 +2,13 @@
 
 Add Resource Loader, Custom Main Menu, Custom Backgrounds
 
+Add Mob Amputation
+
 Remove resources packs and turn them into resources
 
 Add a custom main menu and change the dirt background into mossy stonebrick background
+
+Update quests and add batery in the shop
 
 # v0.14.1
 
