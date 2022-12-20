@@ -10,7 +10,7 @@ hash = "57c129c6d4045319afd6636ad663a5dabd4a9f47e3b04456a6c4a5919e50a218"
 
 [[files]]
 file = "changelog.md"
-hash = "9fe058868e91f61c72efac8b2a96600038237b6babdb5959b6e6312f9f1e1c1c"
+hash = "e228771f96248f455698818f9d50a6da109f6dc709fa3fe7b976050d34232974"
 
 [[files]]
 file = "config/CoroUtil/BlockDestruction.cfg"
@@ -1798,6 +1798,11 @@ metafile = true
 [[files]]
 file = "mods/first-aid.pw.toml"
 hash = "9fd66c7f5e411c9af1596555223bd40d9236f1c694f32e1226207882b36a6893"
+metafile = true
+
+[[files]]
+file = "mods/first-person-render.pw.toml"
+hash = "943479a7d673e181a39a61b95052990ba00d4256bfafe486de7495d5407e0f12"
 metafile = true
 
 [[files]]
