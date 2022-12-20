@@ -4,6 +4,10 @@ Add Resource Loader, Custom Main Menu, Custom Backgrounds, Dark Theme Mod
 
 Add Mob Amputation
 
+Add Improved Mobs
+
+Manage the difficulty (higher in the end game)
+
 Remove resources packs and turn them into resources
 
 Add a custom main menu and change the dirt background into mossy stonebrick background
