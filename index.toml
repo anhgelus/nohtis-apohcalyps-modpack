@@ -1771,6 +1771,11 @@ hash = "2676bfac716c4970e7cb978611cb21ebc365c461569e06a918442ccd02968c22"
 metafile = true
 
 [[files]]
+file = "mods/custom-backgrounds.pw.toml"
+hash = "27c57f2951e1779e3fa21d26208f0cbf75da0cdfea00a61b9fe5210fc5019b55"
+metafile = true
+
+[[files]]
 file = "mods/custom-main-menu.pw.toml"
 hash = "a09edf92bd331270af9f88a11df2b12b7d2f1397c5a8e91d8438404df46e8d04"
 metafile = true

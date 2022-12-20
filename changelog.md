@@ -1,10 +1,10 @@
 # v0.15.0
 
-Add Resource Loader, Custom Main Menu
+Add Resource Loader, Custom Main Menu, Custom Backgrounds
 
 Remove resources packs and turn them into resources
 
-Add a custom main menu
+Add a custom main menu and change the dirt background into mossy stonebrick background
 
 # v0.14.1
 
