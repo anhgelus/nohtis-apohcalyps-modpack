@@ -1,8 +1,10 @@
 # v0.15.0
 
-Add Resource Loader
+Add Resource Loader, Custom Main Menu
 
 Remove resources packs and turn them into resources
+
+Add a custom main menu
 
 # v0.14.1
 

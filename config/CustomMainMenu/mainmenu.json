@@ -1,0 +1,131 @@
+{
+    "images":
+    {
+        "title":
+        {
+            "image" : "custommainmenu:textures/gui/minecraft.png",
+            "posX" : -137,
+            "posY" : 70,
+            "width" : 512,
+            "height" : 512,
+            "alignment" : "top_center"
+        },
+
+        "edition":
+        {
+            "image" : "custommainmenu:textures/gui/edition.png",
+            "posX" : -49,
+            "posY" : 107,
+            "width" : 128,
+            "height" : 16,
+            "alignment" : "top_center"
+        }
+    },
+
+    "buttons":
+    {
+        "singleplayer":
+        {
+            "text": "Train yourself",
+            "hoverText" : "Get new Skills",
+            "posX" : -100,
+            "posY" : 68,
+            "width" : 200,
+            "height" : 20,
+            "action" :
+            {
+                "type" : "openGui",
+                "gui" : "singleplayer"
+            }
+        },
+
+        "multiplayer":
+        {
+            "text": "Join the Arena",
+            "hoverText" : "Join the Battle",
+            "posX" : -100,
+            "posY" : 92,
+            "width" : 200,
+            "height" : 20,
+            "action" :
+            {
+                "type" : "openGui",
+                "gui" : "multiplayer"
+            }
+        },
+
+        "options":
+        {
+            "text" : "Look At Me",
+            "hoverText": "Options",
+            "posX" : -100,
+            "posY" : 132,
+            "width" : 98,
+            "height" : 20,
+            "action" :
+            {
+                "type" : "openGui",
+                "gui" : "options"
+            }
+        },
+
+        "quit":
+        {
+            "text" : "Leave the Battle",
+            "hoverText": "And Back Later",
+            "posX" : 2,
+            "posY" : 132,
+            "width" : 98,
+            "height" : 20,
+            "action" :
+            {
+                "type" : "quit"
+            }
+        },
+
+        "refresh":
+        {
+            "text" : "",
+            "posX" : -154,
+            "posY" : 132,
+            "width" : 20,
+            "height" : 20,
+            "texture" : "custommainmenu:textures/gui/buttons.png",
+            "action" :
+            {
+                "type" : "refresh"
+            }
+        }
+    },
+
+    "labels":
+    {
+        "mojang":
+        {
+            "text" : "Copyright Mojang AB. Do not distribute!",
+            "hoverText" : "Nohtis Apohcalyps by anhgelus",
+            "posX" : -197,
+            "posY" : -10,
+            "color" : -1,
+            "alignment" : "bottom_right",
+            "action" :
+            {
+                "type" : "openGui",
+                "gui" : "credits"
+            }
+        }
+    },
+
+    "other":
+    {
+
+        "panorama":
+        {
+            "images" : "minecraft:textures/gui/title/background/panorama_%c.png",
+            "animate" : true,
+            "animationSpeed" : 1,
+            "blur" : true,
+            "gradient" : true
+        }
+    }
+}
