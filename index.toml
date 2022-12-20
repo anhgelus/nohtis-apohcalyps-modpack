@@ -1801,11 +1801,6 @@ hash = "9fd66c7f5e411c9af1596555223bd40d9236f1c694f32e1226207882b36a6893"
 metafile = true
 
 [[files]]
-file = "mods/first-person-render.pw.toml"
-hash = "943479a7d673e181a39a61b95052990ba00d4256bfafe486de7495d5407e0f12"
-metafile = true
-
-[[files]]
 file = "mods/ftb-library-legacy-forge.pw.toml"
 hash = "1d53ed109e79b01c25b437db44da5976f22ca866e3d0dc286fadb96511e1a123"
 metafile = true
