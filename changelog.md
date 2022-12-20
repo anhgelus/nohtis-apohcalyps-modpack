@@ -1,3 +1,9 @@
+# v0.15.0
+
+Add Resource Loader
+
+Remove resources packs and turn them into resources
+
 # v0.14.1
 
 Fix forge version crash
