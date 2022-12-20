@@ -1,6 +1,9 @@
 {
 	x: 0.0d,
 	y: 0.0d,
+	text: [
+		"To turn on the flashlight, you must put the battery in your left hand and the flashlight in your right hand. Next, turn on the flashlight and you put the battery inside the flashlight"
+	],
 	tasks: [{
 		uid: "0c590e54",
 		type: "checkmark",
@@ -25,5 +28,10 @@
 		uid: "9e22eb75",
 		type: "item",
 		item: "flashlight:flashlight"
+	},
+	{
+		uid: "2055f1f1",
+		type: "item",
+		item: "flashlight:smallredstonebattery"
 	}]
 }
