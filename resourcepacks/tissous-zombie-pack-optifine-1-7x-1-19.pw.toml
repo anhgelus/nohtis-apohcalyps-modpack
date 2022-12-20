@@ -1,0 +1,13 @@
+name = "Tissou's Zombie Pack"
+filename = "TZP 1.12.2_2.6.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "204aac4900d6665801fa9cf8cc6d1f64cab7d32f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4034040
+project-id = 312822
