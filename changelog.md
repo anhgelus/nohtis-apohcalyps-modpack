@@ -2,9 +2,11 @@
 
 Fix OpenGL error 1283
 
-Remove Mob Amputation
+Remove Mob Amputation and Improved Mobs
 
 Perf remove Chunk Animator
+
+Add Start Of Apocalyps generation mode
 
 # v0.15.1
 

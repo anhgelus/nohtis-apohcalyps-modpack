@@ -1873,11 +1873,6 @@ hash = "1eee22240f6f108ce973606bbed01e3c4de35ef92174e52d0d6ca8914ac8f57c"
 metafile = true
 
 [[files]]
-file = "mods/improved-mobs.pw.toml"
-hash = "2dcb999a3d1f770fa253081c6f568691061fc6be76278f2873a2275f0cb780ae"
-metafile = true
-
-[[files]]
 file = "mods/in-control.pw.toml"
 hash = "92527273fa468970a2f1ab95c1df58a13881b8345f6537ea65c60d8ff812592f"
 metafile = true
