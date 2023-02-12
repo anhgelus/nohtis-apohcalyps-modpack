@@ -1748,11 +1748,6 @@ hash = "9b29f8c649940c076771dae2b5de364eaa3b44d65a5f993bdc3482623c82e9b8"
 metafile = true
 
 [[files]]
-file = "mods/chunk-animator.pw.toml"
-hash = "7fa3d0b24d2a3e6e2af74a8211ebc97fee40d70d1f8697090aa52b0eb5d583b1"
-metafile = true
-
-[[files]]
 file = "mods/clumps.pw.toml"
 hash = "2acbe0f770a8303ecea88bc3ceef4ea6f76cb69206f15229647fb4773f0d9198"
 metafile = true
