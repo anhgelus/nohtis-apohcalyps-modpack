@@ -10,7 +10,7 @@ hash = "57c129c6d4045319afd6636ad663a5dabd4a9f47e3b04456a6c4a5919e50a218"
 
 [[files]]
 file = "changelog.md"
-hash = "976434806be6e2f5ac35bbcb79d97741c529ae633e3a9b89b5432a25eea7561f"
+hash = "4930707c9e77a96fe372bf0f1f8b1088d4570dd250934481a2580cda365f015c"
 
 [[files]]
 file = "config/CoroUtil/BlockDestruction.cfg"
@@ -1915,11 +1915,6 @@ metafile = true
 [[files]]
 file = "mods/mixin-0-7-0-8-compatibility.pw.toml"
 hash = "77ccda6fa0da13ce6b524248a579c0a5733aaf628f617f0c68f2370d84dd6e4d"
-metafile = true
-
-[[files]]
-file = "mods/mob-amputation.pw.toml"
-hash = "ea77ac331932e8806746ed26c1034c6eb13dc014f7d509f574349ead2e28a6a5"
 metafile = true
 
 [[files]]

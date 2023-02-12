@@ -1,3 +1,11 @@
+# v0.15.2
+
+Fix OpenGL error 1283
+
+Remove Mob Amputation
+
+Perf remove Chunk Animator
+
 # v0.15.1
 
 Update every mods
