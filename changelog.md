@@ -1,3 +1,7 @@
+# v0.15.1
+
+Update every mods
+
 # v0.15.0
 
 Add Resource Loader, Custom Main Menu, Custom Backgrounds, Dark Theme Mod
