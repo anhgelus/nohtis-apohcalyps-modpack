@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "LICENSE"
-hash = "7c5d07c914ad53d3ba1bcfadc49dd415cf1f54a6094c9314a66d019abbdb1341"
+hash = "18fb5e491dd880526a6d2dba993a1574fb4056ce939004da9b0f677fd6cca434"
 
 [[files]]
 file = "README.md"
@@ -10,7 +10,7 @@ hash = "57c129c6d4045319afd6636ad663a5dabd4a9f47e3b04456a6c4a5919e50a218"
 
 [[files]]
 file = "changelog.md"
-hash = "792e26c4c3977eee66361a95bf69ac3e6b0f97089482cd1817f5490618bfa8c4"
+hash = "88d047afe3863a8d6d25a3ba56b109467da7d3b86fefda7f1da9738d9f0153a2"
 
 [[files]]
 file = "config/CoroUtil/BlockDestruction.cfg"
@@ -22,7 +22,7 @@ hash = "f4b230382d68c8940a882be7792e6df54224f23ac40672e4dcc7fc696be104ba"
 
 [[files]]
 file = "config/CustomMainMenu/mainmenu.json"
-hash = "1986bb10ed80d2f679a34e53de56fa9828d67107287dad269f8f8e2bef5533c2"
+hash = "6be0878e354c6fec7d3ffdd1f0e43876977fa77148a771c053a5485fd6b70d69"
 
 [[files]]
 file = "config/CustomNpcs.cfg"
@@ -621,6 +621,10 @@ file = "config/darknesslib.cfg"
 hash = "47bfd4e9d354cda790fac28722f2615483d96536e60b4c049b15073b88b7b203"
 
 [[files]]
+file = "config/defaultworldgenerator-port/worldsettings.data"
+hash = "766e58ec7592bfb1a63901b6aa6e29282b4a5ecd095345445a9ef15e583f9dc5"
+
+[[files]]
 file = "config/delivery.cfg"
 hash = "48ffbfedc6b82d38e15bb2b997d005683e202caaedb1228cb65af33348f6dff1"
 
@@ -714,7 +718,7 @@ hash = "0c067291a20048381fd306432a5aab78276284d9e32b511bf19d817c0264a993"
 
 [[files]]
 file = "config/ftbquests/normal/chapters/4f30fe9d/775d7954.snbt"
-hash = "0d7fd2201ea74a9bc12df68bd15747ae82ecf2f5ce196957de80f19d47321b58"
+hash = "d49f5dc950a3c2208ca02efd05c31ba36a5ff06276e866697312467b3bb4560d"
 
 [[files]]
 file = "config/ftbquests/normal/chapters/4f30fe9d/82cfedf3.snbt"
@@ -942,7 +946,7 @@ hash = "1b0029a7e890ee263ea28390f44c055d182394d1860aee30196554cc4548363d"
 
 [[files]]
 file = "config/ftbquests/normal/chapters/8246fcfe/2b2decc6.snbt"
-hash = "155ccf084f417776433f1efd8232b11aa13e21e344ca451c3319ba5868800dd9"
+hash = "1f2757a8809634885092f7d525c8977934805a3b628188cb479257fd6578b0d6"
 
 [[files]]
 file = "config/ftbquests/normal/chapters/8246fcfe/6752e9d5.snbt"
@@ -1270,7 +1274,7 @@ hash = "fc3cff2523fa49b1e50d98ac0ea04121db81029a413b5f66030f7d12ad67accd"
 
 [[files]]
 file = "config/ftbquests/normal/chapters/index.snbt"
-hash = "76f25d8c4a5451514c95cbb7b5cb9079ef6f0f9c1dd1e6ffe303b7326e56e910"
+hash = "231323e1f0b4067c0a57a7df14f367c1dd6ef6d1374d0bd04d9697c966498f28"
 
 [[files]]
 file = "config/ftbquests/normal/file.snbt"
@@ -1339,22 +1343,6 @@ hash = "3bdb8ba918ccd1e88113737d68b9a389427a952b86d99f607d9aed74c538bbb2"
 [[files]]
 file = "config/ichunutil_keybinds.cfg"
 hash = "140b814c2d4dbe0645d252d0e9e3b8ee4dce23ee8ea76cd0e0971a6153e813af"
-
-[[files]]
-file = "config/immersivevoice/ClientSettings.ini"
-hash = "4f4bfafeef1e4e0822cf5309f96dfe8297fde93a259ada5f79f612904d7bde5e"
-
-[[files]]
-file = "config/immersivevoice/ServerSettings.ini"
-hash = "46fc615456525cb3d01cc22e0a478b5316d3c938344c2e0eac66720510e0c391"
-
-[[files]]
-file = "config/improvedmobs/equipment.json"
-hash = "7982b7e3a96a302bc8cc2cb757d8e57f0b0f033046d7414a943f41d35df2f106"
-
-[[files]]
-file = "config/improvedmobs/main.cfg"
-hash = "ae66163d16fcbb3afda47c6f30d9661cfa2d1ab469b1212d40f2a391526b0ebd"
 
 [[files]]
 file = "config/incontrol/experience.json"
@@ -1438,7 +1426,7 @@ hash = "4b8a86dc2a121e1ad4cf3224fa0924123fe8992609b97a4f56e8ad748ec296de"
 
 [[files]]
 file = "config/lostcities/custom-data/custom-conditions.json"
-hash = "60c21489d5b4a6cbdfca46b9d436ac710c1a7a8148def2db5bd54d2e2708170a"
+hash = "669735961eec22247a4d775b38743b53d8410f71ef6ac411c5a12bd77852629d"
 
 [[files]]
 file = "config/lostcities/custom-data/highwayparts.json"
@@ -6379,6 +6367,30 @@ file = "resources/minecraft/textures/blocks/vine.png"
 hash = "fabf51fcb15b4bba10c0dc887338552eaf179d6e5d3ba5c5fc717dbbda364d84"
 
 [[files]]
+file = "resources/nohtis-apohcalyps/background/wallpaper_0.png"
+hash = "1c86ccb03dfc80a4cd80d0f026374bdaf701083a4c53a869015b101d333ce217"
+
+[[files]]
+file = "resources/nohtis-apohcalyps/background/wallpaper_1.png"
+hash = "4b118d652419dee5a6f0e5bc9c378924aab71f99cadd9aba6ea1f63670f4d003"
+
+[[files]]
+file = "resources/nohtis-apohcalyps/background/wallpaper_2.png"
+hash = "2ccd92a3974b68131d79a9e37fd308cad253784ed329278fd90ca7e5c4465526"
+
+[[files]]
+file = "resources/nohtis-apohcalyps/background/wallpaper_3.png"
+hash = "2d53c7f67112e3997b5662d286516321f2638fab091d2abb17f40cb635a43ca7"
+
+[[files]]
+file = "resources/nohtis-apohcalyps/background/wallpaper_4.png"
+hash = "d17b4ac43e06040aa10b29580b5f173b85f2a405cf584f232bf4f5a33cc0ef07"
+
+[[files]]
+file = "resources/nohtis-apohcalyps/background/wallpaper_5.png"
+hash = "df2da3492eb64f6193b5fd8856ff5738be6ce69c57fdb503623ae4c355294bdb"
+
+[[files]]
 file = "resources/weather2/sounds/env/wind_calm.ogg"
 hash = "0ee781f19d5ff40d43fb10e1e6e389fd503c6eb6147a7e520ec963f036fd2db8"
 
@@ -6432,11 +6444,11 @@ hash = "86ca556eed05f97c3a7f978de7fe57a1bd4a6e2628ffd5ea3a4bd81b807738b0"
 
 [[files]]
 file = "scripts/lt-basic.zs"
-hash = "be9cb4e381baf12fa393e9a03cc66aa943ba717df971625454e27cef99163953"
+hash = "f2f91b8223764a725d7749073360c29d055056682a06af5bac94fddbda86c8af"
 
 [[files]]
 file = "scripts/lt-epic.zs"
-hash = "dc42abc1459c9227e030e6a3bfa2a4eb65373b5da5fe5bee4ca9e9255443c164"
+hash = "e902d7ba24525e375aa56a4cf51eff0c33eb305f9b62363228f003d9878528d0"
 
 [[files]]
 file = "scripts/lt-legendary.zs"
@@ -6444,7 +6456,7 @@ hash = "6ca15d45773378425c89754b1c5a66c70a20a95ab6f4b40ec71b3a9146a0e610"
 
 [[files]]
 file = "scripts/lt-rare.zs"
-hash = "d638ed0fa5353843ce651a3f90f9fbf86bdbd91552b6d744e1f8d09fb794f7e5"
+hash = "f171076fc9f7ca0e9d6a1cf23b60b46da2b67e78e5916d51b44674ce149ed9f0"
 
 [[files]]
 file = "scripts/no-craft.zs"
