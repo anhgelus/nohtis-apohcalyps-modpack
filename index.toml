@@ -10,7 +10,7 @@ hash = "57c129c6d4045319afd6636ad663a5dabd4a9f47e3b04456a6c4a5919e50a218"
 
 [[files]]
 file = "changelog.md"
-hash = "4930707c9e77a96fe372bf0f1f8b1088d4570dd250934481a2580cda365f015c"
+hash = "1093d42bff0bd9e38cf5aa51f77a87d8ccdc075e1fdb92b71e23541b0c34b574"
 
 [[files]]
 file = "config/CoroUtil/BlockDestruction.cfg"
@@ -1474,7 +1474,7 @@ hash = "9e26611f957fcbc349c3f11ad5747781efaf73cdbdfbf1ce41e0f93fc8d2d8d5"
 
 [[files]]
 file = "config/lostcities/general.cfg"
-hash = "d585867a203851fa8934c0802c40330b388cd06e1b06df26653f9f64a33ef2ad"
+hash = "559fd4eb55e0c37b64712c2709d338f2316ea8179766d081c76a81c6eafc757d"
 
 [[files]]
 file = "config/lostcities/profile_ancient.cfg"
@@ -1531,6 +1531,10 @@ hash = "9cf06a8eec471a73eee8d6f47455efe0ad21849bc598ac3dd1267e06e6d2589a"
 [[files]]
 file = "config/lostcities/profile_space.cfg"
 hash = "149ea55ade65540d9a74ecfe965185f78d7956aa53dbf1803e06de15f42ac843"
+
+[[files]]
+file = "config/lostcities/profile_start-of-apocalyps.cfg"
+hash = "d63b16335985141a076c7fd60c0da9f9ee1073a7f3b18a0cd467c74184b94a16"
 
 [[files]]
 file = "config/lostcities/profile_tallbuildings.cfg"
@@ -1945,11 +1949,6 @@ metafile = true
 [[files]]
 file = "mods/phosphor-forge.pw.toml"
 hash = "900c33ef3ec1924d7557882e955063e30726a81f662e1443b7a3d3ff66a557d1"
-metafile = true
-
-[[files]]
-file = "mods/playerrevive.pw.toml"
-hash = "f4f48c5173082fbb0b804204872593248fe433dcb52bab8222610946b839953d"
 metafile = true
 
 [[files]]
