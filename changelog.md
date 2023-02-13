@@ -2,6 +2,8 @@
 
 Add custom panorama in the main menu
 
+Add predefined generation types
+
 # v0.15.3
 
 Fix invincible when dying
