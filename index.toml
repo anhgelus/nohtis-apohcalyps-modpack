@@ -1802,6 +1802,11 @@ hash = "69c3c017648cdadabf61d08d401a90da58a41487075e7937595547cb6adf3cbd"
 metafile = true
 
 [[files]]
+file = "mods/default-world-generator-port.pw.toml"
+hash = "6f6027918bcecb2e34dbaf3c221997a2b465fc6bac9ae59eeaca646e09017ea6"
+metafile = true
+
+[[files]]
 file = "mods/enhancedvisuals.pw.toml"
 hash = "72c8a08dba8daaa616991c79feae5e9ccc2ed5373bf759b7d09ab490b4e452e1"
 metafile = true
