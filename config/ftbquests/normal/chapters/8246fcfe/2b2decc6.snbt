@@ -1,11 +1,11 @@
 {
 	title: "The Saviors' Boss",
 	x: 0.0d,
-	y: -6.5d,
+	y: -5.0d,
 	shape: "rsquare",
 	description: "Best melee weapon",
 	dependencies: [
-		"27e0dc9c"
+		"7bd6d3c0"
 	],
 	hide: true,
 	tasks: [{

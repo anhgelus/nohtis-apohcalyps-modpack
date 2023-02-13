@@ -1,5 +1,5 @@
 {
-	title: "Get the base pistol (Glock-19)",
+	title: "Get the basic pistol (Glock-19)",
 	x: 0.0d,
 	y: 1.0d,
 	dependencies: [
