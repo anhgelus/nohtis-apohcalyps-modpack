@@ -10,7 +10,7 @@ hash = "57c129c6d4045319afd6636ad663a5dabd4a9f47e3b04456a6c4a5919e50a218"
 
 [[files]]
 file = "changelog.md"
-hash = "1093d42bff0bd9e38cf5aa51f77a87d8ccdc075e1fdb92b71e23541b0c34b574"
+hash = "792e26c4c3977eee66361a95bf69ac3e6b0f97089482cd1817f5490618bfa8c4"
 
 [[files]]
 file = "config/CoroUtil/BlockDestruction.cfg"
