@@ -4,20 +4,20 @@
     "name": "chestloot",
     "values": [
       {
-        "factor": 12,
+         "factor": 35,
+         "value": "nohtis-apohcalyps:chests/common"
+      },
+      {
+        "factor": 15,
         "value": "nohtis-apohcalyps:chests/rare"
       },
       {
-        "factor": 4,
+        "factor": 5,
         "value": "nohtis-apohcalyps:chests/epic"
       },
       {
         "factor": 1,
         "value": "nohtis-apohcalyps:chests/legendary"
-      },
-      {
-        "factor": 25,
-        "value": "nohtis-apohcalyps:chests/common"
       }
     ]
   }
