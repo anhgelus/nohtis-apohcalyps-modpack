@@ -4,6 +4,13 @@ Add custom panorama in the main menu
 
 Add predefined generation types
 
+Tweaks loots and chest repartition :
+
+- Decrease probability to loot mags of non-basic pistols
+- Add probability to loot the glock13 mag
+- Basic chest is less scarce and other types of chest become more rare.
+- Delete the "important" loot in basic chest
+
 # v0.15.3
 
 Fix invincible when dying
