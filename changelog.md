@@ -10,6 +10,7 @@ Tweaks loots and chest repartition :
 - Add probability to loot the glock13 mag
 - Basic chest is less scarce and other types of chest become more rare.
 - Delete the "important" loot in basic chest
+- Change repartition of guns and mags
 
 # v0.15.3
 
