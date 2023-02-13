@@ -1,3 +1,7 @@
+# v0.15.3
+
+Fix invincible when dying
+
 # v0.15.2
 
 Fix OpenGL error 1283
