@@ -1,3 +1,7 @@
+# v0.16.0
+
+Add custom panorama in the main menu
+
 # v0.15.3
 
 Fix invincible when dying
