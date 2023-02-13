@@ -13,7 +13,6 @@ var important = epic.addPool("important", 1.0, 2.0, 1.0, 6.0); // important loot
 
 // Loots
 main.addItemEntry(<mw:shotgun12gauge>, 70, 1, [Functions.setCount(2, 5)], []);
-main.addItemEntry(<mw:m18white>, 45, 1);
 main.addItemEntry(<mw:m67frag>, 40, 0);
 main.addItemEntry(<mw:bullet556x45>, 45, 1, [Functions.setCount(8, 12)], []);
 main.addItemEntry(<mw:m38mag_2>, 30, 1);
@@ -23,6 +22,8 @@ main.addItemEntry(<mw:m40gasmask_helmet>, 25, 1);
 main.addItemEntry(<mw:browning_auto_5>, 10, 1);
 main.addItemEntry(<grapplemod:grapplinghook>, 5, 1);
 
-important.addItemEntry(<mw:scar_l>, 70, 1);
-important.addItemEntry(<mw:remington870>, 50, 1);
-important.addItemEntry(<mw:m40a6>, 35, 1);
+important.addItemEntry(<mw:m8a7>, 85, 1);
+important.addItemEntry(<mw:acr>, 75, 1);
+important.addItemEntry(<mw:scar_l>, 60, 1);
+important.addItemEntry(<mw:remington870>, 40, 1);
+important.addItemEntry(<mw:m40a6>, 25, 1);
