@@ -10,7 +10,7 @@ hash = "57c129c6d4045319afd6636ad663a5dabd4a9f47e3b04456a6c4a5919e50a218"
 
 [[files]]
 file = "changelog.md"
-hash = "88d047afe3863a8d6d25a3ba56b109467da7d3b86fefda7f1da9738d9f0153a2"
+hash = "f9092a8d279427ce20a7721b2f2eed1b752cf99735b0575ef3f72662baf143fc"
 
 [[files]]
 file = "config/CoroUtil/BlockDestruction.cfg"
@@ -114,7 +114,7 @@ hash = "8e04c35c7871c0d359dbbda2afe06c66f97e909e982c9d751521369831a02470"
 
 [[files]]
 file = "config/adminshop/shop.csv"
-hash = "334e508a4dd6819aa5819d694209ac66537ef689beb5676ce100e830529181f0"
+hash = "f232d0bd33ad1e91dae93eece2c8c2195ee1e22ae47f447c4027d512e84e6df4"
 
 [[files]]
 file = "config/air_support.cfg"
