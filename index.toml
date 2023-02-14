@@ -1885,11 +1885,6 @@ hash = "e84b408fe657d70ce1292d146ebfa510843327453d245d5694de3a434ad482bd"
 metafile = true
 
 [[files]]
-file = "mods/immersive-vehicles-trin-civil-pack-v3.pw.toml"
-hash = "1eee22240f6f108ce973606bbed01e3c4de35ef92174e52d0d6ca8914ac8f57c"
-metafile = true
-
-[[files]]
 file = "mods/in-control.pw.toml"
 hash = "92527273fa468970a2f1ab95c1df58a13881b8345f6537ea65c60d8ff812592f"
 metafile = true
@@ -1907,11 +1902,6 @@ metafile = true
 [[files]]
 file = "mods/lunatriuscore.pw.toml"
 hash = "059eed4d55fa0728def70fc36e958b7d0f66bf6f6a4d856dbe6530cd30cac8ed"
-metafile = true
-
-[[files]]
-file = "mods/minecraft-transport-simulator.pw.toml"
-hash = "7748731fd2a71b2ae5de3d4dfbbfee0b1ff63bcec2ed9acd11dd6731c211a6e5"
 metafile = true
 
 [[files]]
@@ -2047,16 +2037,6 @@ metafile = true
 [[files]]
 file = "mods/u-team-core.pw.toml"
 hash = "a3849fea021077db80b4e709403f500a37652b9304b9355ac086e3c1386f57d0"
-metafile = true
-
-[[files]]
-file = "mods/unu-military-pack-for-mts.pw.toml"
-hash = "7ea30a1c8bb05990f3f4256739e68ee6ce4b59c764df08fd827b5f636cd11557"
-metafile = true
-
-[[files]]
-file = "mods/unu-parts-pack.pw.toml"
-hash = "05a811b1a5a498e33074783a975b0cfc618943ccf61d7696c6a68864abfc7969"
 metafile = true
 
 [[files]]
