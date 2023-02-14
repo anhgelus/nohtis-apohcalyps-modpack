@@ -24,7 +24,21 @@
 	{
 		uid: "7f3eda0c",
 		type: "item",
-		item: "minecraft:cooked_beef",
+		item: {
+			ForgeCaps: {
+				"foodfunk:rot": {
+					start: 0L,
+					time: 0L
+				}
+			},
+			id: "minecraft:cooked_beef",
+			tag: {
+				Rot: {
+					start: 0L,
+					time: 0L
+				}
+			}
+		},
 		count: 8
 	}]
 }

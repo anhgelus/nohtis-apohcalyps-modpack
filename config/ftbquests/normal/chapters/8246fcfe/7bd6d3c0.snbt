@@ -1,9 +1,6 @@
 {
-	x: 0.0d,
-	y: -2.5d,
-	dependencies: [
-		"a0b6a1a8"
-	],
+	x: 0.5d,
+	y: -1.5d,
 	tasks: [{
 		uid: "fc5cd415",
 		type: "kill",
@@ -16,7 +13,7 @@
 				}
 			}
 		},
-		entity: "minecraft:zombie",
+		entity: "mw:zombie",
 		value: 10L
 	}]
 }

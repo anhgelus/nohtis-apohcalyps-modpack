@@ -1,12 +1,9 @@
 {
 	title: "Create a base",
 	icon: "minecraft:stone 1 6",
-	x: -3.0d,
-	y: -1.5d,
+	x: -1.0d,
+	y: -1.0d,
 	description: "The Polished Andesite can't be break by the zombies",
-	dependencies: [
-		"a0b6a1a8"
-	],
 	tasks: [{
 		uid: "291d7d0e",
 		type: "item",

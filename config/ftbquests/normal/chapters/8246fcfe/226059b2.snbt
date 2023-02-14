@@ -1,11 +1,8 @@
 {
 	title: "Shop",
 	x: 0.0d,
-	y: 2.0d,
+	y: 0.0d,
 	can_repeat: true,
-	dependencies: [
-		"a0b6a1a8"
-	],
 	optional: true,
 	tasks: [{
 		uid: "f6156f1f",

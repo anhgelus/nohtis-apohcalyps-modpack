@@ -11,7 +11,7 @@
 		type: "kill",
 		title: "MORE ZOMBIES",
 		icon: "minecraft:skull 1 2",
-		entity: "minecraft:zombie",
+		entity: "mw:zombie",
 		value: 25L
 	}],
 	rewards: [{

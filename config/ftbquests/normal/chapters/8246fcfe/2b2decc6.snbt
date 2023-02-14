@@ -1,7 +1,7 @@
 {
 	title: "The Saviors' Boss",
-	x: 0.0d,
-	y: -5.0d,
+	x: 1.0d,
+	y: -4.0d,
 	shape: "rsquare",
 	description: "Best melee weapon",
 	dependencies: [

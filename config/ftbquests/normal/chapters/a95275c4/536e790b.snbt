@@ -1,0 +1,21 @@
+{
+	title: "Engine on a minecart",
+	x: 2.5d,
+	y: 3.5d,
+	dependencies: [
+		"5bf5d2cc"
+	],
+	tasks: [{
+		uid: "256a3012",
+		type: "item",
+		items: [{
+			item: "minecraft:furnace_minecart"
+		}]
+	}],
+	rewards: [{
+		uid: "8db528fa",
+		type: "item",
+		item: "minecraft:coal",
+		count: 2
+	}]
+}

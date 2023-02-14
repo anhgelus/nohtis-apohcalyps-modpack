@@ -1,8 +1,8 @@
 {
 	title: "Find a furnace",
 	icon: "minecraft:furnace",
-	x: -5.0d,
-	y: -2.5d,
+	x: -2.0d,
+	y: -3.0d,
 	dependencies: [
 		"6752e9d5"
 	],

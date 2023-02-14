@@ -1,5 +1,5 @@
 {
-	x: -1.5d,
+	x: -0.5d,
 	y: -4.5d,
 	shape: "rsquare",
 	description: "Drop random stuff",
