@@ -1755,6 +1755,11 @@ hash = "d17527467cbe5945e5424a2920912890cc047b8e779f702a665c8b27caf50453"
 metafile = true
 
 [[files]]
+file = "mods/corpse.pw.toml"
+hash = "d147d561c5b715ba9528cc507fa1f85bfeef89f4da260c1c301f80e0033f0b73"
+metafile = true
+
+[[files]]
 file = "mods/craftpresence.pw.toml"
 hash = "6678d950c4e7923539056d365a077b22b17df0d2ab2596d2649dfe61b8c7d52b"
 metafile = true

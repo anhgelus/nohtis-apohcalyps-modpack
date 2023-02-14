@@ -1,3 +1,19 @@
+# v0.17.0
+
+Add corpse when people die (so the stuff will not be erased)
+
+Add ambient sounds, comforts and a starter kit
+
+Add food funk to add more difficulties in the managment of food
+
+Add twisted tweaks to add various difficulties
+
+Add mouse tweaks to improve the managment of storage
+
+Remove the cars (useless know)
+
+Add minecart furnace and minecrat chest in the shop
+
 # v0.16.0
 
 Add custom panorama in the main menu
