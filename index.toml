@@ -1700,6 +1700,11 @@ hash = "bd55f1d5e653dbda6a00e89357e817cec3becedc993ead739e6d4e1fa43e4fea"
 metafile = true
 
 [[files]]
+file = "mods/ambientsounds.pw.toml"
+hash = "fcb4a5a64f66ff529907e6e3ef3834154971d8921379e21c910738650a07af44"
+metafile = true
+
+[[files]]
 file = "mods/atlas-lib.pw.toml"
 hash = "68305e8ed6b65a7b237b36b2f10800fcf8eee8953b79e4069b72cc9b48a47906"
 metafile = true
@@ -1747,6 +1752,11 @@ metafile = true
 [[files]]
 file = "mods/collective.pw.toml"
 hash = "2f032abefdc59f6946c9d1c5efd567d2c664c0c9ea4f427f62c6271bb25d66b4"
+metafile = true
+
+[[files]]
+file = "mods/comforts.pw.toml"
+hash = "84bc0fd3c0936b57882354af57f54a7f9465f1d703262451b13371c320c3ef8c"
 metafile = true
 
 [[files]]
@@ -1977,6 +1987,11 @@ metafile = true
 [[files]]
 file = "mods/stackie.pw.toml"
 hash = "17ba72705bda233519bb922e578b4de5d42087a1c095220de9f3723ab2d4918b"
+metafile = true
+
+[[files]]
+file = "mods/starter-kit.pw.toml"
+hash = "8706fffb7b175ef25ed810ff3b462714ff9ca978a7db9ff203d2ebce115bfae5"
 metafile = true
 
 [[files]]
