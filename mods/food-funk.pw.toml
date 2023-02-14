@@ -1,0 +1,13 @@
+name = "Food Funk"
+filename = "foodfunk-1.12.2-4.9.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5544dc19d1a8086877f3207d834fa5d22bbba7b9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2849124
+project-id = 296430

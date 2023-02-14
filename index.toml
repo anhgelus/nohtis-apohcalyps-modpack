@@ -1835,6 +1835,11 @@ hash = "293e0fc0e16f7f404733e94325ffd55650094beb339886c3db53b5978bc5dbea"
 metafile = true
 
 [[files]]
+file = "mods/food-funk.pw.toml"
+hash = "6af86e0b3c4a419c07d36686d616999dfb285cb15efaa434b94f44600c10e339"
+metafile = true
+
+[[files]]
 file = "mods/ftb-library-legacy-forge.pw.toml"
 hash = "1d53ed109e79b01c25b437db44da5976f22ca866e3d0dc286fadb96511e1a123"
 metafile = true
@@ -2057,6 +2062,11 @@ metafile = true
 [[files]]
 file = "mods/weather-storms-tornadoes.pw.toml"
 hash = "faece63c31002b0929cfc4b14d8c7f998cc9ae13518a4d5eef46fc11be041349"
+metafile = true
+
+[[files]]
+file = "mods/wumpleutil.pw.toml"
+hash = "2db051fd89945ee7cb144ff9c0732faff281825dfd948ef95c119fbf4d482d65"
 metafile = true
 
 [[files]]
