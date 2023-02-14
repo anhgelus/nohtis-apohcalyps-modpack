@@ -2035,6 +2035,11 @@ hash = "1ff1c805044eccca3ec66e7a314ef40bbaf3afb4acc10263aa988a6ccf458960"
 metafile = true
 
 [[files]]
+file = "mods/twisted-tweaks.pw.toml"
+hash = "8aaf542f25447c5a93130e0e9d5f5f1146fc48d078c1411fa42acb0bebd2bb58"
+metafile = true
+
+[[files]]
 file = "mods/u-team-core.pw.toml"
 hash = "a3849fea021077db80b4e709403f500a37652b9304b9355ac086e3c1386f57d0"
 metafile = true
