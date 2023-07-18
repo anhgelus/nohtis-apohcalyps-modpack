@@ -1,12 +1,12 @@
 name = "Nohtis Apohcalyps"
 author = "Anhgelus Morhtuuzh"
-version = "0.1.0"
+version = "0.2.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "a21985be88c9b9e717ab29dd3a9841b931314b39d83e41783930a2c66f12a9a5"
+hash = "8dca04aa2164e3c410795335996db0e5df9c07e5328d0ee7aaa68f8ce0fb2298"
 
 [versions]
 forge = "36.2.34"
