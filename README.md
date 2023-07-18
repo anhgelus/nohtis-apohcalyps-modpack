@@ -31,8 +31,8 @@ Every mod ou resourcepack included in this modpack can be used freely if we cred
 
 ### Improvements
 
-- [Sophisticated Backpacks](https://legacy.curseforge.com/minecraft/mc-mods/sophisticated-backpacks) [curseforge] -> add backpacks
 - [AmbientSounds 5](https://legacy.curseforge.com/minecraft/mc-mods/ambientsounds) [curseforge] -> add bunch of new sounds
+- [CreativeCore](https://modrinth.com/mod/creativecore) [modrinth] -> lib for AmbientSounds 5
 - [Effective](https://legacy.curseforge.com/minecraft/mc-mods/effective-forge) [curseforge] -> add animations and sounds
 - [Mouse Tweaks](https://modrinth.com/mod/mouse-tweaks) [modrinth] -> better mouse related features
 - [Not Enough Animations](https://legacy.curseforge.com/minecraft/mc-mods/not-enough-animations) [curseforge but newest version is on modrinth] -> add animations for player
@@ -44,10 +44,10 @@ Every mod ou resourcepack included in this modpack can be used freely if we cred
 - [Visual Overhaul](https://modrinth.com/mod/visual-overhaul) [modrinth] -> improve various visuals
 - [Shutup Experimental Settings!](https://legacy.curseforge.com/minecraft/mc-mods/shutup-experimental-settings) [curseforge] -> remove boring experimental features warning
 - [Dynamic Surroundings](https://legacy.curseforge.com/minecraft/mc-mods/dynamic-surroundings) [curseforge] -> improve audio spatialization
-- [TinyInv](https://legacy.curseforge.com/minecraft/mc-mods/tinyinv) [curseforge] -> reduce inventory size
 - [Toast Control](https://legacy.curseforge.com/minecraft/mc-mods/toast-control) [curseforge] -> obvious
 - [Dynamic Trees](https://modrinth.com/mod/dynamictrees) [modrinth] -> obvious
 - [Drip Sounds](https://modrinth.com/mod/waterdripsound) [modrinth] -> add sound
+- [Cloth Config API](https://modrinth.com/mod/waterdripsound) [modrinth] -> lib for Drip Sounds and more
 - [Presence Footsteps](https://legacy.curseforge.com/minecraft/mc-mods/presence-footsteps-forge) [curseforge] -> add footsteps
 
 #### Optimizations
@@ -80,6 +80,8 @@ Everything here is available on modrinth
 - [First Aid](https://modrinth.com/mod/firstaid) [modrinth] -> refactor the healing and damage systems
 - [Mob Sunscreen](https://modrinth.com/mod/mob-sunscreen) [curseforge but newest version is on modrinth] -> make zombies not burning during the day
 - [Total Darkness](https://www.curseforge.com/minecraft/mc-mods/total-darkness) [curseforge] -> total darkness during the night
+- [Sophisticated Backpacks](https://legacy.curseforge.com/minecraft/mc-mods/sophisticated-backpacks) [curseforge] -> add backpacks
+- [TinyInv](https://legacy.curseforge.com/minecraft/mc-mods/tinyinv) [curseforge] -> reduce inventory size
 
 ### Specific
 

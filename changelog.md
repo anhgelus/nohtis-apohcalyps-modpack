@@ -20,6 +20,14 @@ Add compatibility mods:
 - MoreMcmeta
 - MoreMcmeta Emissive Textures
 
+Add better audio mods:
+- AmbientSounds 5
+- CreativeCore
+- Drip Sounds
+- Cloth Config API
+- Presence Footsteps
+- Dynamic Surroundings
+
 ## 0.2.0
 
 Add apocalypse mods:

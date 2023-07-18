@@ -1677,6 +1677,11 @@ file = "config/vehicle.cfg"
 hash = "b5815bf5020fe029b2fc329bcb391c6c50e9881bc29587eb7dc2572ce42e672e"
 
 [[files]]
+file = "mods/ambientsounds.pw.toml"
+hash = "c4b37b99ffc834a83d36d16dafc27d16cfcc7a3858ee871429a1fdf740d64041"
+metafile = true
+
+[[files]]
 file = "mods/apocalyptic-arsenal.pw.toml"
 hash = "e350ddb6393e1e8ad16f38a364616a4c9e0641a148c2579c069bcf27b79077ef"
 metafile = true
@@ -1684,6 +1689,11 @@ metafile = true
 [[files]]
 file = "mods/atlas-lib.pw.toml"
 hash = "9fce0099cc383465d8093df9855ed964efc44980a2f0a71592d9e9446f90d4ba"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "d8ad4a7198e83c6aa0597706e301f5ff798323624b9da4ea3283df4649eaae38"
 metafile = true
 
 [[files]]
@@ -1697,8 +1707,18 @@ hash = "bc18684b6e860da60a7d1c35b7ef261aba39d369f584d4284d438ed931788dc3"
 metafile = true
 
 [[files]]
+file = "mods/creativecore.pw.toml"
+hash = "04c59cad26fb818ee8c6c361d50d696c53e71ea5473562b3d3f204359c86ccf9"
+metafile = true
+
+[[files]]
 file = "mods/decorative-blocks.pw.toml"
 hash = "65baedb0bceda1864df6d570f9133fe3efb7f93af00ec047372198e552e87c19"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-surroundings.pw.toml"
+hash = "9c9f0fea9b27f4a12882536e553fe97b1c83affcde3230edd9a97e1fd9fd71d1"
 metafile = true
 
 [[files]]
@@ -1752,6 +1772,11 @@ hash = "0f17b3547f35c092a7bcfba6e4cdaeb12ea1b0b5828c660516bf3148ab44b7a2"
 metafile = true
 
 [[files]]
+file = "mods/presence-footsteps-forge.pw.toml"
+hash = "65e33e37ae72d59e23b479d6e6506bd5ab16aad91eeae68a58a8b5bc5e6d0813"
+metafile = true
+
+[[files]]
 file = "mods/radon.pw.toml"
 hash = "d50f6dc631da47fc9e7e322c0c1426795893819a6c0fd4afd2afaa2ab5a5c3c1"
 metafile = true
@@ -1799,6 +1824,11 @@ metafile = true
 [[files]]
 file = "mods/total-darkness.pw.toml"
 hash = "3d05d13d48e23b43b7d0ffb48f93eb234e7445b17b45024c75c45b1a5fef6711"
+metafile = true
+
+[[files]]
+file = "mods/waterdripsound.pw.toml"
+hash = "72d2d264195f526d8129cfc74ed6860b02989979f2bc9c7ceb91b97f88f8a4ff"
 metafile = true
 
 [[files]]

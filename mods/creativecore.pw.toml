@@ -1,0 +1,13 @@
+name = "CreativeCore"
+filename = "CreativeCore_v2.2.1_mc1.16.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/OsZiaDHq/versions/2.2.1/CreativeCore_v2.2.1_mc1.16.5.jar"
+hash-format = "sha1"
+hash = "3ebaf255fd6aff4fc3e25422981a2f07b4dc4cd3"
+
+[update]
+[update.modrinth]
+mod-id = "OsZiaDHq"
+version = "fV0nS6Hk"
