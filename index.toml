@@ -1677,6 +1677,41 @@ file = "config/vehicle.cfg"
 hash = "b5815bf5020fe029b2fc329bcb391c6c50e9881bc29587eb7dc2572ce42e672e"
 
 [[files]]
+file = "mods/apocalyptic-arsenal.pw.toml"
+hash = "e350ddb6393e1e8ad16f38a364616a4c9e0641a148c2579c069bcf27b79077ef"
+metafile = true
+
+[[files]]
+file = "mods/coroutil.pw.toml"
+hash = "bc18684b6e860da60a7d1c35b7ef261aba39d369f584d4284d438ed931788dc3"
+metafile = true
+
+[[files]]
+file = "mods/in-control.pw.toml"
+hash = "d69ce2b6e42309dbd340498a4db5752844e2a95a23c2412bfc4750b6681c7ad6"
+metafile = true
+
+[[files]]
+file = "mods/obfuscate.pw.toml"
+hash = "0f17b3547f35c092a7bcfba6e4cdaeb12ea1b0b5828c660516bf3148ab44b7a2"
+metafile = true
+
+[[files]]
+file = "mods/the-lost-cities.pw.toml"
+hash = "2e32cf048903b25e599e3b70b97c9c773961fb598f4df108fb5cba1c211e0b7a"
+metafile = true
+
+[[files]]
+file = "mods/timeless-and-classic-guns-tac.pw.toml"
+hash = "d972531db5b2a25c2a0fc4771c82088b580abf75ea3ed7f70a372b1bf4dbd0af"
+metafile = true
+
+[[files]]
+file = "mods/zombie-awareness.pw.toml"
+hash = "f8bf2673fcaeb856f57a5d37d87beb059af67fa8bf45b7d6b0a7b55ddfef5e69"
+metafile = true
+
+[[files]]
 file = "resourcepacks/tissous-zombie-pack-optifine-1-7x-1-19.pw.toml"
 hash = "90111db4c1a7b91f12497b173d224b1e5ba11fb7a933f489d32e6e5f584ef951"
 metafile = true

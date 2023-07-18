@@ -1,0 +1,13 @@
+name = "The Lost Cities"
+filename = "lostcities-1.16-4.0.12-beta.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/8VDCUS3b/versions/3dekTq1n/lostcities-1.16-4.0.12-beta.jar"
+hash-format = "sha1"
+hash = "04f62cd0262a0eaf9400679f20f5a8d4b331bd86"
+
+[update]
+[update.modrinth]
+mod-id = "8VDCUS3b"
+version = "3dekTq1n"

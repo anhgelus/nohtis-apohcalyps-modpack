@@ -1,0 +1,13 @@
+name = "Zombie Awareness"
+filename = "zombieawareness-1.16.5-1.12.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6fb809c0ecb2aed854bddf6235b8efba3b12c24f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3586479
+project-id = 237754
