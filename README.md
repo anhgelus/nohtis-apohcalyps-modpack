@@ -8,7 +8,9 @@ Powered by [Packwiz](https://github.com/packwiz/packwiz).
 
 ## Mods
 
-List of all mods
+List of all mods and resourcepacks.
+
+Every mod ou resourcepack included in this modpack can be used freely if we credit to the author.
 
 ### Core
 
@@ -43,6 +45,10 @@ List of all mods
 - [Shutup Experimental Settings!](https://legacy.curseforge.com/minecraft/mc-mods/shutup-experimental-settings) [curseforge] -> remove boring experimental features warning
 - [Dynamic Surroundings](https://legacy.curseforge.com/minecraft/mc-mods/dynamic-surroundings) [curseforge] -> improve audio spatialization
 - [TinyInv](https://legacy.curseforge.com/minecraft/mc-mods/tinyinv) [curseforge] -> reduce inventory size
+- [Toast Control](https://legacy.curseforge.com/minecraft/mc-mods/toast-control) [curseforge] -> obvious
+- [Dynamic Trees](https://modrinth.com/mod/dynamictrees) [modrinth] -> obvious
+- [Drip Sounds](https://modrinth.com/mod/waterdripsound) [modrinth] -> add sound
+- [Presence Footsteps](https://legacy.curseforge.com/minecraft/mc-mods/presence-footsteps-forge) [curseforge] -> add footsteps
 
 #### Optimizations
 
@@ -61,3 +67,13 @@ Everything here is available on modrinth
 - [Unity](https://modrinth.com/resourcepack/unity) [modrinth] -> better visual
 - [Fresh Animations](https://legacy.curseforge.com/minecraft/texture-packs/fresh-animations) [curseforge resource packs] -> improve animations
 - [Tissou's Zombie Pack](https://legacy.curseforge.com/minecraft/texture-packs/tissous-zombie-pack-optifine-1-7x-1-19) [curseforge] -> better zombies textures
+
+### Apocalypse
+
+- [The Hordes](https://modrinth.com/mod/the-hordes) [modrinth] -> zombies are now in hordes
+- [ChestRefill](https://modrinth.com/mod/chestrefill) [modrinth] -> refill chests
+- [Decorative Blocks](https://legacy.curseforge.com/minecraft/mc-mods/decorative-blocks) [curseforge] -> obvious
+- [Starter Kit](https://modrinth.com/mod/starter-kit) [modrinth] -> obvious
+- [First Aid](https://modrinth.com/mod/firstaid) [modrinth] -> refactor the healing and damage systems
+- [Mob Sunscreen](https://modrinth.com/mod/mob-sunscreen) [modrinth] -> make zombies not burning during the day
+
