@@ -1702,6 +1702,16 @@ hash = "65baedb0bceda1864df6d570f9133fe3efb7f93af00ec047372198e552e87c19"
 metafile = true
 
 [[files]]
+file = "mods/entityculling.pw.toml"
+hash = "b3a6b53d4c840fbcd72686d9de2d557e4cd4f735a719ae13f28a6d80087b17c8"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "9229256d490bb93c7194d09fe3ff151e2573d1514b0d515697f0e024f522757e"
+metafile = true
+
+[[files]]
 file = "mods/firstaid.pw.toml"
 hash = "0eb4c27343f92386c14ca565b835219913213358e659d673b4a88cf83f230a15"
 metafile = true
@@ -1712,6 +1722,11 @@ hash = "d69ce2b6e42309dbd340498a4db5752844e2a95a23c2412bfc4750b6681c7ad6"
 metafile = true
 
 [[files]]
+file = "mods/memoryleakfix.pw.toml"
+hash = "c079d2905b1cf1d1535d270e2409274a77b8a5a654537449be5dee1fc23e3cfe"
+metafile = true
+
+[[files]]
 file = "mods/mob-sunscreen.pw.toml"
 hash = "cfcb70f200c977ad1808b03c6746af809599d81433e7ef8e3eba2cb78f0ae77e"
 metafile = true
@@ -1719,6 +1734,26 @@ metafile = true
 [[files]]
 file = "mods/obfuscate.pw.toml"
 hash = "0f17b3547f35c092a7bcfba6e4cdaeb12ea1b0b5828c660516bf3148ab44b7a2"
+metafile = true
+
+[[files]]
+file = "mods/radon.pw.toml"
+hash = "d50f6dc631da47fc9e7e322c0c1426795893819a6c0fd4afd2afaa2ab5a5c3c1"
+metafile = true
+
+[[files]]
+file = "mods/rubidium-extra.pw.toml"
+hash = "053cc4afbfbeeb45f9864ec9cca222e247d4e3cdf7b84216f770f3b89213d509"
+metafile = true
+
+[[files]]
+file = "mods/rubidium.pw.toml"
+hash = "046b1b3e091e58b3f8a17616249df036d788063cc97fbfc49ba86ee33ac800e4"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "10939c13c442ab0747e539b280e01ecc89c3f2710e1bbda34589593c98e05a5e"
 metafile = true
 
 [[files]]

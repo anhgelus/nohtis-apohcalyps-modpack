@@ -1,3 +1,14 @@
+## 0.3.0-alpha.1
+
+Add optimizations mods:
+- Entity Culling
+- Ferrite Core
+- Memory Leak Fix
+- Rubidium
+- spark
+- Rubidium Extra
+- Radon
+
 ## 0.2.0
 
 Add apocalypse mods:
