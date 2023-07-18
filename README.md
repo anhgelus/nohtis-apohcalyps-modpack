@@ -77,6 +77,7 @@ Everything here is available on modrinth
 - [Starter Kit](https://modrinth.com/mod/starter-kit) [modrinth] -> obvious
 - [First Aid](https://modrinth.com/mod/firstaid) [modrinth] -> refactor the healing and damage systems
 - [Mob Sunscreen](https://modrinth.com/mod/mob-sunscreen) [modrinth] -> make zombies not burning during the day
+- [Total Darkness](https://www.curseforge.com/minecraft/mc-mods/total-darkness) [curseforge] -> total darkness during the night
 
 ### Specific
 
