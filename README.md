@@ -15,10 +15,10 @@ Every mod ou resourcepack included in this modpack can be used freely if we cred
 ### Core
 
 - [Timeless and Classics Guns](https://www.curseforge.com/minecraft/mc-mods/timeless-and-classic-guns-tac) [curseforge] -> Guns
-- [Obfuscate](https://www.curseforge.com/minecraft/mc-mods/obfuscate) [curseforge] -> Guns
+- [Obfuscate](https://www.curseforge.com/minecraft/mc-mods/obfuscate) [curseforge] -> lib for Timeless and Classics Guns 
 - [In Control!](https://modrinth.com/mod/in-control) [modrinth] -> Control mob spawn
 - [Zombie Awarness](https://www.curseforge.com/minecraft/mc-mods/zombie-awareness) [curseforge] -> Control mob spawn
-- [CoroUtil](https://www.curseforge.com/minecraft/mc-mods/coroutil) [curseforge] -> Control mob spawn
+- [CoroUtil](https://www.curseforge.com/minecraft/mc-mods/coroutil) [curseforge] -> lib for Zombie Awarness 
 - [The Lost Cities](https://modrinth.com/mod/the-lost-cities) [modrinth] -> Generation
 - [Apocalyptic Arsenal](https://legacy.curseforge.com/minecraft/mc-mods/apocalyptic-arsenal) [curseforge] -> weapons
 
@@ -66,17 +66,19 @@ Everything here is available on modrinth
 #### Resource packs
 
 - [Unity](https://modrinth.com/resourcepack/unity) [modrinth] -> better visual
-- [Fresh Animations](https://legacy.curseforge.com/minecraft/texture-packs/fresh-animations) [curseforge resource packs] -> improve animations
+- [Fresh Animations](https://legacy.curseforge.com/minecraft/texture-packs/fresh-animations) [curseforge] -> improve animations
 - [Tissou's Zombie Pack](https://legacy.curseforge.com/minecraft/texture-packs/tissous-zombie-pack-optifine-1-7x-1-19) [curseforge] -> better zombies textures
 
 ### Apocalypse
 
 - [The Hordes](https://modrinth.com/mod/the-hordes) [modrinth] -> zombies are now in hordes
-- [ChestRefill](https://modrinth.com/mod/chestrefill) [modrinth] -> refill chests
+- [Atlas Lib](https://modrinth.com/mod/atlas-lib) [modrinth] -> lib for The Hordes 
+<!-- - [ChestRefill](https://modrinth.com/mod/chestrefill) [modrinth] -> refill chests NOT AVAILABLE FOR 1.16.5 -->
 - [Decorative Blocks](https://legacy.curseforge.com/minecraft/mc-mods/decorative-blocks) [curseforge] -> obvious
 - [Starter Kit](https://modrinth.com/mod/starter-kit) [modrinth] -> obvious
+- [Collective](https://modrinth.com/mod/starter-kit) [modrinth] -> lib for Starter Kit
 - [First Aid](https://modrinth.com/mod/firstaid) [modrinth] -> refactor the healing and damage systems
-- [Mob Sunscreen](https://modrinth.com/mod/mob-sunscreen) [modrinth] -> make zombies not burning during the day
+- [Mob Sunscreen](https://modrinth.com/mod/mob-sunscreen) [curseforge but newest version is on modrinth] -> make zombies not burning during the day
 - [Total Darkness](https://www.curseforge.com/minecraft/mc-mods/total-darkness) [curseforge] -> total darkness during the night
 
 ### Specific

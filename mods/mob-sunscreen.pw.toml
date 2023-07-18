@@ -1,0 +1,13 @@
+name = "Mob Sunscreen"
+filename = "mobsunscreen-1.16.4-2.1.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b4b6d34ba91b88ff0b52834db47a2d568e16b079"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3105852
+project-id = 298408

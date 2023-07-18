@@ -1682,8 +1682,28 @@ hash = "e350ddb6393e1e8ad16f38a364616a4c9e0641a148c2579c069bcf27b79077ef"
 metafile = true
 
 [[files]]
+file = "mods/atlas-lib.pw.toml"
+hash = "9fce0099cc383465d8093df9855ed964efc44980a2f0a71592d9e9446f90d4ba"
+metafile = true
+
+[[files]]
+file = "mods/collective.pw.toml"
+hash = "6e81b282b239eb64ede96a46a0068d9a523c496505367719b4cb9d4f805c6fe1"
+metafile = true
+
+[[files]]
 file = "mods/coroutil.pw.toml"
 hash = "bc18684b6e860da60a7d1c35b7ef261aba39d369f584d4284d438ed931788dc3"
+metafile = true
+
+[[files]]
+file = "mods/decorative-blocks.pw.toml"
+hash = "65baedb0bceda1864df6d570f9133fe3efb7f93af00ec047372198e552e87c19"
+metafile = true
+
+[[files]]
+file = "mods/firstaid.pw.toml"
+hash = "0eb4c27343f92386c14ca565b835219913213358e659d673b4a88cf83f230a15"
 metafile = true
 
 [[files]]
@@ -1692,8 +1712,23 @@ hash = "d69ce2b6e42309dbd340498a4db5752844e2a95a23c2412bfc4750b6681c7ad6"
 metafile = true
 
 [[files]]
+file = "mods/mob-sunscreen.pw.toml"
+hash = "cfcb70f200c977ad1808b03c6746af809599d81433e7ef8e3eba2cb78f0ae77e"
+metafile = true
+
+[[files]]
 file = "mods/obfuscate.pw.toml"
 hash = "0f17b3547f35c092a7bcfba6e4cdaeb12ea1b0b5828c660516bf3148ab44b7a2"
+metafile = true
+
+[[files]]
+file = "mods/starter-kit.pw.toml"
+hash = "ea68113b41e171487d68695c72778f81e6d3e44eacd9f7e1718cf5407be1babe"
+metafile = true
+
+[[files]]
+file = "mods/the-hordes.pw.toml"
+hash = "ff07d9004a2f64b484fbb3baa1da9b9ac04c5fb6b703516fcc9b5e350ee853f2"
 metafile = true
 
 [[files]]
@@ -1704,6 +1739,11 @@ metafile = true
 [[files]]
 file = "mods/timeless-and-classic-guns-tac.pw.toml"
 hash = "d972531db5b2a25c2a0fc4771c82088b580abf75ea3ed7f70a372b1bf4dbd0af"
+metafile = true
+
+[[files]]
+file = "mods/total-darkness.pw.toml"
+hash = "3d05d13d48e23b43b7d0ffb48f93eb234e7445b17b45024c75c45b1a5fef6711"
 metafile = true
 
 [[files]]

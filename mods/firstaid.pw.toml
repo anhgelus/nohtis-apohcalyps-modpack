@@ -1,0 +1,13 @@
+name = "FirstAid"
+filename = "firstaid-1.9.8.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/eTiYU57B/versions/6gUwNNix/firstaid-1.9.8.jar"
+hash-format = "sha1"
+hash = "b4e6f5c42bce9400563806445b3e0a88b27b8533"
+
+[update]
+[update.modrinth]
+mod-id = "eTiYU57B"
+version = "6gUwNNix"
