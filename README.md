@@ -18,3 +18,13 @@ List of all mods
 - [The Lost Cities](https://modrinth.com/mod/the-lost-cities) [modrinth] -> Generation
 - [Lost Souls](https://modrinth.com/mod/lost-souls) [modrinth] -> Generation
 - [Apocalyptic Arsenal](https://legacy.curseforge.com/minecraft/mc-mods/apocalyptic-arsenal) [curseforge] -> weapons
+
+### Environments
+
+<!-- - [Terra](https://modrinth.com/plugin/terra) [modrinth] -> better generation -->
+- [Chunky](https://modrinth.com/plugin/chunky) [modrinth] -> add pre-generation
+- [Simply Seasons](https://legacy.curseforge.com/minecraft/mc-mods/simply-seasons) [curseforge] -> add seasons
+- [Better Weather](https://legacy.curseforge.com/minecraft/mc-mods/better-weather) [curseforge] -> add seasons
+
+### Improvements
+
