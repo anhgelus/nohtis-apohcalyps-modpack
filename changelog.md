@@ -8,6 +8,7 @@ Add optimizations mods:
 - spark
 - Rubidium Extra
 - Radon
+- Textrue's Rubidium Options
 
 ## 0.2.0
 

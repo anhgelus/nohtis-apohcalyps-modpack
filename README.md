@@ -62,6 +62,7 @@ Everything here is available on modrinth
 - [spark](https://modrinth.com/mod/spark) -> profiling
 - [Rubidium Extra](https://modrinth.com/mod/rubidium-extra) -> sodium extra for forge
 - [Radon](https://modrinth.com/mod/radon) -> phosphor for forge
+- [Textrue's Rubidium Options](https://modrinth.com/mod/textrues-rubidium-options) -> better options for Rubidium
 
 #### Resource packs
 

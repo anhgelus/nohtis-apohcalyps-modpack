@@ -1762,6 +1762,11 @@ hash = "ea68113b41e171487d68695c72778f81e6d3e44eacd9f7e1718cf5407be1babe"
 metafile = true
 
 [[files]]
+file = "mods/textrues-rubidium-options.pw.toml"
+hash = "04d9aeff30bf60b12e6fb2ed076be5eec167fb73bc0f188b397c1890527a4f5a"
+metafile = true
+
+[[files]]
 file = "mods/the-hordes.pw.toml"
 hash = "ff07d9004a2f64b484fbb3baa1da9b9ac04c5fb6b703516fcc9b5e350ee853f2"
 metafile = true
