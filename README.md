@@ -43,7 +43,6 @@ Every mod ou resourcepack included in this modpack can be used freely if we cred
 - [AppleSkin](https://modrinth.com/mod/appleskin) [modrinth] -> improve food visual experience
 - [Visual Overhaul](https://modrinth.com/mod/visual-overhaul) [modrinth] -> improve various visuals
 - [Shutup Experimental Settings!](https://legacy.curseforge.com/minecraft/mc-mods/shutup-experimental-settings) [curseforge] -> remove boring experimental features warning
-- [Dynamic Surroundings](https://legacy.curseforge.com/minecraft/mc-mods/dynamic-surroundings) [curseforge] -> improve audio spatialization
 - [Toast Control](https://legacy.curseforge.com/minecraft/mc-mods/toast-control) [curseforge] -> obvious
 - [Dynamic Trees](https://modrinth.com/mod/dynamictrees) [modrinth] -> obvious
 - [Drip Sounds](https://modrinth.com/mod/waterdripsound) [modrinth] -> add sound

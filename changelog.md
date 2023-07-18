@@ -26,7 +26,6 @@ Add better audio mods:
 - Drip Sounds
 - Cloth Config API
 - Presence Footsteps
-- Dynamic Surroundings
 
 ## 0.2.0
 

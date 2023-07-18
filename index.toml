@@ -6,11 +6,11 @@ hash = "18fb5e491dd880526a6d2dba993a1574fb4056ce939004da9b0f677fd6cca434"
 
 [[files]]
 file = "README.md"
-hash = "fd693df6081706770c1011c25ba41469726b0e2e0a9f22fbfe2ee89f048f0ec4"
+hash = "8957708059a2d1befd878649c56312177ee17ce4f891a0286ede9e257ac17672"
 
 [[files]]
 file = "changelog.md"
-hash = "7c411a0a7b1ac6288b8e54839f304998e6bb9ec9e0af6ab5564620c30579ec77"
+hash = "c03930f86dbb2955ec7cdb08ca0609feb9917b71dcdf2d429116d38a5061fc9f"
 
 [[files]]
 file = "config/CoroUtil/BlockDestruction.cfg"
@@ -1714,11 +1714,6 @@ metafile = true
 [[files]]
 file = "mods/decorative-blocks.pw.toml"
 hash = "65baedb0bceda1864df6d570f9133fe3efb7f93af00ec047372198e552e87c19"
-metafile = true
-
-[[files]]
-file = "mods/dynamic-surroundings.pw.toml"
-hash = "9c9f0fea9b27f4a12882536e553fe97b1c83affcde3230edd9a97e1fd9fd71d1"
 metafile = true
 
 [[files]]
