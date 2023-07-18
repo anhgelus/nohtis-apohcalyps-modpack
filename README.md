@@ -77,3 +77,10 @@ Everything here is available on modrinth
 - [First Aid](https://modrinth.com/mod/firstaid) [modrinth] -> refactor the healing and damage systems
 - [Mob Sunscreen](https://modrinth.com/mod/mob-sunscreen) [modrinth] -> make zombies not burning during the day
 
+### Specific
+
+- [Simple Voice Chat](https://modrinth.com/plugin/simple-voice-chat) [modrinth] -> obvious
+- [CraftPresence](https://modrinth.com/mod/craftpresence) [modrinth] -> add a rich presence to Discord
+- [Custom Player Models](https://modrinth.com/plugin/custom-player-models) [modrinth] -> customize player models
+- [cpmsvcc](https://modrinth.com/mod/cpmsvcc) [modrinth] -> compat mod between simple voice chat and custom player models
+
