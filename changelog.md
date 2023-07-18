@@ -1,4 +1,4 @@
-## 0.3.0-alpha.1
+## 0.3.0
 
 Add optimizations mods:
 - Entity Culling
@@ -9,6 +9,11 @@ Add optimizations mods:
 - Rubidium Extra
 - Radon
 - Textrue's Rubidium Options
+
+Add resource packs:
+- Unity
+- Fresh Animations
+- Tissou's Zombie Pack
 
 ## 0.2.0
 

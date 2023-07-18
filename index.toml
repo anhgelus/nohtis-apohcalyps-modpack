@@ -1792,8 +1792,18 @@ hash = "f8bf2673fcaeb856f57a5d37d87beb059af67fa8bf45b7d6b0a7b55ddfef5e69"
 metafile = true
 
 [[files]]
+file = "resourcepacks/fresh-animations.pw.toml"
+hash = "afa5d71911ec7ec83b95383fe9599c0ccd96669ee53d5804a338110c3a164085"
+metafile = true
+
+[[files]]
 file = "resourcepacks/tissous-zombie-pack-optifine-1-7x-1-19.pw.toml"
-hash = "90111db4c1a7b91f12497b173d224b1e5ba11fb7a933f489d32e6e5f584ef951"
+hash = "9292a38a6d15ab5aff343a1ab467bd6f11603d2766aac942adcb4bf47e9c687b"
+metafile = true
+
+[[files]]
+file = "resourcepacks/unity.pw.toml"
+hash = "57eca4f53af25130d30d4ab51e5562453b5dca4d1eb786447f24974fc900b85a"
 metafile = true
 
 [[files]]
