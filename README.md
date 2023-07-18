@@ -28,3 +28,36 @@ List of all mods
 
 ### Improvements
 
+- [Sophisticated Backpacks](https://legacy.curseforge.com/minecraft/mc-mods/sophisticated-backpacks) [curseforge] -> add backpacks
+- [AmbientSounds 5](https://legacy.curseforge.com/minecraft/mc-mods/ambientsounds) [curseforge] -> add bunch of new sounds
+- [Effective](https://legacy.curseforge.com/minecraft/mc-mods/effective-forge) [curseforge] -> add animations and sounds
+- [Mouse Tweaks](https://modrinth.com/mod/mouse-tweaks) [modrinth] -> better mouse related features
+- [Not Enough Animations](https://legacy.curseforge.com/minecraft/mc-mods/not-enough-animations) [curseforge but newest version is on modrinth] -> add animations for player
+- [Entity Texture Features](https://modrinth.com/mod/entitytexturefeatures) [modrinth] -> support of optifine resource packs
+- [Entity Model Features](https://modrinth.com/mod/entity-model-features) [modrinth] -> support of optifine resource packs
+- [MoreMcmeta](https://modrinth.com/mod/moremcmeta) [modrinth] -> support of optifine resource packs and more
+- [MoreMcmeta Emissive Textures](https://modrinth.com/mod/moremcmeta-emissive) [modrinth] -> support of optifine resource packs
+- [3D Skin Layers](https://legacy.curseforge.com/minecraft/mc-mods/skin-layers-3d) [curseforge but newest version is on modrinth] -> improve skins
+- [AppleSkin](https://modrinth.com/mod/appleskin) [modrinth] -> improve food visual experience
+- [Visual Overhaul](https://modrinth.com/mod/visual-overhaul) [modrinth] -> improve various visuals
+- [Shutup Experimental Settings!](https://legacy.curseforge.com/minecraft/mc-mods/shutup-experimental-settings) [curseforge] -> remove boring experimental features warning
+- [Dynamic Surroundings](https://legacy.curseforge.com/minecraft/mc-mods/dynamic-surroundings) [curseforge] -> improve audio spatialization
+- [TinyInv](https://legacy.curseforge.com/minecraft/mc-mods/tinyinv) [curseforge] -> reduce inventory size
+
+#### Optimizations
+
+Everything here is available on modrinth
+
+- [Entity Culling](https://modrinth.com/mod/entityculling) -> entity perf
+- [Ferrite Core](https://modrinth.com/mod/ferrite-core) -> memory usage
+- [Memory Leak Fix](https://modrinth.com/mod/memoryleakfix) -> obvious
+- [Rubidium](https://modrinth.com/mod/rubidium) -> sodium for forge
+- [spark](https://modrinth.com/mod/spark) -> profiling
+- [Rubidium Extra](https://modrinth.com/mod/rubidium-extra) -> sodium extra for forge
+- [Radon](https://modrinth.com/mod/radon) -> phosphor for forge
+
+#### Resource packs
+
+- [Unity](https://modrinth.com/resourcepack/unity) [modrinth] -> better visual
+- [Fresh Animations](https://legacy.curseforge.com/minecraft/texture-packs/fresh-animations) [curseforge resource packs] -> improve animations
+- [Tissou's Zombie Pack](https://legacy.curseforge.com/minecraft/texture-packs/tissous-zombie-pack-optifine-1-7x-1-19) [curseforge] -> better zombies textures
