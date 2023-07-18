@@ -37,7 +37,6 @@ Every mod ou resourcepack included in this modpack can be used freely if we cred
 - [Mouse Tweaks](https://modrinth.com/mod/mouse-tweaks) [modrinth] -> better mouse related features
 - [Not Enough Animations](https://legacy.curseforge.com/minecraft/mc-mods/not-enough-animations) [curseforge but newest version is on modrinth] -> add animations for player
 - [Entity Texture Features](https://modrinth.com/mod/entitytexturefeatures) [modrinth] -> support of optifine resource packs
-- [Entity Model Features](https://modrinth.com/mod/entity-model-features) [modrinth] -> support of optifine resource packs
 - [MoreMcmeta](https://modrinth.com/mod/moremcmeta) [modrinth] -> support of optifine resource packs and more
 - [MoreMcmeta Emissive Textures](https://modrinth.com/mod/moremcmeta-emissive) [modrinth] -> support of optifine resource packs
 - [3D Skin Layers](https://legacy.curseforge.com/minecraft/mc-mods/skin-layers-3d) [curseforge but newest version is on modrinth] -> improve skins

@@ -6,11 +6,11 @@ hash = "18fb5e491dd880526a6d2dba993a1574fb4056ce939004da9b0f677fd6cca434"
 
 [[files]]
 file = "README.md"
-hash = "e08b7e16054b753f582f4c5cb3e4095427c7e5ccaacd368390ab99e3ff2fb557"
+hash = "fd693df6081706770c1011c25ba41469726b0e2e0a9f22fbfe2ee89f048f0ec4"
 
 [[files]]
 file = "changelog.md"
-hash = "ca2ee6dc9d62c0d5c67f712d8859090fef0ef977d648f6e034950dcc80e0b2a8"
+hash = "7c411a0a7b1ac6288b8e54839f304998e6bb9ec9e0af6ab5564620c30579ec77"
 
 [[files]]
 file = "config/CoroUtil/BlockDestruction.cfg"
@@ -1707,6 +1707,11 @@ hash = "b3a6b53d4c840fbcd72686d9de2d557e4cd4f735a719ae13f28a6d80087b17c8"
 metafile = true
 
 [[files]]
+file = "mods/entitytexturefeatures.pw.toml"
+hash = "3c26262a9f34218ea9afed6156b79868e6c37d4af3d5025e4c33f72104d33661"
+metafile = true
+
+[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "9229256d490bb93c7194d09fe3ff151e2573d1514b0d515697f0e024f522757e"
 metafile = true
@@ -1729,6 +1734,16 @@ metafile = true
 [[files]]
 file = "mods/mob-sunscreen.pw.toml"
 hash = "cfcb70f200c977ad1808b03c6746af809599d81433e7ef8e3eba2cb78f0ae77e"
+metafile = true
+
+[[files]]
+file = "mods/moremcmeta-emissive.pw.toml"
+hash = "339493e172a5934f4645555e3fdb2d637e11d72cd5975cd2ea00a9c3a2d492f8"
+metafile = true
+
+[[files]]
+file = "mods/moremcmeta.pw.toml"
+hash = "6f8da721bb7aec1d447de378e2b41642a0e0b16ae15df35d2273969cb228b8d9"
 metafile = true
 
 [[files]]

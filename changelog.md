@@ -15,6 +15,11 @@ Add resource packs:
 - Fresh Animations
 - Tissou's Zombie Pack
 
+Add compatibility mods:
+- Entity Texture Features
+- MoreMcmeta
+- MoreMcmeta Emissive Textures
+
 ## 0.2.0
 
 Add apocalypse mods:
