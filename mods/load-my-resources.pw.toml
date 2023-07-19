@@ -1,0 +1,13 @@
+name = "Load My Resources"
+filename = "loadmyresources_forge_1.0.4_MC_1.16.2-1.16.5.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/TqCKvqjC/versions/gXzSBMIG/loadmyresources_forge_1.0.4_MC_1.16.2-1.16.5.jar"
+hash-format = "sha1"
+hash = "22e20624ebf8f49520c4bdb54f010c4a509c6f11"
+
+[update]
+[update.modrinth]
+mod-id = "TqCKvqjC"
+version = "gXzSBMIG"
