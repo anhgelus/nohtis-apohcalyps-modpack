@@ -1687,6 +1687,11 @@ hash = "e350ddb6393e1e8ad16f38a364616a4c9e0641a148c2579c069bcf27b79077ef"
 metafile = true
 
 [[files]]
+file = "mods/appleskin.pw.toml"
+hash = "42ba53cdfea395da6145c7dfe01e524e687811ed216a467a7479e0d82612a2cf"
+metafile = true
+
+[[files]]
 file = "mods/atlas-lib.pw.toml"
 hash = "9fce0099cc383465d8093df9855ed964efc44980a2f0a71592d9e9446f90d4ba"
 metafile = true
@@ -1762,6 +1767,11 @@ hash = "6f8da721bb7aec1d447de378e2b41642a0e0b16ae15df35d2273969cb228b8d9"
 metafile = true
 
 [[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "63dd8166fef37f67155a4a434d7f55feddbb4e1fb621dfe89c1d43d8a659e25b"
+metafile = true
+
+[[files]]
 file = "mods/not-enough-animations.pw.toml"
 hash = "a2f711f1839ab165cd0443d2dbd8f5e2a0c4cd5a2b049e28c10082fb0991cf09"
 metafile = true
@@ -1794,6 +1804,11 @@ metafile = true
 [[files]]
 file = "mods/rubidium.pw.toml"
 hash = "046b1b3e091e58b3f8a17616249df036d788063cc97fbfc49ba86ee33ac800e4"
+metafile = true
+
+[[files]]
+file = "mods/shutup-experimental-settings.pw.toml"
+hash = "bdbf0e89c6bdfcac33f44921835b4a7e7b909214d99badb1d8e15200f836bb90"
 metafile = true
 
 [[files]]

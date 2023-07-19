@@ -34,7 +34,9 @@ Add better visual mods:
 - Placebo
 
 Add useful mods:
-- 
+- Mouse Tweaks
+- Apple Skin
+- Shutup Experimental Settings!
 
 ## 0.2.0
 
