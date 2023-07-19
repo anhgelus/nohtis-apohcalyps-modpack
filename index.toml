@@ -6,11 +6,11 @@ hash = "18fb5e491dd880526a6d2dba993a1574fb4056ce939004da9b0f677fd6cca434"
 
 [[files]]
 file = "README.md"
-hash = "8957708059a2d1befd878649c56312177ee17ce4f891a0286ede9e257ac17672"
+hash = "83f8c5e8f9358beab9c853ddc223966a2edab0b80a6f52c1dbf4852bac7bfb96"
 
 [[files]]
 file = "changelog.md"
-hash = "c03930f86dbb2955ec7cdb08ca0609feb9917b71dcdf2d429116d38a5061fc9f"
+hash = "c1dec8dbee755803f03fd8c65f9f04db5eb2d3c6311b008a307e64232d472362"
 
 [[files]]
 file = "config/CoroUtil/BlockDestruction.cfg"
@@ -1773,7 +1773,7 @@ metafile = true
 
 [[files]]
 file = "mods/placebo.pw.toml"
-hash = "df131c90cffa526168fb5d888d8c73d20d754519adce137b6668bb88a0dd97ab"
+hash = "8909f6b209fce7c52d625bc9ad4cb5b2116e4823dd75a71e9a8f5a546d1d0f94"
 metafile = true
 
 [[files]]
@@ -1843,7 +1843,7 @@ metafile = true
 
 [[files]]
 file = "mods/transliterationlib.pw.toml"
-hash = "5e85fbc57b9bd2aaa2d8975882ee8229e1e113bf791d23c1cf75a7f222ed7b48"
+hash = "b97e70a89e474dbca792257920c6b6b24846c99fc2ba89b1262763207ab4e88c"
 metafile = true
 
 [[files]]

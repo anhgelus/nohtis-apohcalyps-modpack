@@ -33,6 +33,9 @@ Add better visual mods:
 - Toast Control
 - Placebo
 
+Add useful mods:
+- 
+
 ## 0.2.0
 
 Add apocalypse mods:

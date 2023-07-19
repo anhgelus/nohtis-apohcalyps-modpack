@@ -1,13 +1,13 @@
 name = "TRansliterationLib"
-filename = "TRansliterationLib-1.0.3.jar"
+filename = "TRansliterationLib-1.0.4.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "13105af6a503215abb1577d4c81d9a928efa0772"
+hash = "aff3715d0df300697760d9f6937bcec10a6bdbd0"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3243117
+file-id = 3251051
 project-id = 441024

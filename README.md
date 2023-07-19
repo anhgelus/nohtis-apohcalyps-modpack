@@ -10,7 +10,7 @@ Powered by [Packwiz](https://github.com/packwiz/packwiz).
 
 List of all mods and resourcepacks.
 
-Every mod ou resourcepack included in this modpack can be used freely if we credit to the author.
+Every mod ou resourcepack included in this modpack can be used freely if we credit to the author (according to the license or its description).
 
 ### Core
 
