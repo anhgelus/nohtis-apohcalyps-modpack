@@ -1762,8 +1762,18 @@ hash = "6f8da721bb7aec1d447de378e2b41642a0e0b16ae15df35d2273969cb228b8d9"
 metafile = true
 
 [[files]]
+file = "mods/not-enough-animations.pw.toml"
+hash = "a2f711f1839ab165cd0443d2dbd8f5e2a0c4cd5a2b049e28c10082fb0991cf09"
+metafile = true
+
+[[files]]
 file = "mods/obfuscate.pw.toml"
 hash = "0f17b3547f35c092a7bcfba6e4cdaeb12ea1b0b5828c660516bf3148ab44b7a2"
+metafile = true
+
+[[files]]
+file = "mods/placebo.pw.toml"
+hash = "df131c90cffa526168fb5d888d8c73d20d754519adce137b6668bb88a0dd97ab"
 metafile = true
 
 [[files]]
@@ -1784,6 +1794,11 @@ metafile = true
 [[files]]
 file = "mods/rubidium.pw.toml"
 hash = "046b1b3e091e58b3f8a17616249df036d788063cc97fbfc49ba86ee33ac800e4"
+metafile = true
+
+[[files]]
+file = "mods/skin-layers-3d.pw.toml"
+hash = "4beb580f470b78844b1012419ef1f35232b57d8048e45f00b8d795f7f4ec3c73"
 metafile = true
 
 [[files]]
@@ -1817,8 +1832,18 @@ hash = "d972531db5b2a25c2a0fc4771c82088b580abf75ea3ed7f70a372b1bf4dbd0af"
 metafile = true
 
 [[files]]
+file = "mods/toast-control.pw.toml"
+hash = "bad023f10c1f3d68273578e04239f7f97abd8af557744c36c848583b3996fc67"
+metafile = true
+
+[[files]]
 file = "mods/total-darkness.pw.toml"
 hash = "3d05d13d48e23b43b7d0ffb48f93eb234e7445b17b45024c75c45b1a5fef6711"
+metafile = true
+
+[[files]]
+file = "mods/transliterationlib.pw.toml"
+hash = "5e85fbc57b9bd2aaa2d8975882ee8229e1e113bf791d23c1cf75a7f222ed7b48"
 metafile = true
 
 [[files]]

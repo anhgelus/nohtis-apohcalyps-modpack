@@ -27,6 +27,12 @@ Add better audio mods:
 - Cloth Config API
 - Presence Footsteps
 
+Add better visual mods:
+- Not Enough Animations
+- TRansliterationLib
+- Toast Control
+- Placebo
+
 ## 0.2.0
 
 Add apocalypse mods:
