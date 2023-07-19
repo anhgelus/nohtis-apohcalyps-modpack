@@ -1,3 +1,8 @@
+## 0.5.0
+
+Add new apocalypse mods:
+- 
+
 ## 0.4.0
 
 Add specific mods:

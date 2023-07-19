@@ -29,6 +29,7 @@ Every mod ou resourcepack included in this modpack can be used freely if we cred
 - [Chunky](https://modrinth.com/plugin/chunky) [modrinth] -> add pre-generation
 - [Simply Seasons](https://legacy.curseforge.com/minecraft/mc-mods/simply-seasons) [curseforge] -> add seasons
 - [Better Weather](https://legacy.curseforge.com/minecraft/mc-mods/better-weather) [curseforge] -> add seasons
+- [Dynamic Trees](https://modrinth.com/mod/dynamictrees) [modrinth] -> obvious
 
 ### Improvements
 
@@ -81,7 +82,6 @@ Everything here is available on modrinth
 - [Total Darkness](https://www.curseforge.com/minecraft/mc-mods/total-darkness) [curseforge] -> total darkness during the night
 - [Sophisticated Backpacks](https://legacy.curseforge.com/minecraft/mc-mods/sophisticated-backpacks) [curseforge] -> add backpacks
 - [TinyInv](https://legacy.curseforge.com/minecraft/mc-mods/tinyinv) [curseforge] -> reduce inventory size
-- [Dynamic Trees](https://modrinth.com/mod/dynamictrees) [modrinth] -> obvious
 
 ### Specific
 
