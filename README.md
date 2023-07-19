@@ -17,8 +17,8 @@ Every mod ou resourcepack included in this modpack can be used freely if we cred
 - [Timeless and Classics Guns](https://www.curseforge.com/minecraft/mc-mods/timeless-and-classic-guns-tac) [curseforge] -> Guns
 - [Curios API](https://modrinth.com/mod/curios) [modrinth] -> lib for Timeless and Classics Guns 
 - [Obfuscate](https://www.curseforge.com/minecraft/mc-mods/obfuscate) [curseforge] -> lib for Timeless and Classics Guns 
-- [In Control!](https://modrinth.com/mod/in-control) [modrinth] -> Control mob spawn
-- [Zombie Awarness](https://www.curseforge.com/minecraft/mc-mods/zombie-awareness) [curseforge] -> Control mob spawn
+- [In Control!](https://modrinth.com/mod/in-control) [modrinth] -> control mob spawn
+- [Zombie Awarness](https://www.curseforge.com/minecraft/mc-mods/zombie-awareness) [curseforge] -> control zombies 
 - [CoroUtil](https://www.curseforge.com/minecraft/mc-mods/coroutil) [curseforge] -> lib for Zombie Awarness 
 - [BadMobs](https://modrinth.com/mod/bad-mobs) [modrinth] -> disable spawns of certain mobs 
 - [The Lost Cities](https://modrinth.com/mod/the-lost-cities) [modrinth] -> Generation
@@ -83,6 +83,7 @@ Everything here is available on modrinth
 - [Total Darkness](https://www.curseforge.com/minecraft/mc-mods/total-darkness) [curseforge] -> total darkness during the night
 - [Sophisticated Backpacks](https://legacy.curseforge.com/minecraft/mc-mods/sophisticated-backpacks) [curseforge] -> add backpacks
 - [TinyInv](https://legacy.curseforge.com/minecraft/mc-mods/tinyinv) [curseforge] -> reduce inventory size
+- [Fx Control!](https://modrinth.com/mod/fx-control) [modrinth] -> control various things
 
 ### Specific
 

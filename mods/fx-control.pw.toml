@@ -1,0 +1,13 @@
+name = "Fx Control!"
+filename = "fxcontrol-1.16-2.0.15.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/9Y4LQBHG/versions/H5aPZzJ5/fxcontrol-1.16-2.0.15.jar"
+hash-format = "sha1"
+hash = "28010df3340f7c2abe2a21c7e2db6bcf48a520ee"
+
+[update]
+[update.modrinth]
+mod-id = "9Y4LQBHG"
+version = "H5aPZzJ5"

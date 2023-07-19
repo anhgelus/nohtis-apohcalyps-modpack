@@ -3,7 +3,11 @@
 Add new core mod:
 - BadMobs
 
-Customize spawn of zombies
+Add new apocalypse mods:
+- In Control!
+- Fx Control!
+
+Customize spawn and loot of zombies
 
 Disable spawn of every mobs excepted zombies
 
