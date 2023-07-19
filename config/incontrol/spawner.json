@@ -1,0 +1,11 @@
+[
+	{
+		"mob": "minecraft:zombie",
+		"persecond": "0.5",
+		"attempts": "3",
+		"amount": {
+			"minimum": 2,
+			"maximum": 7
+		}
+	}
+]

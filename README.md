@@ -20,6 +20,7 @@ Every mod ou resourcepack included in this modpack can be used freely if we cred
 - [In Control!](https://modrinth.com/mod/in-control) [modrinth] -> Control mob spawn
 - [Zombie Awarness](https://www.curseforge.com/minecraft/mc-mods/zombie-awareness) [curseforge] -> Control mob spawn
 - [CoroUtil](https://www.curseforge.com/minecraft/mc-mods/coroutil) [curseforge] -> lib for Zombie Awarness 
+- [BadMobs](https://modrinth.com/mod/bad-mobs) [modrinth] -> disable spawns of certain mobs 
 - [The Lost Cities](https://modrinth.com/mod/the-lost-cities) [modrinth] -> Generation
 - [Apocalyptic Arsenal](https://legacy.curseforge.com/minecraft/mc-mods/apocalyptic-arsenal) [curseforge] -> weapons
 

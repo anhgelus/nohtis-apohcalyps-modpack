@@ -1,0 +1,45 @@
+[
+	{
+		"name": "after_d5",
+		"conditions": {
+			"mindaycount": "5"
+		}
+	},
+	{
+		"name": "after_d10",
+		"conditions": {
+			"mindaycount": "10"
+		}
+	},
+	{
+		"name": "after_d25",
+		"conditions": {
+			"mindaycount": "25"
+		}
+	},
+	{
+		"name": "after_d50",
+		"conditions": {
+			"mindaycount": "50"
+		}
+	},
+	{
+		"name": "after_d100",
+		"conditions": {
+			"mindaycount": "100"
+		}
+	},
+	{
+		"name": "after_d250",
+		"conditions": {
+			"mindaycount": "250"
+		}
+	},
+	{
+		"name": "after_d500",
+		"conditions": {
+			"mindaycount": "500"
+		}
+	
+	}
+]

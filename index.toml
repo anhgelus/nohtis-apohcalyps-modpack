@@ -1697,6 +1697,11 @@ hash = "9fce0099cc383465d8093df9855ed964efc44980a2f0a71592d9e9446f90d4ba"
 metafile = true
 
 [[files]]
+file = "mods/bad-mobs.pw.toml"
+hash = "c8dc3e41cd907d146903a406a0483556e316c1d1371f98faae95442a0b86772b"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "d8ad4a7198e83c6aa0597706e301f5ff798323624b9da4ea3283df4649eaae38"
 metafile = true
