@@ -11,6 +11,8 @@ Customize spawn and loot of zombies
 
 Disable spawn of every mobs excepted zombies
 
+Customize configs of important mods
+
 ## 0.5.0
 
 Add new apocalypse mods:
