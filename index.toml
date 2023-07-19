@@ -250,6 +250,11 @@ hash = "317eb19f430bbc6bc21dc5d605fc1db01c01c35c4d12a5bc6f10cc9d5cccbbee"
 metafile = true
 
 [[files]]
+file = "mods/load-my-resources.pw.toml"
+hash = "c311fc8605f2611ab898c4bd40b73e7b13df625d414d476533916363040ef38d"
+metafile = true
+
+[[files]]
 file = "mods/memoryleakfix.pw.toml"
 hash = "c079d2905b1cf1d1535d270e2409274a77b8a5a654537449be5dee1fc23e3cfe"
 metafile = true

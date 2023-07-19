@@ -1,3 +1,9 @@
+## 0.7.0
+
+Add mod Load My Resources
+
+Customize resources for cities
+
 ## 0.6.0
 
 Add new core mod:
