@@ -1,0 +1,10 @@
+
+[general]
+	#Should draw overlay over the fake slots
+	fake_slot_overlay = true
+	#Java packages that contain the GUI classes, that should not be affected by the . Separate by ;
+	default_tooltip_GUIs = "mezz.jei.gui"
+	#Color of the fake slot overlay
+	#Range: > 0
+	fake_slot_overlay_color = 13027014
+
