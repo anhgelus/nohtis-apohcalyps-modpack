@@ -6,11 +6,11 @@ hash = "18fb5e491dd880526a6d2dba993a1574fb4056ce939004da9b0f677fd6cca434"
 
 [[files]]
 file = "README.md"
-hash = "7d0b60c4419c3783d16b416e03f3ab798b3b92e0a2680dfd4adfa5dda2eab426"
+hash = "0a1a3ec0e24fadaac073fc576d7ea2371b93e38db5106801c6ad75fb2197b211"
 
 [[files]]
 file = "changelog.md"
-hash = "da85dd9d53a86f53875ae6a3af2de8a1f337f6003179d82be88af64861ae07d8"
+hash = "77e71f826ef996c21d0beba2c1bb6e032fc22d578c3a58af3100443615b5b4fd"
 
 [[files]]
 file = "config/CoroUtil/BlockDestruction.cfg"
