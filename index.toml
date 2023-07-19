@@ -233,12 +233,12 @@ metafile = true
 
 [[files]]
 file = "mods/fx-control.pw.toml"
-hash = "f9810a73598205ccda7f973bacd334d4701b5590ef0e844aa86f1bb2f52f8d79"
+hash = "9c7bc14c64f1f137158c65d87820499e42ba0cde2063be5e3ca80ef0af8c689c"
 metafile = true
 
 [[files]]
 file = "mods/in-control.pw.toml"
-hash = "d69ce2b6e42309dbd340498a4db5752844e2a95a23c2412bfc4750b6681c7ad6"
+hash = "317eb19f430bbc6bc21dc5d605fc1db01c01c35c4d12a5bc6f10cc9d5cccbbee"
 metafile = true
 
 [[files]]

@@ -16,5 +16,5 @@
 	dark_end_fog = 0.0
 	dark_skyless = true
 	#Range: 0.0 ~ 1.0
-	minimum_light = 0.1
+	minimum_light = 0.05
 
