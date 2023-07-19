@@ -6,11 +6,11 @@ hash = "18fb5e491dd880526a6d2dba993a1574fb4056ce939004da9b0f677fd6cca434"
 
 [[files]]
 file = "README.md"
-hash = "de0651d8ef849ee5d787a69aa7dfb0eea2d6c68b932d90eb44065b496ec4eb14"
+hash = "22769b6c99a69fad8451d377d1db650a66aedfca7d89169316f47c753b4e6f19"
 
 [[files]]
 file = "changelog.md"
-hash = "42154c1464e38309c8495e89ea0df17f207ef3610b4e546cba3c20bd5dce67b6"
+hash = "b4929361d7f7846ee4786b2a4eabd38ca3d10f8a9e6b5d796d86888b2d14c559"
 
 [[files]]
 file = "config/badmobs-common.toml"
@@ -26,7 +26,7 @@ hash = "219d15711c9f69a4d1b571357707b269ad49ed89be8816b18354191967841588"
 
 [[files]]
 file = "config/incontrol/loot.json"
-hash = "5d4fe6157c7b282fb4c5978ba832c3774b803462ef555b6ab44eda6c1a4c2dfd"
+hash = "a4c8475743e2a0878ac767c852324437726d55f272f1307f108669f1380be7f7"
 
 [[files]]
 file = "config/incontrol/main.cfg"
@@ -74,7 +74,7 @@ hash = "ee0db8463dc5220a0397eb362e8583747c265882456e808076d7d6e86271c222"
 
 [[files]]
 file = "config/lostcities/profiles/nothis-apohcalyps.json"
-hash = "1ebe1f4ddc2b962400a480df8aa7bb152e23ac1e1d5bb0c35d2ca0551a001cb6"
+hash = "b328e4c8f4b79a1d0b61aaf42b27ba05fdb37df020207ec7d9764e2ff25c07f8"
 
 [[files]]
 file = "config/lostcities/profiles/onlycities.json"
@@ -395,11 +395,6 @@ hash = "f8bf2673fcaeb856f57a5d37d87beb059af67fa8bf45b7d6b0a7b55ddfef5e69"
 metafile = true
 
 [[files]]
-file = "resourcepacks/fresh-animations.pw.toml"
-hash = "afa5d71911ec7ec83b95383fe9599c0ccd96669ee53d5804a338110c3a164085"
-metafile = true
-
-[[files]]
 file = "resourcepacks/tissous-zombie-pack-optifine-1-7x-1-19.pw.toml"
 hash = "9292a38a6d15ab5aff343a1ab467bd6f11603d2766aac942adcb4bf47e9c687b"
 metafile = true
@@ -408,230 +403,6 @@ metafile = true
 file = "resourcepacks/unity.pw.toml"
 hash = "57eca4f53af25130d30d4ab51e5562453b5dca4d1eb786447f24974fc900b85a"
 metafile = true
-
-[[files]]
-file = "resources/dsurround/sounds/ambient/bison/bison1.ogg"
-hash = "1122f3a27e4f04ca4b004d02cbf90ec54770003a8e203bf5c4c6ccf598188b7f"
-
-[[files]]
-file = "resources/dsurround/sounds/ambient/bison/bison2.ogg"
-hash = "1122f3a27e4f04ca4b004d02cbf90ec54770003a8e203bf5c4c6ccf598188b7f"
-
-[[files]]
-file = "resources/dsurround/sounds/ambient/bison/bison3.ogg"
-hash = "1122f3a27e4f04ca4b004d02cbf90ec54770003a8e203bf5c4c6ccf598188b7f"
-
-[[files]]
-file = "resources/dsurround/sounds/ambient/bison/bison4.ogg"
-hash = "1122f3a27e4f04ca4b004d02cbf90ec54770003a8e203bf5c4c6ccf598188b7f"
-
-[[files]]
-file = "resources/dsurround/sounds/ambient/crock/crocodile1.ogg"
-hash = "1122f3a27e4f04ca4b004d02cbf90ec54770003a8e203bf5c4c6ccf598188b7f"
-
-[[files]]
-file = "resources/dsurround/sounds/ambient/crock/crocodile2.ogg"
-hash = "1122f3a27e4f04ca4b004d02cbf90ec54770003a8e203bf5c4c6ccf598188b7f"
-
-[[files]]
-file = "resources/dsurround/sounds/ambient/crock/crocodile3.ogg"
-hash = "1122f3a27e4f04ca4b004d02cbf90ec54770003a8e203bf5c4c6ccf598188b7f"
-
-[[files]]
-file = "resources/dsurround/sounds/ambient/crock/crocodile4.ogg"
-hash = "1122f3a27e4f04ca4b004d02cbf90ec54770003a8e203bf5c4c6ccf598188b7f"
-
-[[files]]
-file = "resources/dsurround/sounds/ambient/dimension/nether.ogg"
-hash = "3d8d874276ae72153ca03f9f142b7705c2af46a8fe6ba75b09c812ee81dd1bf5"
-
-[[files]]
-file = "resources/dsurround/sounds/ambient/elephant/elephant1.ogg"
-hash = "1122f3a27e4f04ca4b004d02cbf90ec54770003a8e203bf5c4c6ccf598188b7f"
-
-[[files]]
-file = "resources/dsurround/sounds/ambient/elephant/elephant2.ogg"
-hash = "1122f3a27e4f04ca4b004d02cbf90ec54770003a8e203bf5c4c6ccf598188b7f"
-
-[[files]]
-file = "resources/dsurround/sounds/ambient/elephant/elephant3.ogg"
-hash = "1122f3a27e4f04ca4b004d02cbf90ec54770003a8e203bf5c4c6ccf598188b7f"
-
-[[files]]
-file = "resources/dsurround/sounds/ambient/end/end.ogg"
-hash = "946279f21825d6d39d138a85fee0d339a381571de32a7152ae3e3649f30c497d"
-
-[[files]]
-file = "resources/dsurround/sounds/ambient/frog/bullfrog1.ogg"
-hash = "e015a07229b68d7a314fbda404d3cc84dae4dc83d46ef1122680e09a78e57120"
-
-[[files]]
-file = "resources/dsurround/sounds/ambient/frog/bullfrog2.ogg"
-hash = "5c369f90e0f3a5b1f99cf72e46ad3a2c29eb3d6480b596070b44c2537810e89e"
-
-[[files]]
-file = "resources/dsurround/sounds/ambient/frog/bullfrog3.ogg"
-hash = "84bc45b832b15a0445d86bc1888eaa3472a4b5ef10dd378fb94646ee214a9155"
-
-[[files]]
-file = "resources/dsurround/sounds/ambient/frog/bullfrog4.ogg"
-hash = "7432511e0aeca3ffbc0170893c53a3f82eb36daf07ad7765f24fad0605583761"
-
-[[files]]
-file = "resources/dsurround/sounds/ambient/frog/croak1.ogg"
-hash = "2139920b3877eabc74762eda65a0e1be2a94362e64f3c748ffdd199d5e704548"
-
-[[files]]
-file = "resources/dsurround/sounds/ambient/frog/croak2.ogg"
-hash = "ac0034da73a81aae1210b866ab45b5e46968fa13940ec3703a6587b37a06e877"
-
-[[files]]
-file = "resources/dsurround/sounds/ambient/frog/croak3.ogg"
-hash = "3bcb13e7b7849df485ba824ca814b8f62c84111fc18ecb67d870287c7c5c1b87"
-
-[[files]]
-file = "resources/dsurround/sounds/ambient/insects/bee1.ogg"
-hash = "61cd3659a3a7be964e7616e7ebfe173751e46c1627afdada44bedf5eeaf14997"
-
-[[files]]
-file = "resources/dsurround/sounds/ambient/insects/gnatt1.ogg"
-hash = "01f2e8d49f90fa2865eeb76663acb5267e6b2e3274418ae2ca28801aae1d226d"
-
-[[files]]
-file = "resources/dsurround/sounds/ambient/insects/grasshopper1.ogg"
-hash = "e1fb7674714c4ee3201ba917eadbdf5fb31dfa0b790e7e025d27de12448d391d"
-
-[[files]]
-file = "resources/dsurround/sounds/ambient/outside/beach.ogg"
-hash = "046716081f6116061c03406b75b38110bf053d245e573c7daf825d30f31e4111"
-
-[[files]]
-file = "resources/dsurround/sounds/ambient/outside/wind.ogg"
-hash = "df3682d7ec6d7a3b11669c004f53f825b5c2779d85c898c26b3c47420a6ef9be"
-
-[[files]]
-file = "resources/dsurround/sounds/ambient/primate/primate1.ogg"
-hash = "1122f3a27e4f04ca4b004d02cbf90ec54770003a8e203bf5c4c6ccf598188b7f"
-
-[[files]]
-file = "resources/dsurround/sounds/ambient/primate/primate2.ogg"
-hash = "1122f3a27e4f04ca4b004d02cbf90ec54770003a8e203bf5c4c6ccf598188b7f"
-
-[[files]]
-file = "resources/dsurround/sounds/ambient/primate/primate3.ogg"
-hash = "1122f3a27e4f04ca4b004d02cbf90ec54770003a8e203bf5c4c6ccf598188b7f"
-
-[[files]]
-file = "resources/dsurround/sounds/ambient/primate/primate4.ogg"
-hash = "1122f3a27e4f04ca4b004d02cbf90ec54770003a8e203bf5c4c6ccf598188b7f"
-
-[[files]]
-file = "resources/dsurround/sounds/ambient/primate/primate5.ogg"
-hash = "1122f3a27e4f04ca4b004d02cbf90ec54770003a8e203bf5c4c6ccf598188b7f"
-
-[[files]]
-file = "resources/dsurround/sounds/ambient/silence.ogg"
-hash = "1122f3a27e4f04ca4b004d02cbf90ec54770003a8e203bf5c4c6ccf598188b7f"
-
-[[files]]
-file = "resources/dsurround/sounds/ambient/snake/rattlesnake1.ogg"
-hash = "1122f3a27e4f04ca4b004d02cbf90ec54770003a8e203bf5c4c6ccf598188b7f"
-
-[[files]]
-file = "resources/dsurround/sounds/ambient/snake/rattlesnake2.ogg"
-hash = "1122f3a27e4f04ca4b004d02cbf90ec54770003a8e203bf5c4c6ccf598188b7f"
-
-[[files]]
-file = "resources/dsurround/sounds/ambient/snake/rattlesnake3.ogg"
-hash = "1122f3a27e4f04ca4b004d02cbf90ec54770003a8e203bf5c4c6ccf598188b7f"
-
-[[files]]
-file = "resources/dsurround/sounds/ambient/soulsand/soulsand1.ogg"
-hash = "6e5ff4faa47fe60752371e792e576cbb34d78ce15d198a4bbda9155fcb60e1a0"
-
-[[files]]
-file = "resources/dsurround/sounds/ambient/soulsand/soulsand2.ogg"
-hash = "6e5ff4faa47fe60752371e792e576cbb34d78ce15d198a4bbda9155fcb60e1a0"
-
-[[files]]
-file = "resources/dsurround/sounds/ambient/soulsand/soulsand3.ogg"
-hash = "6e5ff4faa47fe60752371e792e576cbb34d78ce15d198a4bbda9155fcb60e1a0"
-
-[[files]]
-file = "resources/dsurround/sounds/ambient/underground/ambient.ogg"
-hash = "ad2d391c1db22bff9e757023042610c8699bce553ffd341041c091ebda545832"
-
-[[files]]
-file = "resources/dsurround/sounds/ambient/underground/bigslide1.ogg"
-hash = "7aad4655b77c59d51f98a9284e767d76b1bd159e4b76b2eb5b90f40787d11106"
-
-[[files]]
-file = "resources/dsurround/sounds/ambient/underground/bigslide2.ogg"
-hash = "7b256fe406029c66efd89cf2697a4846a04914025adc457ec17d43b646038288"
-
-[[files]]
-file = "resources/dsurround/sounds/ambient/underground/monster_growl1.ogg"
-hash = "f5103a2ba3aed4c7bb915fec5c261ab897fb9543be574809a8ae58c6ccad7984"
-
-[[files]]
-file = "resources/dsurround/sounds/ambient/underground/smallslide1.ogg"
-hash = "4b7993ce4bd6097047237ecc6da71d4db1527e4ccb17a13606bd2f53fa8de543"
-
-[[files]]
-file = "resources/dsurround/sounds/ambient/underground/smallslide2.ogg"
-hash = "143a75f6b443f4817a4b5835bef03b4db688b7b007b00c7dcb99b4dac6954b89"
-
-[[files]]
-file = "resources/dsurround/sounds/ambient/underground/smallslide3.ogg"
-hash = "39969c236792950d994216a60450d7e0927bdb9e275e53b5909abc5adb95f715"
-
-[[files]]
-file = "resources/dsurround/sounds/ambient/weather/dust.ogg"
-hash = "b5bdb0e6db9cc6da85b3aba1bc271ad381974b52ad5e6a98bc3541f4d6d8a8ab"
-
-[[files]]
-file = "resources/dsurround/sounds/ambient/weather/thunder1.ogg"
-hash = "254a54eb13161aab26211cef05f195f423cf25a2b19511cb468a1df35223013f"
-
-[[files]]
-file = "resources/dsurround/sounds/ambient/weather/thunder2.ogg"
-hash = "e124b89eef2fee3f952b25ad0c1fb8158c45cb43d17b715c4200d1df2f1fc512"
-
-[[files]]
-file = "resources/dsurround/sounds/ambient/weather/thunder3.ogg"
-hash = "f9d96790de70d701a6b6ee2842d75016983051e688c044407fc9873f092b775f"
-
-[[files]]
-file = "resources/dsurround/sounds/ambient/weather/thunder4.ogg"
-hash = "4b4fc06fb293debf96d1bc8c396e2457be3fc4619e5700eeb9625bc28e5e0d4f"
-
-[[files]]
-file = "resources/dsurround/sounds/ambient/weather/thunder5.ogg"
-hash = "9789181027d235d93e68b2dbb6da557598a8dd5bbdbb96270feeff17464c920c"
-
-[[files]]
-file = "resources/dsurround/sounds/ambient/weather/thunder6.ogg"
-hash = "c2a4d11fc64a4ab8f69fdd95cd2b8c4c89ca7025ab7d71cb3add9dc985e2fb57"
-
-[[files]]
-file = "resources/dsurround/sounds/ambient/whale/whale1.ogg"
-hash = "1122f3a27e4f04ca4b004d02cbf90ec54770003a8e203bf5c4c6ccf598188b7f"
-
-[[files]]
-file = "resources/dsurround/sounds/ambient/whale/whale2.ogg"
-hash = "1122f3a27e4f04ca4b004d02cbf90ec54770003a8e203bf5c4c6ccf598188b7f"
-
-[[files]]
-file = "resources/dsurround/sounds/ambient/whale/whale3.ogg"
-hash = "1122f3a27e4f04ca4b004d02cbf90ec54770003a8e203bf5c4c6ccf598188b7f"
-
-[[files]]
-file = "resources/dsurround/sounds/ambient/whale/whale4.ogg"
-hash = "1122f3a27e4f04ca4b004d02cbf90ec54770003a8e203bf5c4c6ccf598188b7f"
-
-[[files]]
-file = "resources/dsurround/sounds/ambient/whale/whale5.ogg"
-hash = "1122f3a27e4f04ca4b004d02cbf90ec54770003a8e203bf5c4c6ccf598188b7f"
 
 [[files]]
 file = "resources/minecraft/blockstates/acacia_door.json"
@@ -4746,53 +4517,5 @@ file = "resources/nohtis-apohcalyps/background/wallpaper_5.png"
 hash = "df2da3492eb64f6193b5fd8856ff5738be6ce69c57fdb503623ae4c355294bdb"
 
 [[files]]
-file = "resources/weather2/sounds/env/wind_calm.ogg"
-hash = "0ee781f19d5ff40d43fb10e1e6e389fd503c6eb6147a7e520ec963f036fd2db8"
-
-[[files]]
-file = "resources/weather2/sounds/env/wind_calmfade.ogg"
-hash = "0ee781f19d5ff40d43fb10e1e6e389fd503c6eb6147a7e520ec963f036fd2db8"
-
-[[files]]
-file = "resources/weather2/sounds/streaming/siren.ogg"
-hash = "1fb1ad23736959f4e9636a717d2524b95587d91028ac4924ccf127fb4acb7182"
-
-[[files]]
-file = "resources/weather2/sounds/streaming/wind_close.ogg"
-hash = "34ab169b0325223f54fec5765308abf78bef4aaa87ec2f7b26474e7a83f2a754"
-
-[[files]]
-file = "resources/weather2/sounds/streaming/wind_close_0_.ogg"
-hash = "b4cd0c47217f21733e0bd7a675b183f871d7f5dc95789af991bcfa1063a4ea5a"
-
-[[files]]
-file = "resources/weather2/sounds/streaming/wind_close_1_.ogg"
-hash = "b588d5962b3ede5b3b195833ea756d2386a11c827c1d26412a3b5399d90fc75e"
-
-[[files]]
-file = "resources/weather2/sounds/streaming/wind_close_2_.ogg"
-hash = "bd96238d0dfafbc9e6e2b998048e11b84ba4ee5d355ab0aaba0bd548bb1ae733"
-
-[[files]]
-file = "resources/zombieawareness/sounds/investigate/zombie_investigate_1.ogg"
-hash = "9257d5dc658b482890ca7a3e2e4c1c42b9babc1f7713167625c129139fdaa13f"
-
-[[files]]
-file = "resources/zombieawareness/sounds/investigate/zombie_investigate_2.ogg"
-hash = "bf641a18777075de9dba86467cbca30fb012773279d8d1b25df5e3528ba5eef2"
-
-[[files]]
-file = "resources/zombieawareness/sounds/investigate/zombie_investigate_3.ogg"
-hash = "9257d5dc658b482890ca7a3e2e4c1c42b9babc1f7713167625c129139fdaa13f"
-
-[[files]]
-file = "resources/zombieawareness/sounds/target/OLDTarget/zombie_target_1(2).ogg"
-hash = "f46a4dca189e90062c8e0b2c97c82b69ff1d96e69d8a1371a979b43b02b91efe"
-
-[[files]]
-file = "resources/zombieawareness/sounds/target/OLDTarget/zombie_target_1.ogg"
-hash = "eb19b9494c7a8c70bc81c1af80f87aa26939b538abc59ce8f429574b6732b2ab"
-
-[[files]]
-file = "resources/zombieawareness/sounds/target/zombie_target_1.ogg"
-hash = "86ca556eed05f97c3a7f978de7fe57a1bd4a6e2628ffd5ea3a4bd81b807738b0"
+file = "todo.md"
+hash = "93573daf697a10825242224320649edaa794dd46becd4543fa0288bd6dd611a5"
