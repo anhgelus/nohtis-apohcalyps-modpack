@@ -5,6 +5,174 @@
 	},
 	{
 		"mob": "minecraft:zombie",
+		"item": "tac:9mm_round",
+		"random": 0.5,
+		"itemcount": "0-4/2-5/3-5"
+	},
+	{
+		"mob": "minecraft:zombie",
+		"item": "apocalyptic_arsenal:throwing_knife",
+		"random": 0.3,
+		"itemcount": "0-1"
+	},
+	{
+		"mob": "minecraft:zombie",
+		"item": "apocalyptic_arsenal:balisong_knife",
+		"random": 0.3,
+		"itemcount": "0-1"
+	},
+	{
+		"mob": "minecraft:zombie",
+		"item": "apocalyptic_arsenal:golf_club",
+		"random": 0.3,
+		"itemcount": "0-1"
+	},
+	{
+		"mob": "minecraft:zombie",
+		"item": "firstaid:plaster",
+		"random": 0.3,
+		"itemcount": "0-1/1/1-2"
+	},
+	{
+		"mob": "minecraft:zombie",
+		"item": "minecraft:bread",
+		"random": 0.3,
+		"itemcount": "1-3/2-3/3"
+	},
+	{
+		"mob": "minecraft:zombie",
+		"item": "tac:glock_17",
+		"random": 0.05,
+		"itemcount": "0-1"
+	},
+	{
+		"mob": "minecraft:zombie",
+		"item": "tac:cz75",
+		"random": 0.05,
+		"itemcount": "0-1"
+	},
+	{
+		"mob": "minecraft:zombie",
+		"item": "tac:sti2011",
+		"random": 0.05,
+		"itemcount": "0-1"
+	},
+	{
+		"mob": "minecraft:zombie",
+		"item": "tac:9mm_round",
+		"random": 0.05,
+		"itemcount": "2-9/4-9/6-11"
+	},
+	{
+		"mob": "minecraft:zombie",
+		"item": "tac:round45",
+		"random": 0.05,
+		"itemcount": "1-5/3-6/4-7"
+	},
+	{
+		"mob": "minecraft:zombie",
+		"item": "firstaid:plaster",
+		"random": 0.05,
+		"itemcount": "1-2/2/2-3"
+	},
+	{
+		"mob": "minecraft:zombie",
+		"item": "firstaid:bandage",
+		"random": 0.05,
+		"itemcount": "0-1/1/1-2"
+	},
+	{
+		"mob": "minecraft:zombie",
+		"item": "minecraft:cooked_porkchop",
+		"random": 0.05,
+		"itemcount": "1-5/3-6/6"
+	},
+	{
+		"mob": "minecraft:zombie",
+		"item": "tac:m1911",
+		"random": 0.001,
+		"itemcount": "0-1"
+	},
+	{
+		"mob": "minecraft:zombie",
+		"item": "tac:deagle_357",
+		"random": 0.001,
+		"itemcount": "0-1"
+	},
+	{
+		"mob": "minecraft:zombie",
+		"item": "tac:m4",
+		"random": 0.001,
+		"itemcount": "0-1"
+	},
+	{
+		"mob": "minecraft:zombie",
+		"item": "tac:round45",
+		"random": 0.001,
+		"itemcount": "3-8/5-8/8-9"
+	},
+	{
+		"mob": "minecraft:zombie",
+		"item": "tac:9mm_round",
+		"random": 0.001,
+		"itemcount": "6-12/8-13/10-14"
+	},
+	{
+		"mob": "minecraft:zombie",
+		"item": "tac:ae55",
+		"random": 0.001,
+		"itemcount": "0-2/1-2/3"
+	},
+	{
+		"mob": "minecraft:zombie",
+		"item": "firstaid:plaster",
+		"random": 0.001,
+		"itemcount": "1-4/2-4/3-5"
+	},
+	{
+		"mob": "minecraft:zombie",
+		"item": "firstaid:bandage",
+		"random": 0.001,
+		"itemcount": "1-3/1-4/2-4"
+	},
+	{
+		"mob": "minecraft:zombie",
+		"item": "firstaid:morphine",
+		"random": 0.001,
+		"itemcount": "0-1/0-1/1"
+	},
+	{
+		"mob": "minecraft:zombie",
+		"item": "apocalyptic_arsenal:bat",
+		"random": 0.001,
+		"itemcount": "0-1"
+	},
+	{
+		"mob": "minecraft:zombie",
+		"item": "apocalyptic_arsenal:wrench",
+		"random": 0.001,
+		"itemcount": "0-1"
+	},
+	{
+		"mob": "minecraft:zombie",
+		"item": "apocalyptic_arsenal:crowbar",
+		"random": 0.001,
+		"itemcount": "0-1"
+	},
+	{
+		"mob": "minecraft:zombie",
+		"item": "sophisticatedbackpacks:backpack",
+		"random": 0.001,
+		"itemcount": "0-1"
+	},
+	{
+		"mob": "minecraft:zombie",
+		"item": "minecraft:golden_apple",
+		"random": 0.001,
+		"itemcount": "0-1/1/1-2"
+	},
+	{
+		"mob": "minecraft:zombie",
 		"item": "minecraft:rotten_flesh",
 		"itemcount": "2-5/3-7/5-10"
 	}
