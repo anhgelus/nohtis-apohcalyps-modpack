@@ -1,7 +1,9 @@
 ## 0.5.0
 
 Add new apocalypse mods:
-- 
+- Sophisticated Backpacks
+- TinyInv
+- Dynamic Trees
 
 ## 0.4.0
 

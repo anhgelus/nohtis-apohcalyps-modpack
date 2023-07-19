@@ -1742,6 +1742,11 @@ hash = "65baedb0bceda1864df6d570f9133fe3efb7f93af00ec047372198e552e87c19"
 metafile = true
 
 [[files]]
+file = "mods/dynamictrees.pw.toml"
+hash = "b62bcd17cbfa6170b472fcab14d73fcc25fe661f2b99fd55ad702fcbc0817b3a"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "b3a6b53d4c840fbcd72686d9de2d557e4cd4f735a719ae13f28a6d80087b17c8"
 metafile = true
@@ -1842,6 +1847,11 @@ hash = "4beb580f470b78844b1012419ef1f35232b57d8048e45f00b8d795f7f4ec3c73"
 metafile = true
 
 [[files]]
+file = "mods/sophisticated-backpacks.pw.toml"
+hash = "bad0617bb0b09ad4898690c2995408eb54cad32b83d96e04fb2ef1ef277cfd74"
+metafile = true
+
+[[files]]
 file = "mods/spark.pw.toml"
 hash = "10939c13c442ab0747e539b280e01ecc89c3f2710e1bbda34589593c98e05a5e"
 metafile = true
@@ -1869,6 +1879,11 @@ metafile = true
 [[files]]
 file = "mods/timeless-and-classic-guns-tac.pw.toml"
 hash = "826f00ea83596cc380e65ee36ac7b29a1dc2fb2e03d1a71d3e2e84962cfdae7c"
+metafile = true
+
+[[files]]
+file = "mods/tinyinv.pw.toml"
+hash = "c827531c073e9fcf8a95f0fe1126ebc9c852b3b15bd467dbc85a75eb209c3053"
 metafile = true
 
 [[files]]
