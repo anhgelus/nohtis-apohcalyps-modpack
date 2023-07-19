@@ -3,8 +3,7 @@
 Add new core mod:
 - BadMobs
 
-Add new apocalypse mods:
-- In Control!
+Add new apocalypse mod:
 - Fx Control!
 
 Customize spawn and loot of zombies
