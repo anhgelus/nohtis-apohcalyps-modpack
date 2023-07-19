@@ -1,3 +1,11 @@
+## 0.4.0
+
+Add specific mods:
+- Simple Voice Chat
+- CraftPresence
+- Custom Player Models
+- cpmsvcc
+
 ## 0.3.0
 
 Add optimizations mods:

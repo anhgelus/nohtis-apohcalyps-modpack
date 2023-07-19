@@ -1712,6 +1712,16 @@ hash = "bc18684b6e860da60a7d1c35b7ef261aba39d369f584d4284d438ed931788dc3"
 metafile = true
 
 [[files]]
+file = "mods/cpmsvcc.pw.toml"
+hash = "219c991a5c431918275f1af91a51b314e4275ab6f2aee47715fafe2c9d33df71"
+metafile = true
+
+[[files]]
+file = "mods/craftpresence.pw.toml"
+hash = "9eb2c2d76bb0c323550024c1dfbc3ed20214145a174e9a07e2bca7f549464848"
+metafile = true
+
+[[files]]
 file = "mods/creativecore.pw.toml"
 hash = "04c59cad26fb818ee8c6c361d50d696c53e71ea5473562b3d3f204359c86ccf9"
 metafile = true
@@ -1719,6 +1729,11 @@ metafile = true
 [[files]]
 file = "mods/curios.pw.toml"
 hash = "050f882929090fdb685f47d6aff5ace38c92ef60665ef96c5dcf56edc672438b"
+metafile = true
+
+[[files]]
+file = "mods/custom-player-models.pw.toml"
+hash = "6f4fe63a70010124b2fb84525ec8709e453589ee8a3f2f05c8e8984313623298"
 metafile = true
 
 [[files]]
@@ -1814,6 +1829,11 @@ metafile = true
 [[files]]
 file = "mods/shutup-experimental-settings.pw.toml"
 hash = "bdbf0e89c6bdfcac33f44921835b4a7e7b909214d99badb1d8e15200f836bb90"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "b9dfe191e86b845800691f112707780c9db5ee368956c470e8a80c305b4fe6ca"
 metafile = true
 
 [[files]]
