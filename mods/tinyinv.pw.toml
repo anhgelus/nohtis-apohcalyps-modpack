@@ -1,0 +1,13 @@
+name = "TinyInv"
+filename = "tinyinv-1.16.5-1.0.3.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "bece8b1082ba088a65bf470715fa7a924bec46c4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3349731
+project-id = 455299
