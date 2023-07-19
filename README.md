@@ -15,6 +15,7 @@ Every mod ou resourcepack included in this modpack can be used freely if we cred
 ### Core
 
 - [Timeless and Classics Guns](https://www.curseforge.com/minecraft/mc-mods/timeless-and-classic-guns-tac) [curseforge] -> Guns
+- [Curios API](https://modrinth.com/mod/curios) [modrinth] -> lib for Timeless and Classics Guns 
 - [Obfuscate](https://www.curseforge.com/minecraft/mc-mods/obfuscate) [curseforge] -> lib for Timeless and Classics Guns 
 - [In Control!](https://modrinth.com/mod/in-control) [modrinth] -> Control mob spawn
 - [Zombie Awarness](https://www.curseforge.com/minecraft/mc-mods/zombie-awareness) [curseforge] -> Control mob spawn

@@ -1,13 +1,13 @@
 name = "Timeless and Classics Guns"
-filename = "tac-r-0.2.0-1.16.5.jar"
+filename = "tac-r-0.3.5.3-1.16.5.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "b368c89a0fdfe61267e0db7f8417cc8b1dbb0fed"
+hash = "13691d8423bc85334d0b6fc0cd693d06b77fad40"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3802219
+file-id = 4427519
 project-id = 491264

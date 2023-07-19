@@ -38,6 +38,8 @@ Add useful mods:
 - Apple Skin
 - Shutup Experimental Settings!
 
+Update `Timeless and Classic Guns` and add `Curios API`
+
 ## 0.2.0
 
 Add apocalypse mods:
