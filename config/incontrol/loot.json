@@ -12,19 +12,19 @@
 	{
 		"mob": "minecraft:zombie",
 		"item": "apocalyptic_arsenal:throwing_knife",
-		"random": 0.3,
+		"random": 0.1,
 		"itemcount": "0-1"
 	},
 	{
 		"mob": "minecraft:zombie",
 		"item": "apocalyptic_arsenal:balisong_knife",
-		"random": 0.3,
+		"random": 0.1,
 		"itemcount": "0-1"
 	},
 	{
 		"mob": "minecraft:zombie",
 		"item": "apocalyptic_arsenal:golf_club",
-		"random": 0.3,
+		"random": 0.1,
 		"itemcount": "0-1"
 	},
 	{

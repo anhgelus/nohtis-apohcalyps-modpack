@@ -10,15 +10,23 @@ hash = "de0651d8ef849ee5d787a69aa7dfb0eea2d6c68b932d90eb44065b496ec4eb14"
 
 [[files]]
 file = "changelog.md"
-hash = "2ded6c24eca35f63f20ed3df40924335001112c051c68d9ca295636f9d47e7f5"
+hash = "42154c1464e38309c8495e89ea0df17f207ef3610b4e546cba3c20bd5dce67b6"
 
 [[files]]
 file = "config/badmobs-common.toml"
 hash = "b7f7445f28571409032412e486b412491615c5d9dd954db58fac175e47b9c722"
 
 [[files]]
+file = "config/hordes-client.toml"
+hash = "000df155e7860ba47e1e7e4d066fd714f018398aeb354df07ae4385474f4e509"
+
+[[files]]
+file = "config/hordes-common.toml"
+hash = "219d15711c9f69a4d1b571357707b269ad49ed89be8816b18354191967841588"
+
+[[files]]
 file = "config/incontrol/loot.json"
-hash = "48ea29af70923f8003e67b5ddf5777488e2ca816dc21f078816227e66c3d8a06"
+hash = "5d4fe6157c7b282fb4c5978ba832c3774b803462ef555b6ab44eda6c1a4c2dfd"
 
 [[files]]
 file = "config/incontrol/main.cfg"
@@ -66,7 +74,7 @@ hash = "ee0db8463dc5220a0397eb362e8583747c265882456e808076d7d6e86271c222"
 
 [[files]]
 file = "config/lostcities/profiles/nothis-apohcalyps.json"
-hash = "7b0e4924244e8daca95c34d379fe35bf5963061e0482868ae58e2d73f3cf6fc1"
+hash = "1ebe1f4ddc2b962400a480df8aa7bb152e23ac1e1d5bb0c35d2ca0551a001cb6"
 
 [[files]]
 file = "config/lostcities/profiles/onlycities.json"
@@ -110,7 +118,7 @@ hash = "509058ff43f6aa56f9e1e8a1445f16393c74e9c315024c42fc03a031d1bd10ea"
 
 [[files]]
 file = "config/totaldarkness-client.toml"
-hash = "fc1a3c596cfda6b01f959ae4a52ec48e249fcb1b8945e55eecb7c6701b62c3fa"
+hash = "3c80c8b1dd8bfc9a8fd51d8022b486e4d3262b8b9234e03320f6c91efe986db2"
 
 [[files]]
 file = "config/zombieawareness/ClientConfig.toml"
