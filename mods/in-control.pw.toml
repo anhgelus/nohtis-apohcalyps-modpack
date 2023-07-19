@@ -1,6 +1,6 @@
 name = "In Control!"
 filename = "incontrol-1.16-5.2.12.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/KpICtuVx/versions/ud6n7mNu/incontrol-1.16-5.2.12.jar"

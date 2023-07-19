@@ -6,11 +6,15 @@ hash = "18fb5e491dd880526a6d2dba993a1574fb4056ce939004da9b0f677fd6cca434"
 
 [[files]]
 file = "README.md"
-hash = "c72ca326893be60d79acf6e9209ed087fb5ef3397c81108a75d005676fb698fd"
+hash = "de0651d8ef849ee5d787a69aa7dfb0eea2d6c68b932d90eb44065b496ec4eb14"
 
 [[files]]
 file = "changelog.md"
-hash = "129c0db0b955c485ccd4c4248b684ef13de191a77599ccce1d0ae3acf9b6761e"
+hash = "2ded6c24eca35f63f20ed3df40924335001112c051c68d9ca295636f9d47e7f5"
+
+[[files]]
+file = "config/badmobs-common.toml"
+hash = "b7f7445f28571409032412e486b412491615c5d9dd954db58fac175e47b9c722"
 
 [[files]]
 file = "config/incontrol/loot.json"
@@ -31,6 +35,106 @@ hash = "98eddabebc7f79c6425d5a9232d06a24aafac7f46dc6f372b22c6c0f1ff51e6d"
 [[files]]
 file = "config/incontrol/spawner.json"
 hash = "28a2ead24acc0e7da4378fa18169c2f7524ea659ea791d774b680694a6867833"
+
+[[files]]
+file = "config/lostcities/client.toml"
+hash = "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+
+[[files]]
+file = "config/lostcities/common.toml"
+hash = "20e8550b6795aceb77f289eb7d8898ef3a2cebfcf24abd9ee05c92b3069c99be"
+
+[[files]]
+file = "config/lostcities/examples/conditions.json"
+hash = "fdc9e739a5ae7fe69b32c979577796c676f2d0be6518af4e57e7dd66e54e7ad2"
+
+[[files]]
+file = "config/lostcities/profiles/ancient.json"
+hash = "4b213262a4c9bb4c38df2b503d60b96d371d4533e9ba7580a6aa1de405628196"
+
+[[files]]
+file = "config/lostcities/profiles/cavern.json"
+hash = "721eb8a8efe764ae184852fea8ce4522f8b6e1e230a45852717b656c1825d3d8"
+
+[[files]]
+file = "config/lostcities/profiles/default.json"
+hash = "b213c1cec097ebea3e797ef08351e3feb44523cc32633f0de07c4deae8d0ee91"
+
+[[files]]
+file = "config/lostcities/profiles/nodamage.json"
+hash = "ee0db8463dc5220a0397eb362e8583747c265882456e808076d7d6e86271c222"
+
+[[files]]
+file = "config/lostcities/profiles/nothis-apohcalyps.json"
+hash = "7b0e4924244e8daca95c34d379fe35bf5963061e0482868ae58e2d73f3cf6fc1"
+
+[[files]]
+file = "config/lostcities/profiles/onlycities.json"
+hash = "eee114773c874b5b023c841d2c7e4c59bce08e2ae03f88924f69bfba696a303a"
+
+[[files]]
+file = "config/lostcities/profiles/rarecities.json"
+hash = "7267725e29a58fd376a14ee9532aa82919415f94a86bf59f27530387df11f2a2"
+
+[[files]]
+file = "config/lostcities/profiles/safe.json"
+hash = "1aae9fbec587d68e24f10d5bf57576ac31b3e7302d6803fdd197613a878bc992"
+
+[[files]]
+file = "config/lostcities/profiles/tallbuildings.json"
+hash = "32e8278790ade99122da26803fdbd538fd87c7caedc0a76dd098069fbe27739b"
+
+[[files]]
+file = "config/lostcities/profiles/wasteland.json"
+hash = "dcd86b2e9154ce0dafd59c9d462a991f609f3b6722214d51a0abb532ad2d0205"
+
+[[files]]
+file = "config/starterkit-common.toml"
+hash = "73a576e07143f9481fbd85f5d0e744b378aa8ae725bfeef6753e3e1c34609eef"
+
+[[files]]
+file = "config/starterkit/starterkit.txt"
+hash = "9794706b0e1ad077dc234631f3afa00c52c44a18e014fcc5e915968e15651a14"
+
+[[files]]
+file = "config/tinyinv-client.toml"
+hash = "edd97c4b7552ee8706cd79311a7ef2cf97cc70916c912aa1c412e8740f622825"
+
+[[files]]
+file = "config/tinyinv-common.toml"
+hash = "0a4d87e769b79bddd06eb763766bbe76cb74ca4e870dd05f5bc2280d6d2db2de"
+
+[[files]]
+file = "config/toastcontrol-common.toml"
+hash = "509058ff43f6aa56f9e1e8a1445f16393c74e9c315024c42fc03a031d1bd10ea"
+
+[[files]]
+file = "config/totaldarkness-client.toml"
+hash = "fc1a3c596cfda6b01f959ae4a52ec48e249fcb1b8945e55eecb7c6701b62c3fa"
+
+[[files]]
+file = "config/zombieawareness/ClientConfig.toml"
+hash = "a43785705dd6c6527c949b01b20dc5f0ac906cf079a8a8b0fceff951d08222d2"
+
+[[files]]
+file = "config/zombieawareness/Features.toml"
+hash = "59c0f2e3e1013941c10d21fff8cb9bbae1d72ab4dbc532abee4e057611f33697"
+
+[[files]]
+file = "config/zombieawareness/General-1.toml.bak"
+hash = "fb1d2a38bfac3b87d46cc896e28584bd160e15104e1bd063c8d038858794e67e"
+
+[[files]]
+file = "config/zombieawareness/General.toml"
+hash = "76296a6a040fa63a5287b4c2229c33b43e84e01d5be4616e53c8daf133d45c68"
+
+[[files]]
+file = "config/zombieawareness/MobLists.toml"
+hash = "8759cc00ac7c505257740a861d81c3354007aec98b65dc9d7510f6bb21fc342a"
+
+[[files]]
+file = "config/zombieawareness/PlayerRulesAndLists.toml"
+hash = "736d7212e4211b163876aa7fb892c947a82cdd3f2a9ea91ffaf9cfab375d88c0"
 
 [[files]]
 file = "mods/ambientsounds.pw.toml"
