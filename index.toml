@@ -290,6 +290,11 @@ hash = "63dd8166fef37f67155a4a434d7f55feddbb4e1fb621dfe89c1d43d8a659e25b"
 metafile = true
 
 [[files]]
+file = "mods/music-triggers.pw.toml"
+hash = "2e2b7a56e475be804e08d27f2f468c3e0e5907c905d80fbe736aa42d38c830aa"
+metafile = true
+
+[[files]]
 file = "mods/not-enough-animations.pw.toml"
 hash = "a2f711f1839ab165cd0443d2dbd8f5e2a0c4cd5a2b049e28c10082fb0991cf09"
 metafile = true
@@ -350,6 +355,11 @@ hash = "bad0617bb0b09ad4898690c2995408eb54cad32b83d96e04fb2ef1ef277cfd74"
 metafile = true
 
 [[files]]
+file = "mods/sound-filters.pw.toml"
+hash = "c89686e615feea1f4d03b741a39ba425a6874b613185390a402568f20506e67f"
+metafile = true
+
+[[files]]
 file = "mods/spark.pw.toml"
 hash = "10939c13c442ab0747e539b280e01ecc89c3f2710e1bbda34589593c98e05a5e"
 metafile = true
@@ -367,6 +377,11 @@ metafile = true
 [[files]]
 file = "mods/the-hordes.pw.toml"
 hash = "ff07d9004a2f64b484fbb3baa1da9b9ac04c5fb6b703516fcc9b5e350ee853f2"
+metafile = true
+
+[[files]]
+file = "mods/the-impossible-library.pw.toml"
+hash = "d1274fb55805d67a44351686ca1228a352a1988af9f4996d978bfbeb0842ecf0"
 metafile = true
 
 [[files]]
