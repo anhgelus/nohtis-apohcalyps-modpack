@@ -14,7 +14,7 @@
             "amount": 30,
             "perplayer": true
         },
-        "result": "allow"
+        "result": "default"
     },
     {
         "phase": "after_d5",
@@ -24,7 +24,7 @@
             "amount": 50,
             "perplayer": true
         },
-        "result": "allow"
+        "result": "default"
     },
     {
         "phase": "after_d10",
@@ -34,7 +34,7 @@
             "amount": 75,
             "perplayer": true
         },
-        "result": "allow"
+        "result": "default"
     },
     {
         "phase": "after_d25",
@@ -46,7 +46,7 @@
             "amount": 75,
             "perplayer": true
         },
-        "result": "allow"
+        "result": "default"
     },
     {
         "phase": "after_d50",
@@ -58,7 +58,7 @@
             "amount": 75,
             "perplayer": true
         },
-        "result": "allow"
+        "result": "default"
     },
     {
         "phase": "after_d100",
@@ -70,7 +70,7 @@
             "amount": 75,
             "perplayer": true
         },
-        "result": "allow"
+        "result": "default"
     },
     {
         "phase": "after_d250",
@@ -82,7 +82,7 @@
             "amount": 75,
             "perplayer": true
         },
-        "result": "allow"
+        "result": "default"
     },
     {
         "phase": "after_d500",
@@ -94,9 +94,10 @@
             "amount": 75,
             "perplayer": true
         },
-        "result": "allow"
+        "result": "default"
     },
     {
-        "result": "deny"
+        "incontrol": true,
+		"result": "deny"
     }
 ]

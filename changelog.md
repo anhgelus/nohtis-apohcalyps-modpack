@@ -7,7 +7,9 @@ Add mods:
 - Serene Seasons
 - Music Triggers
 
-Customize default minecraft music
+Customize default minecraft music with [A season in the dark, a bottomless trench](https://feldup.bandcamp.com/album/a-season-in-the-dark-a-bottomless-trench) by Feldup
+
+Add wither effect and cancel break event when player try to mine under Y=50
 
 ## 0.6.0
 

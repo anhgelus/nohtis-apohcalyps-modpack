@@ -6,15 +6,35 @@ hash = "18fb5e491dd880526a6d2dba993a1574fb4056ce939004da9b0f677fd6cca434"
 
 [[files]]
 file = "README.md"
-hash = "22769b6c99a69fad8451d377d1db650a66aedfca7d89169316f47c753b4e6f19"
+hash = "d600d7f35f87f2466e59c85119f9bee0401ee07565222cdbe414749ac154287b"
 
 [[files]]
 file = "changelog.md"
-hash = "b4929361d7f7846ee4786b2a4eabd38ca3d10f8a9e6b5d796d86888b2d14c559"
+hash = "37333e4f25440c93cc084efef092392c0d1c958eac01930c007fea4c6be5caa4"
 
 [[files]]
 file = "config/badmobs-common.toml"
 hash = "b7f7445f28571409032412e486b412491615c5d9dd954db58fac175e47b9c722"
+
+[[files]]
+file = "config/fxcontrol/breakevents.json"
+hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+
+[[files]]
+file = "config/fxcontrol/effects.json"
+hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+
+[[files]]
+file = "config/fxcontrol/leftclicks.json"
+hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+
+[[files]]
+file = "config/fxcontrol/placeevents.json"
+hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+
+[[files]]
+file = "config/fxcontrol/rightclicks.json"
+hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
 
 [[files]]
 file = "config/hordes-client.toml"
@@ -4548,4 +4568,4 @@ hash = "df2da3492eb64f6193b5fd8856ff5738be6ce69c57fdb503623ae4c355294bdb"
 
 [[files]]
 file = "todo.md"
-hash = "93573daf697a10825242224320649edaa794dd46becd4543fa0288bd6dd611a5"
+hash = "56c0b73f0928d99b97c7cad98e526b7f23c503b3c433e491ce6ed99a048ae04e"
