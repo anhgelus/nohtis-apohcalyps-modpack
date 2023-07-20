@@ -1,0 +1,56 @@
+[triggers]
+	[triggers.generic]
+	[triggers.menu]
+	[[triggers.season]]
+		identifier = "winter"
+		level = 3
+	# weather
+	[triggers.raining]
+	[triggers.storming]
+	[triggers.snowing]
+	[triggers.blizzard]
+	[triggers.acidrain]
+	[triggers.lightrain]
+	# danger
+	[triggers.lowhp]
+		level = 50
+	[triggers.dead]
+	[triggers.drowning]
+		level = 150
+	# stress
+	[[triggers.mob]]
+		identifier = "lot-of"
+		resource_name = ["Zombie"]
+		level = 15
+	[[triggers.mob]]
+		identifier = "targeting"
+		resource_name = ["Zombie"]
+		level = 5
+		mob_targeting = true
+
+[songs]
+	[songs.generic]
+		triggers = ["generic"]
+		chance = 75
+	[songs.danger]
+		triggers = ["lowhp" "dead" "drowning"]
+	[songs.menu]
+		triggers = ["menu"]
+	[songs.stress]
+		triggers = ["lot-of" "targeting"]
+		chance = 75
+	[songs.high_stress]
+		triggers = ["lot-of" "targeting"]
+		chance = 25
+	[songs.weather]
+		triggers = ["raining" "storming" "snowing" "blizzard" "acidrain" "lightrain" "winter"]
+	[songs.strange]
+		triggers = ["generic"]
+		chance = 25
+	[songs.lost]
+		triggers = ["generic" "winter"]
+		chance = 25
+	[songs.nostalgia]
+		triggers = ["generic" "winter"]
+		chance = 15
+
