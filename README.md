@@ -6,13 +6,13 @@ See [changelog.md](/changelog.md) for the latest changelog
 
 Powered by [Packwiz](https://github.com/packwiz/packwiz).
 
-## Mods
+## Credits 
 
 List of all mods and resourcepacks.
 
 Every mod ou resourcepack included in this modpack can be used freely if we credit to the author (according to the license or its description).
 
-### Core
+### Mods - Core
 
 - [Timeless and Classics Guns](https://www.curseforge.com/minecraft/mc-mods/timeless-and-classic-guns-tac) [curseforge] -> Guns
 - [Curios API](https://modrinth.com/mod/curios) [modrinth] -> lib for Timeless and Classics Guns 
@@ -24,15 +24,15 @@ Every mod ou resourcepack included in this modpack can be used freely if we cred
 - [The Lost Cities](https://modrinth.com/mod/the-lost-cities) [modrinth] -> Generation
 - [Apocalyptic Arsenal](https://legacy.curseforge.com/minecraft/mc-mods/apocalyptic-arsenal) [curseforge] -> weapons
 
-### Environments
+### Mods - Environments
 
 <!-- - [Terra](https://modrinth.com/plugin/terra) [modrinth] -> better generation -->
 - [Chunky](https://modrinth.com/plugin/chunky) [modrinth] -> add pre-generation
-- [Simply Seasons](https://legacy.curseforge.com/minecraft/mc-mods/simply-seasons) [curseforge] -> add seasons
+- [Serene Seasons](https://www.curseforge.com/minecraft/mc-mods/serene-seasons) [curseforge] -> add seasons (every versions for Minecraft 1.17 and below are licensed under CC-BY-NC-SA-4.0)
 - [Better Weather](https://legacy.curseforge.com/minecraft/mc-mods/better-weather) [curseforge] -> add seasons
 - [Dynamic Trees](https://modrinth.com/mod/dynamictrees) [modrinth] -> obvious
 
-### Improvements
+### Mods - Improvements
 
 - [AmbientSounds 5](https://legacy.curseforge.com/minecraft/mc-mods/ambientsounds) [curseforge] -> add bunch of new sounds
 - [CreativeCore](https://modrinth.com/mod/creativecore) [modrinth] -> lib for AmbientSounds 5
@@ -51,8 +51,10 @@ Every mod ou resourcepack included in this modpack can be used freely if we cred
 - [Cloth Config API](https://modrinth.com/mod/waterdripsound) [modrinth] -> lib for Drip Sounds and more
 - [Presence Footsteps](https://legacy.curseforge.com/minecraft/mc-mods/presence-footsteps-forge) [curseforge] -> add footsteps
 - [Load My Resources](https://modrinth.com/mod/load-my-resources) [modrinth] -> load custom resources
+- [Sound Filter](https://www.curseforge.com/minecraft/mc-mods/sound-filters) [curseforge] -> improve sounds
+- [Music Triggers](https://modrinth.com/mod/music-triggers) [modrinth] -> manage music
 
-#### Optimizations
+### Mods -# Optimizations
 
 Everything here is available on modrinth
 
@@ -65,13 +67,13 @@ Everything here is available on modrinth
 - [Radon](https://modrinth.com/mod/radon) -> phosphor for forge
 - [Textrue's Rubidium Options](https://modrinth.com/mod/textrues-rubidium-options) -> better options for Rubidium
 
-#### Resource packs
+### Mods -# Resource packs
 
 - [Unity](https://modrinth.com/resourcepack/unity) [modrinth] -> better visual
 - [Fresh Animations](https://legacy.curseforge.com/minecraft/texture-packs/fresh-animations) [curseforge] -> improve animations
 - [Tissou's Zombie Pack](https://legacy.curseforge.com/minecraft/texture-packs/tissous-zombie-pack-optifine-1-7x-1-19) [curseforge] -> better zombies textures
 
-### Apocalypse
+### Mods - Apocalypse
 
 - [The Hordes](https://modrinth.com/mod/the-hordes) [modrinth] -> zombies are now in hordes
 - [Atlas Lib](https://modrinth.com/mod/atlas-lib) [modrinth] -> lib for The Hordes 
@@ -86,10 +88,14 @@ Everything here is available on modrinth
 - [TinyInv](https://legacy.curseforge.com/minecraft/mc-mods/tinyinv) [curseforge] -> reduce inventory size
 - [Fx Control!](https://modrinth.com/mod/fx-control) [modrinth] -> control various things
 
-### Specific
+### Mods - Specific
 
 - [Simple Voice Chat](https://modrinth.com/plugin/simple-voice-chat) [modrinth] -> obvious
 - [CraftPresence](https://modrinth.com/mod/craftpresence) [modrinth] -> add a rich presence to Discord
 - [Custom Player Models](https://modrinth.com/plugin/custom-player-models) [modrinth] -> customize player models
 - [cpmsvcc](https://modrinth.com/mod/cpmsvcc) [modrinth] -> compat mod between simple voice chat and custom player models
+
+### Music
+
+The modpack is using the album [A season in the dark, a bottomless trench](https://feldup.bandcamp.com/album/a-season-in-the-dark-a-bottomless-trench) by Feldup.
 

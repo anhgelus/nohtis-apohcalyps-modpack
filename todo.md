@@ -5,11 +5,6 @@
 ## Adventure
 
 - Customize loot in chests
-- Improve textures of cities (?)
-
-## Perf
-
-- Reduce size of the jar (or fix `Fresh Animations` pack)
 
 ## Technology
 

@@ -1,8 +1,13 @@
 ## 0.7.0
 
-Add mod Load My Resources
+Add mods:
+- Load My Resources
+- Sound Filter
+- Better Weather
+- Serene Seasons
+- Music Triggers
 
-Customize resources for cities
+Customize default minecraft music
 
 ## 0.6.0
 
