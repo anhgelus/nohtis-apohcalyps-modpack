@@ -4,10 +4,14 @@ Add mods:
 - KubeJS
 - Architectury API
 - Rhino
+- Default Options
+- Default Server Properties
 
 Disable lot of crafts
 
 Loot tables for Lost Cities chests
+
+Setup default options
 
 ## 0.7.0
 

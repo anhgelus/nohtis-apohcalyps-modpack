@@ -317,6 +317,16 @@ hash = "65baedb0bceda1864df6d570f9133fe3efb7f93af00ec047372198e552e87c19"
 metafile = true
 
 [[files]]
+file = "mods/default-options.pw.toml"
+hash = "138d294c5111620d2b1d5b0f6d0d0fa364dcf7b5879bb96dc78787e69f13beae"
+metafile = true
+
+[[files]]
+file = "mods/default-server-properties.pw.toml"
+hash = "924ea145b99bb4e8bedd55c6e142ecd53fa403ccb40d030cba27ffeebb4feedd"
+metafile = true
+
+[[files]]
 file = "mods/dynamictrees.pw.toml"
 hash = "b62bcd17cbfa6170b472fcab14d73fcc25fe661f2b99fd55ad702fcbc0817b3a"
 metafile = true
