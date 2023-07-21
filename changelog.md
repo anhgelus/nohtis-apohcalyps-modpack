@@ -3,7 +3,6 @@
 Add mods:
 - Load My Resources
 - Sound Filter
-- Better Weather
 - Serene Seasons
 - Music Triggers
 

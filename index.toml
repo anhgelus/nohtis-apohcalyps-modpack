@@ -10,7 +10,79 @@ hash = "d600d7f35f87f2466e59c85119f9bee0401ee07565222cdbe414749ac154287b"
 
 [[files]]
 file = "changelog.md"
-hash = "37333e4f25440c93cc084efef092392c0d1c958eac01930c007fea4c6be5caa4"
+hash = "6c6515fde64ca65fd52e9b06a4aa8966a247a7d1e348bc6ac5f1c4aa95541ff0"
+
+[[files]]
+file = "config/MusicTriggers/channels.toml"
+hash = "a3305ed4abe526d36e29a5f253b987090942d48ae2cc9b5925608d9e55b70996"
+
+[[files]]
+file = "config/MusicTriggers/debug.toml"
+hash = "7dcb775dcaab14ca6710d70a0df4a4fd9b43de9a635fb6c55641d6029ee2885c"
+
+[[files]]
+file = "config/MusicTriggers/nohtis-apohcalyps/commands.toml"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/MusicTriggers/nohtis-apohcalyps/jukebox.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/MusicTriggers/nohtis-apohcalyps/main.toml"
+hash = "f42993ab3d5b30f86f2ece23180add07aabf6cac476b518a7c930be76bea6ff7"
+
+[[files]]
+file = "config/MusicTriggers/nohtis-apohcalyps/redirect.txt"
+hash = "d34746cffe1e1ce7bf19e96ea2a11a550eb6c046b1933f36b774e736c398d533"
+
+[[files]]
+file = "config/MusicTriggers/nohtis-apohcalyps/toggles.toml"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/MusicTriggers/nohtis-apohcalyps/transitions.toml"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/MusicTriggers/old-songs/danger.ogg"
+hash = "26cc0aded604129045d481beb4c43868f8206ec3b31912576cfc9cb33e2e3b19"
+
+[[files]]
+file = "config/MusicTriggers/old-songs/generic.ogg"
+hash = "90d9bfab29b433c2e70f683859cd374fdde40341c2e22f38160afee2d0b19be3"
+
+[[files]]
+file = "config/MusicTriggers/old-songs/high_stress.ogg"
+hash = "d161823582afaec3a5079e69b792df39eb7d1651c9f4945f1c0ac25b9d2a420e"
+
+[[files]]
+file = "config/MusicTriggers/old-songs/lost.ogg"
+hash = "63d20c3a21ab41af018a4266e52fa31d57865b03e8606502938f911695095b86"
+
+[[files]]
+file = "config/MusicTriggers/old-songs/menu.ogg"
+hash = "2fa50bcec1f5421097f6292cfa3af143a888ce9d93242fc84d96bc031f1e9119"
+
+[[files]]
+file = "config/MusicTriggers/old-songs/nostalgia.ogg"
+hash = "fc91882b8e6e24e212c7b5e46480595f1a69863c17d2b453316b04603d34184e"
+
+[[files]]
+file = "config/MusicTriggers/old-songs/strange.ogg"
+hash = "b6fbe0642ba6b1a2549a5c2ae9e2450dd4c8f59fcdadd5b7431450d2a13e09cc"
+
+[[files]]
+file = "config/MusicTriggers/old-songs/stress.ogg"
+hash = "b3b67d4b3a3fb7940e40a6d07f1e0e3f9cafdfac66e5deb53970fae31a3bd748"
+
+[[files]]
+file = "config/MusicTriggers/old-songs/weather.ogg"
+hash = "02aa77c527f39f1cba0f0e973aab73c8cf8e2e47c6f025cc9e28a9c5198943b8"
+
+[[files]]
+file = "config/MusicTriggers/registration.toml"
+hash = "a82fd1880216ba863459c1b5d968aef7fd5d6e352ebcdecdde5bf73e0e2d85e0"
 
 [[files]]
 file = "config/badmobs-common.toml"
@@ -18,11 +90,11 @@ hash = "b7f7445f28571409032412e486b412491615c5d9dd954db58fac175e47b9c722"
 
 [[files]]
 file = "config/fxcontrol/breakevents.json"
-hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+hash = "900faa762536a1896c9a966b7ad1a3282014578db422664200442646018d1bef"
 
 [[files]]
 file = "config/fxcontrol/effects.json"
-hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+hash = "53bcd69c520534ce4b9f338d5be30dcb37d96f09fb98b7765e0e9794f8926904"
 
 [[files]]
 file = "config/fxcontrol/leftclicks.json"
@@ -58,7 +130,7 @@ hash = "a02f2408607d2cc18dd2ec41a0b5a96c10917e500acfcdadeed6899e3975e52b"
 
 [[files]]
 file = "config/incontrol/spawn.json"
-hash = "98eddabebc7f79c6425d5a9232d06a24aafac7f46dc6f372b22c6c0f1ff51e6d"
+hash = "da743d4eb9a9b1888e4886c33a879d20abf619f4a9c7166f0b955251b371d723"
 
 [[files]]
 file = "config/incontrol/spawner.json"
@@ -187,11 +259,6 @@ metafile = true
 [[files]]
 file = "mods/bad-mobs.pw.toml"
 hash = "c8dc3e41cd907d146903a406a0483556e316c1d1371f98faae95442a0b86772b"
-metafile = true
-
-[[files]]
-file = "mods/better-weather.pw.toml"
-hash = "b47777ac5730afacd0fa025f141ccfc6129a23beb328097085711e2a167986db"
 metafile = true
 
 [[files]]

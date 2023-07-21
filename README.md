@@ -29,7 +29,6 @@ Every mod ou resourcepack included in this modpack can be used freely if we cred
 <!-- - [Terra](https://modrinth.com/plugin/terra) [modrinth] -> better generation -->
 - [Chunky](https://modrinth.com/plugin/chunky) [modrinth] -> add pre-generation
 - [Serene Seasons](https://www.curseforge.com/minecraft/mc-mods/serene-seasons) [curseforge] -> add seasons (every versions for Minecraft 1.17 and below are licensed under CC-BY-NC-SA-4.0)
-- [Better Weather](https://www.curseforge.com/minecraft/mc-mods/better-weather) [curseforge] -> add seasons
 - [Dynamic Trees](https://modrinth.com/mod/dynamictrees) [modrinth] -> obvious
 
 ### Mods - Improvements

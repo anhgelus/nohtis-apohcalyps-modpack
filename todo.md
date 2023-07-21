@@ -6,6 +6,10 @@
 
 - Customize loot in chests
 
+## Perf
+
+- Try bandcamp download on a good connection
+
 ## Technology
 
 - Implements Create and KubeJS + Create
