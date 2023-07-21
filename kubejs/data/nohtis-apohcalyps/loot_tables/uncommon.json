@@ -9,7 +9,7 @@
 				{
 					"type": "item",
 					"name": "minecraft:rotten_flesh",
-					"weight": 1,
+					"weight": 20,
 					"functions": [
 						{
 							"function": "set_count",
@@ -23,7 +23,7 @@
 				{
 					"type": "item",
 					"name": "minecraft:bread",
-					"weight": 1,
+					"weight": 20,
 					"functions": [
 						{
 							"function": "set_count",
@@ -37,17 +37,17 @@
 				{
 					"type": "item",
 					"name": "minecraft:coal",
-					"weight": 1
+					"weight": 10
 				},
 				{
 					"type": "item",
 					"name": "minecraft:porkchop",
-					"weight": 1
+					"weight": 5 
 				},
 				{
 					"type": "item",
 					"name": "tac:9mm_round",
-					"weight": 1,
+					"weight": 15,
 					"functions": [
 						{
 							"function": "set_count",
@@ -61,12 +61,12 @@
 				{
 					"type": "item",
 					"name": "apocalyptic_arsenal:throwing_knife",
-					"weight": 1
+					"weight": 3 
 				},
 				{
 					"type": "item",
 					"name": "tac:round45",
-					"weight": 1,
+					"weight": 2,
 					"functions": [
 						{
 							"function": "set_count",
@@ -88,7 +88,7 @@
 				{
 					"type": "item",
 					"name": "tac:9mm_round",
-					"weight": 1,
+					"weight": 20,
 					"functions": [
 						{
 							"function": "set_count",
@@ -102,17 +102,17 @@
 				{
 					"type": "item",
 					"name": "apocalyptic_arsenal:balisong_knife",
-					"weight": 1
+					"weight": 10 
 				},
 				{
 					"type": "item",
 					"name": "tac:m1911",
-					"weight": 1
+					"weight": 5
 				},
 				{
 					"type": "item",
 					"name": "minecraft:coal",
-					"weight": 1,
+					"weight": 15,
 					"functions": [
 						{
 							"function": "set_count",
@@ -126,7 +126,7 @@
 				{
 					"type": "item",
 					"name": "minecraft:porkchop",
-					"weight": 1,
+					"weight": 15,
 					"functions": [
 						{
 							"function": "set_count",
@@ -140,12 +140,12 @@
 				{
 					"type": "item",
 					"name": "sophisticatedbackpacks:backpack",
-					"weight": 1
+					"weight": 10
 				},
 				{
 					"type": "item",
 					"name": "firstaid:plaster",
-					"weight": 1,
+					"weight": 20,
 					"functions": [
 						{
 							"function": "set_count",
@@ -159,7 +159,7 @@
 				{
 					"type": "item",
 					"name": "tac:sro_dot",
-					"weight": 1
+					"weight": 5 
 				}
 			]
 		}
