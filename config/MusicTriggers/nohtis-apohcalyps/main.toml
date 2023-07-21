@@ -1,4 +1,6 @@
 [triggers]
+	[triggers.universal]
+		fade_out = 150
 	[triggers.generic]
 		priority = 0 
 	[triggers.menu]
@@ -41,6 +43,8 @@
 		mob_targeting = true
 
 [songs]
+	[songs.universal]
+		start_delay = "0:250"
 	[songs.generic]
 		triggers = ["generic"]
 		chance = 75
