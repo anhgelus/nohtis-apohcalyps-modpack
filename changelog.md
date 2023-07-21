@@ -1,3 +1,14 @@
+## 0.8.0
+
+Add mods:
+- KubeJS
+- Architectury API
+- Rhino
+
+Disable lot of crafts
+
+Loot tables for Lost Cities chests
+
 ## 0.7.0
 
 Add mods:
