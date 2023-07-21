@@ -26,7 +26,7 @@ Check this [documentation](https://modrepo.de/minecraft/voicechat/wiki/server_se
 
 ### Create a new world
 
-:warning: **This modpack was designed to be played in multiplayer. The single-player experience does not reflect the multiplayer experience!**
+**This modpack was designed to be played in multiplayer. The single-player experience does not reflect the multiplayer experience!**
 
 When you create a new world, you should go to "world generation settings" and click on the button "Cities" at the top right.
 
