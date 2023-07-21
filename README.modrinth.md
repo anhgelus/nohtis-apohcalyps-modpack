@@ -19,6 +19,9 @@ Every mod, resourcepack or music included in this modpack can be used freely if 
 - [Zombie Awarness](https://www.curseforge.com/minecraft/mc-mods/zombie-awareness) [curseforge] -> control zombies 
 - [CoroUtil](https://www.curseforge.com/minecraft/mc-mods/coroutil) [curseforge] -> lib for Zombie Awarness 
 - [Apocalyptic Arsenal](https://www.curseforge.com/minecraft/mc-mods/apocalyptic-arsenal) [curseforge] -> weapons
+- [KubeJS](https://modrinth.com/mod/kubejs) [curseforge but newest version is on modrinth] -> customize the game with JS
+- [Architectury API](https://www.curseforge.com/minecraft/mc-mods/architectury) [curseforge but newest version is on modrinth] -> lib for KubeJS
+- [Rhino](https://www.curseforge.com/minecraft/mc-mods/rhino) [curseforge but newest version is on modrinth] -> lib for KubeJS
 
 ### Mods - Environments
 

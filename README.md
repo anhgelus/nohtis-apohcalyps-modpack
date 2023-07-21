@@ -23,6 +23,9 @@ Every mod, resourcepack or music included in this modpack can be used freely if 
 - [BadMobs](https://modrinth.com/mod/bad-mobs) [modrinth] -> disable spawns of certain mobs 
 - [The Lost Cities](https://modrinth.com/mod/the-lost-cities) [modrinth] -> Generation
 - [Apocalyptic Arsenal](https://www.curseforge.com/minecraft/mc-mods/apocalyptic-arsenal) [curseforge] -> weapons
+- [KubeJS](https://modrinth.com/mod/kubejs) [curseforge but newest version is on modrinth] -> customize the game with JS
+- [Architectury API](https://www.curseforge.com/minecraft/mc-mods/architectury) [curseforge but newest version is on modrinth] -> lib for KubeJS
+- [Rhino](https://www.curseforge.com/minecraft/mc-mods/rhino) [curseforge but newest version is on modrinth] -> lib for KubeJS
 
 ### Mods - Environments
 

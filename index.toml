@@ -252,6 +252,11 @@ hash = "42ba53cdfea395da6145c7dfe01e524e687811ed216a467a7479e0d82612a2cf"
 metafile = true
 
 [[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "3ef39814eff961d73203456044854e801f8f1f3447bdf5b6fa3c1c26d234ce18"
+metafile = true
+
+[[files]]
 file = "mods/atlas-lib.pw.toml"
 hash = "9fce0099cc383465d8093df9855ed964efc44980a2f0a71592d9e9446f90d4ba"
 metafile = true
@@ -347,6 +352,11 @@ hash = "317eb19f430bbc6bc21dc5d605fc1db01c01c35c4d12a5bc6f10cc9d5cccbbee"
 metafile = true
 
 [[files]]
+file = "mods/kubejs.pw.toml"
+hash = "03b95396f886a22987e8fee18d1b9855e4f06c09d166e180e3e0339665aeb36b"
+metafile = true
+
+[[files]]
 file = "mods/load-my-resources.pw.toml"
 hash = "c311fc8605f2611ab898c4bd40b73e7b13df625d414d476533916363040ef38d"
 metafile = true
@@ -404,6 +414,11 @@ metafile = true
 [[files]]
 file = "mods/radon.pw.toml"
 hash = "d50f6dc631da47fc9e7e322c0c1426795893819a6c0fd4afd2afaa2ab5a5c3c1"
+metafile = true
+
+[[files]]
+file = "mods/rhino.pw.toml"
+hash = "ae550842389bf4ce37f6b45414e1f4475a3d246451bc56a2bc4694b46a075d4f"
 metafile = true
 
 [[files]]

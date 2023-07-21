@@ -1,0 +1,13 @@
+name = "Rhino"
+filename = "rhino-1.7.13-build.23.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7fbdf88d4b0af0578fb1a2d3177b7c08153cdbfc"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3279704
+project-id = 416294
