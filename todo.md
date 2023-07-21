@@ -1,10 +1,8 @@
 ## Out-of-the-box
 
 - Add a mod helping when a user is generating a new world
-
-## Adventure
-
-- Customize loot in chests
+- Options pre-setup
+- `server.properties` pre-setup
 
 ## Perf
 
