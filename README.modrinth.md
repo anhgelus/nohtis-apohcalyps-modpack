@@ -6,6 +6,14 @@ See [changelog.md](/changelog.md) for the latest changelog
 
 Powered by [Packwiz](https://github.com/packwiz/packwiz).
 
+## First start
+
+When you start the modpack for the first time, you may go to the control options and click on "reset" for each keybindings.
+
+Now you can set your own keybindings.
+
+And you can create a new world!
+
 ## Credits 
 
 List of all mods, resourcepacks and musics.
@@ -39,6 +47,8 @@ Every mod, resourcepack or music included in this modpack can be used freely if 
 - [Placebo](https://www.curseforge.com/minecraft/mc-mods/placebo) [curseforge] -> lib for Toast Control 
 - [Presence Footsteps](https://www.curseforge.com/minecraft/mc-mods/presence-footsteps-forge) [curseforge] -> add footsteps
 - [Sound Filter](https://www.curseforge.com/minecraft/mc-mods/sound-filters) [curseforge] -> improve sounds
+- [Default Options](https://www.curseforge.com/minecraft/mc-mods/default-options) [curseforge but newest version is on modrinth] -> setup the default options
+- [Default Server Properties](https://www.curseforge.com/minecraft/mc-mods/default-server-properties) [curseforge] -> setup the default server properties
 
 #### Resource packs
 

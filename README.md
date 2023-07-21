@@ -6,6 +6,14 @@ See [changelog.md](/changelog.md) for the latest changelog
 
 Powered by [Packwiz](https://github.com/packwiz/packwiz).
 
+## First start
+
+When you start the modpack for the first time, you may go to the control options and click on "reset" for each keybindings.
+
+Now you can set your own keybindings.
+
+And you can create a new world!
+
 ## Credits 
 
 List of all mods, resourcepacks and musics.
@@ -75,7 +83,6 @@ Everything here is available on modrinth
 #### Resource packs
 
 - [Unity](https://modrinth.com/resourcepack/unity) [modrinth] -> better visual
-- [Fresh Animations](https://www.curseforge.com/minecraft/texture-packs/fresh-animations) [curseforge] -> improve animations
 - [Tissou's Zombie Pack](https://www.curseforge.com/minecraft/texture-packs/tissous-zombie-pack-optifine-1-7x-1-19) [curseforge] -> better zombies textures
 
 ### Mods - Apocalypse
