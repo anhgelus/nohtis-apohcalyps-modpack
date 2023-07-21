@@ -1,0 +1,58 @@
+[
+  {
+    "type": "condition",
+    "name": "chestloot",
+    "values": [
+		{
+			"factor": 80,
+			"value": "nohtis-apohcalyps:chests/common",
+			"range": "-1,1"
+		}, 
+		{
+			"factor": 50,
+			"value": "nohtis-apohcalyps:chests/common",
+			"range": "1,100"
+		}, 
+		{
+			"factor": 25,
+			"value": "nohtis-apohcalyps:chests/uncommon",
+			"range": "1,100"
+		}, 
+		{
+			"factor": 15,
+			"value": "nohtis-apohcalyps:chests/rare",
+			"range": "1,9"
+		}, 
+		{
+			"factor": 25,
+			"value": "nohtis-apohcalyps:chests/rare",
+			"range": "9,100"
+		}, 
+		{
+			"factor": 8,
+			"value": "nohtis-apohcalyps:chests/epic",
+			"range": "1,9"
+		}, 
+		{
+			"factor": 15,
+			"value": "nohtis-apohcalyps:chests/epic",
+			"range": "9,100"
+		}, 
+		{
+			"factor": 2,
+			"value": "nohtis-apohcalyps:chests/legendary",
+			"range": "1,9"
+		}, 
+		{
+			"factor": 8,
+			"value": "nohtis-apohcalyps:chests/legendary",
+			"range": "9,12"
+		}, 
+		{
+			"factor": 15,
+			"value": "nohtis-apohcalyps:chests/legendary",
+			"range": "-100,-2"
+		} 
+    ]
+  }
+]
