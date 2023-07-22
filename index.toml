@@ -286,7 +286,7 @@ hash = "db4a40827fdb7ead790eea085adbd1d2c7bf89e839e053d8a927eb6ce024ea3c"
 
 [[files]]
 file = "kubejs/data/nohtis-apohcalyps/loot_tables/chests/epic.json"
-hash = "06a41575ee8acb5b8619a43896cdac10a921d5b365562650a7d64509d8688e7e"
+hash = "e0c29ffada8a0cc5a5e0838442b7968dbfed7111d82075d5e56744e8db029ec9"
 
 [[files]]
 file = "kubejs/data/nohtis-apohcalyps/loot_tables/chests/legendary.json"
@@ -468,11 +468,6 @@ metafile = true
 [[files]]
 file = "mods/kubejs.pw.toml"
 hash = "03b95396f886a22987e8fee18d1b9855e4f06c09d166e180e3e0339665aeb36b"
-metafile = true
-
-[[files]]
-file = "mods/load-my-resources.pw.toml"
-hash = "c311fc8605f2611ab898c4bd40b73e7b13df625d414d476533916363040ef38d"
 metafile = true
 
 [[files]]

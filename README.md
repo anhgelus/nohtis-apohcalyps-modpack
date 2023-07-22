@@ -60,7 +60,6 @@ Every mod, resourcepack or music included in this modpack can be used freely if 
 - [Drip Sounds](https://modrinth.com/mod/waterdripsound) [modrinth] -> add sound
 - [Cloth Config API](https://modrinth.com/mod/waterdripsound) [modrinth] -> lib for Drip Sounds and more
 - [Presence Footsteps](https://www.curseforge.com/minecraft/mc-mods/presence-footsteps-forge) [curseforge] -> add footsteps
-- [Load My Resources](https://modrinth.com/mod/load-my-resources) [modrinth] -> load custom resources
 - [Sound Filter](https://www.curseforge.com/minecraft/mc-mods/sound-filters) [curseforge] -> improve sounds
 - [Music Triggers](https://modrinth.com/mod/music-triggers) [modrinth] -> manage music
 - [The Impossible Library](https://modrinth.com/mod/the-impossible-library) [modrinth] -> lib for Music Triggers 
