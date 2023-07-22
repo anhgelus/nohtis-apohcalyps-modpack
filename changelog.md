@@ -6,12 +6,21 @@ Add mods:
 - Rhino
 - Default Options
 - Default Server Properties
+- LazyDFU
+- Get It Together, Drops!
+- Simple Flashlight Port
+
+Remove `Load My Resources`
 
 Disable lot of crafts
 
 Loot tables for Lost Cities chests
 
 Setup default options
+
+Fix visual glitches and switch from `Load My Resources` to `KubeJS` for internal resources
+
+Setup custom starter kit
 
 ## 0.7.0
 

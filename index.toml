@@ -561,6 +561,11 @@ hash = "bdbf0e89c6bdfcac33f44921835b4a7e7b909214d99badb1d8e15200f836bb90"
 metafile = true
 
 [[files]]
+file = "mods/simple-flashlight-port.pw.toml"
+hash = "81c6c45f13547865c076f1418204241f7098dd3b44047a12b1c4ea2a2e1135cf"
+metafile = true
+
+[[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "b9dfe191e86b845800691f112707780c9db5ee368956c470e8a80c305b4fe6ca"
 metafile = true

@@ -98,6 +98,7 @@ Every mod, resourcepack or music included in this modpack can be used freely if 
 - [Total Darkness](https://www.curseforge.com/minecraft/mc-mods/total-darkness) [curseforge] -> total darkness during the night
 - [Sophisticated Backpacks](https://www.curseforge.com/minecraft/mc-mods/sophisticated-backpacks) [curseforge] -> add backpacks
 - [TinyInv](https://www.curseforge.com/minecraft/mc-mods/tinyinv) [curseforge] -> reduce inventory size
+- [Simple Flash Light Port](https://www.curseforge.com/minecraft/mc-mods/simple-flashlight-port) [curseforge] -> add a flashlight 
 
 ### Music
 

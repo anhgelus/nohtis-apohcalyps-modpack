@@ -9,7 +9,7 @@
 				{
 					"type": "item",
 					"name": "minecraft:rotten_flesh",
-					"weight": 50,
+					"weight": 40,
 					"functions": [
 						{
 							"function": "set_count",
@@ -19,6 +19,11 @@
 							}
 						}
 					]
+				},
+				{
+					"type": "item",
+					"name": "flashlight:smallredstonebattery",
+					"weight": 10
 				},
 				{
 					"type": "item",

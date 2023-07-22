@@ -98,6 +98,7 @@ Every mod, resourcepack or music included in this modpack can be used freely if 
 - [Sophisticated Backpacks](https://www.curseforge.com/minecraft/mc-mods/sophisticated-backpacks) [curseforge] -> add backpacks
 - [TinyInv](https://www.curseforge.com/minecraft/mc-mods/tinyinv) [curseforge] -> reduce inventory size
 - [Fx Control!](https://modrinth.com/mod/fx-control) [modrinth] -> control various things
+- [Simple Flash Light Port](https://www.curseforge.com/minecraft/mc-mods/simple-flashlight-port) [curseforge] -> add a flashlight 
 
 ### Mods - Specific
 
