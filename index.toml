@@ -6,11 +6,15 @@ hash = "18fb5e491dd880526a6d2dba993a1574fb4056ce939004da9b0f677fd6cca434"
 
 [[files]]
 file = "README.md"
-hash = "d600d7f35f87f2466e59c85119f9bee0401ee07565222cdbe414749ac154287b"
+hash = "c731e5696b21927fcfab1675750a620b7554d08635bf44d1e53dfc432333fb2b"
+
+[[files]]
+file = "README.modrinth.md"
+hash = "ac3fd42f9093bc16018f277d1f4d656fce04ebfd8d6de5c5d6a6fe18f7691ce5"
 
 [[files]]
 file = "changelog.md"
-hash = "6c6515fde64ca65fd52e9b06a4aa8966a247a7d1e348bc6ac5f1c4aa95541ff0"
+hash = "b4e9ff705dc9128caa406090cd629158809a443b1c8e7557a1391722222528fd"
 
 [[files]]
 file = "config/MusicTriggers/channels.toml"
@@ -19,6 +23,10 @@ hash = "a3305ed4abe526d36e29a5f253b987090942d48ae2cc9b5925608d9e55b70996"
 [[files]]
 file = "config/MusicTriggers/debug.toml"
 hash = "7dcb775dcaab14ca6710d70a0df4a4fd9b43de9a635fb6c55641d6029ee2885c"
+
+[[files]]
+file = "config/MusicTriggers/nohtis-apohcalyps/bp-redirect.txt"
+hash = "d34746cffe1e1ce7bf19e96ea2a11a550eb6c046b1933f36b774e736c398d533"
 
 [[files]]
 file = "config/MusicTriggers/nohtis-apohcalyps/commands.toml"
@@ -30,11 +38,11 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "config/MusicTriggers/nohtis-apohcalyps/main.toml"
-hash = "f42993ab3d5b30f86f2ece23180add07aabf6cac476b518a7c930be76bea6ff7"
+hash = "ba59b7d52c1811c7d612b0941add0ba88d448bcf5576526de81cf55f7fb15102"
 
 [[files]]
 file = "config/MusicTriggers/nohtis-apohcalyps/redirect.txt"
-hash = "d34746cffe1e1ce7bf19e96ea2a11a550eb6c046b1933f36b774e736c398d533"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "config/MusicTriggers/nohtis-apohcalyps/toggles.toml"
@@ -45,48 +53,56 @@ file = "config/MusicTriggers/nohtis-apohcalyps/transitions.toml"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
-file = "config/MusicTriggers/old-songs/danger.ogg"
-hash = "26cc0aded604129045d481beb4c43868f8206ec3b31912576cfc9cb33e2e3b19"
-
-[[files]]
-file = "config/MusicTriggers/old-songs/generic.ogg"
-hash = "90d9bfab29b433c2e70f683859cd374fdde40341c2e22f38160afee2d0b19be3"
-
-[[files]]
-file = "config/MusicTriggers/old-songs/high_stress.ogg"
-hash = "d161823582afaec3a5079e69b792df39eb7d1651c9f4945f1c0ac25b9d2a420e"
-
-[[files]]
-file = "config/MusicTriggers/old-songs/lost.ogg"
-hash = "63d20c3a21ab41af018a4266e52fa31d57865b03e8606502938f911695095b86"
-
-[[files]]
-file = "config/MusicTriggers/old-songs/menu.ogg"
-hash = "2fa50bcec1f5421097f6292cfa3af143a888ce9d93242fc84d96bc031f1e9119"
-
-[[files]]
-file = "config/MusicTriggers/old-songs/nostalgia.ogg"
-hash = "fc91882b8e6e24e212c7b5e46480595f1a69863c17d2b453316b04603d34184e"
-
-[[files]]
-file = "config/MusicTriggers/old-songs/strange.ogg"
-hash = "b6fbe0642ba6b1a2549a5c2ae9e2450dd4c8f59fcdadd5b7431450d2a13e09cc"
-
-[[files]]
-file = "config/MusicTriggers/old-songs/stress.ogg"
-hash = "b3b67d4b3a3fb7940e40a6d07f1e0e3f9cafdfac66e5deb53970fae31a3bd748"
-
-[[files]]
-file = "config/MusicTriggers/old-songs/weather.ogg"
-hash = "02aa77c527f39f1cba0f0e973aab73c8cf8e2e47c6f025cc9e28a9c5198943b8"
-
-[[files]]
 file = "config/MusicTriggers/registration.toml"
 hash = "a82fd1880216ba863459c1b5d968aef7fd5d6e352ebcdecdde5bf73e0e2d85e0"
 
 [[files]]
+file = "config/MusicTriggers/songs/danger.ogg"
+hash = "26cc0aded604129045d481beb4c43868f8206ec3b31912576cfc9cb33e2e3b19"
+
+[[files]]
+file = "config/MusicTriggers/songs/generic.ogg"
+hash = "90d9bfab29b433c2e70f683859cd374fdde40341c2e22f38160afee2d0b19be3"
+
+[[files]]
+file = "config/MusicTriggers/songs/high_stress.ogg"
+hash = "d161823582afaec3a5079e69b792df39eb7d1651c9f4945f1c0ac25b9d2a420e"
+
+[[files]]
+file = "config/MusicTriggers/songs/lost.ogg"
+hash = "63d20c3a21ab41af018a4266e52fa31d57865b03e8606502938f911695095b86"
+
+[[files]]
+file = "config/MusicTriggers/songs/menu.ogg"
+hash = "2fa50bcec1f5421097f6292cfa3af143a888ce9d93242fc84d96bc031f1e9119"
+
+[[files]]
+file = "config/MusicTriggers/songs/nostalgia.ogg"
+hash = "fc91882b8e6e24e212c7b5e46480595f1a69863c17d2b453316b04603d34184e"
+
+[[files]]
+file = "config/MusicTriggers/songs/strange.ogg"
+hash = "b6fbe0642ba6b1a2549a5c2ae9e2450dd4c8f59fcdadd5b7431450d2a13e09cc"
+
+[[files]]
+file = "config/MusicTriggers/songs/stress.ogg"
+hash = "b3b67d4b3a3fb7940e40a6d07f1e0e3f9cafdfac66e5deb53970fae31a3bd748"
+
+[[files]]
+file = "config/MusicTriggers/songs/weather.ogg"
+hash = "02aa77c527f39f1cba0f0e973aab73c8cf8e2e47c6f025cc9e28a9c5198943b8"
+
+[[files]]
 file = "config/badmobs-common.toml"
 hash = "b7f7445f28571409032412e486b412491615c5d9dd954db58fac175e47b9c722"
+
+[[files]]
+file = "config/defaultoptions/keybindings.txt"
+hash = "48ddbff24cac7baeb16c5a82c03801b3872608ac919e531bfd786aa965677ad1"
+
+[[files]]
+file = "config/defaultoptions/options.txt"
+hash = "59754624eb3e433ff36d6a7469dde3c62281ab2edca2b22993b71d0e8d4e6048"
 
 [[files]]
 file = "config/fxcontrol/breakevents.json"
@@ -189,6 +205,10 @@ file = "config/lostcities/profiles/wasteland.json"
 hash = "dcd86b2e9154ce0dafd59c9d462a991f609f3b6722214d51a0abb532ad2d0205"
 
 [[files]]
+file = "config/lostcities/userassets.json"
+hash = "f2c3c17c7d41146d90422d14aee2f219a4407f310fa555c26e25305c5c398892"
+
+[[files]]
 file = "config/starterkit-common.toml"
 hash = "73a576e07143f9481fbd85f5d0e744b378aa8ae725bfeef6753e3e1c34609eef"
 
@@ -235,6 +255,90 @@ hash = "8759cc00ac7c505257740a861d81c3354007aec98b65dc9d7510f6bb21fc342a"
 [[files]]
 file = "config/zombieawareness/PlayerRulesAndLists.toml"
 hash = "736d7212e4211b163876aa7fb892c947a82cdd3f2a9ea91ffaf9cfab375d88c0"
+
+[[files]]
+file = "kubejs/README.txt"
+hash = "35e3c6ff70236e1bb6bf1f12fdbabc9a3e9941cb4e3c3567b5c697d34b210b36"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/example_block.png"
+hash = "783d78bd1ee61d3b32273670dff9d82c34cd74c5ae899a10f104f473828d5bbc"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/example_item.png"
+hash = "45a5f56eba6066ad05c70988a32b72c50cfeb6e35857739bd582007011ea002b"
+
+[[files]]
+file = "kubejs/client_scripts/script.js"
+hash = "94340940c761d31cde3fed0b564bb7387fd2a101d3ee3484f50a81119d24d85d"
+
+[[files]]
+file = "kubejs/config/client.properties"
+hash = "45b61280aa0bf10f72edbb6e6d27bbe52a9a6070b78626ca37165ac9c315cf4f"
+
+[[files]]
+file = "kubejs/config/common.properties"
+hash = "c5d6ddb5b9b6174f4b694652e6c2ecc1afad8d28a67f281142bec8586365b884"
+
+[[files]]
+file = "kubejs/data/nohtis-apohcalyps/loot_tables/chests/common.json"
+hash = "db4a40827fdb7ead790eea085adbd1d2c7bf89e839e053d8a927eb6ce024ea3c"
+
+[[files]]
+file = "kubejs/data/nohtis-apohcalyps/loot_tables/chests/epic.json"
+hash = "06a41575ee8acb5b8619a43896cdac10a921d5b365562650a7d64509d8688e7e"
+
+[[files]]
+file = "kubejs/data/nohtis-apohcalyps/loot_tables/chests/legendary.json"
+hash = "e252215d7518e8ef840a5486a7b3694b71f776d3ff26e6bf4f48f0ccf8e1b4d9"
+
+[[files]]
+file = "kubejs/data/nohtis-apohcalyps/loot_tables/chests/rare.json"
+hash = "92ff765633db783da201a11cbb5f75d588fab43fbc20ef74f7c06ccfadead920"
+
+[[files]]
+file = "kubejs/data/nohtis-apohcalyps/loot_tables/chests/uncommon.json"
+hash = "e0e8b34e439b9259d74188c45dec124648ae755174512ef93de23a6a36a2d870"
+
+[[files]]
+file = "kubejs/exported/tags/blocks.txt"
+hash = "9a1d73d44e52831d14b77cb56805b9d69d6db03af33ab23228a2018f2f68ab6b"
+
+[[files]]
+file = "kubejs/exported/tags/enchantments.txt"
+hash = "a301ed63fec2b87ea88f697a9954c916643eb11bc67bc95d4d1e47ee0b0f40d8"
+
+[[files]]
+file = "kubejs/exported/tags/entity_types.txt"
+hash = "555c848606ad3ddeccd07595b7313dba1220492360340c69a4d957cc099d76c4"
+
+[[files]]
+file = "kubejs/exported/tags/fluids.txt"
+hash = "acffc8a2ec1c333ac9071d94d35b6cf207bec70ae60b0663d0ff4d15c3acd3ea"
+
+[[files]]
+file = "kubejs/exported/tags/functions.txt"
+hash = "38fc931285f7ce60722addbfc206fa34ecedc4a56cc4d1fb4dd639d6bc19a02c"
+
+[[files]]
+file = "kubejs/exported/tags/items.txt"
+hash = "45e2a3d87d0bcad265665fad270c020664e101f91ec9a203231d77cac43e992b"
+
+[[files]]
+file = "kubejs/exported/tags/potions.txt"
+hash = "a301ed63fec2b87ea88f697a9954c916643eb11bc67bc95d4d1e47ee0b0f40d8"
+
+[[files]]
+file = "kubejs/exported/tags/tile_entity_types.txt"
+hash = "a301ed63fec2b87ea88f697a9954c916643eb11bc67bc95d4d1e47ee0b0f40d8"
+
+[[files]]
+file = "kubejs/server_scripts/craft.js"
+hash = "534db282a4c290c5b7772f7b06f8c8849592842f71dc61a275eaa23a263c20c3"
+
+[[files]]
+file = "kubejs/startup_scripts/script.js"
+hash = "8f73ef24f8deb74cc9309ec6cb2db7bf6544c4890e8957dd72a5c68d100b3af8"
 
 [[files]]
 file = "mods/ambientsounds.pw.toml"
@@ -428,7 +532,7 @@ metafile = true
 
 [[files]]
 file = "mods/rhino.pw.toml"
-hash = "ae550842389bf4ce37f6b45414e1f4475a3d246451bc56a2bc4694b46a075d4f"
+hash = "bd1f1597a9728b71a28969e4d7c9ed24f29b3c5fc77379a0c9ce5a7a29117594"
 metafile = true
 
 [[files]]
@@ -4660,4 +4764,4 @@ hash = "df2da3492eb64f6193b5fd8856ff5738be6ce69c57fdb503623ae4c355294bdb"
 
 [[files]]
 file = "todo.md"
-hash = "56c0b73f0928d99b97c7cad98e526b7f23c503b3c433e491ce6ed99a048ae04e"
+hash = "c8977472f57319940c1b3d843b0c46115055ae1cff1851972af6ff32d2f34fd8"
