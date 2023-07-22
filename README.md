@@ -68,16 +68,16 @@ Every mod, resourcepack or music included in this modpack can be used freely if 
 
 #### Optimizations
 
-Everything here is available on modrinth
-
-- [Entity Culling](https://modrinth.com/mod/entityculling) -> entity perf
-- [Ferrite Core](https://modrinth.com/mod/ferrite-core) -> memory usage
-- [Memory Leak Fix](https://modrinth.com/mod/memoryleakfix) -> obvious
-- [Rubidium](https://modrinth.com/mod/rubidium) -> sodium for forge
-- [spark](https://modrinth.com/mod/spark) -> profiling
-- [Rubidium Extra](https://modrinth.com/mod/rubidium-extra) -> sodium extra for forge
-- [Radon](https://modrinth.com/mod/radon) -> phosphor for forge
-- [Textrue's Rubidium Options](https://modrinth.com/mod/textrues-rubidium-options) -> better options for Rubidium
+- [Entity Culling](https://modrinth.com/mod/entityculling) [modrinth] -> entity perf
+- [Ferrite Core](https://modrinth.com/mod/ferrite-core) [modrinth] -> memory usage
+- [Memory Leak Fix](https://modrinth.com/mod/memoryleakfix) [modrinth] -> obvious
+- [Rubidium](https://modrinth.com/mod/rubidium) [modrinth] -> sodium for forge
+- [spark](https://modrinth.com/mod/spark) [modrinth] -> profiling
+- [Rubidium Extra](https://modrinth.com/mod/rubidium-extra) [modrinth] -> sodium extra for forge
+- [Radon](https://modrinth.com/mod/radon) [modrinth] -> phosphor for forge
+- [Textrue's Rubidium Options](https://modrinth.com/mod/textrues-rubidium-options) [modrinth] -> better options for Rubidium
+- [LazyDFU](https://www.curseforge.com/minecraft/mc-mods/lazy-dfu-forge) [curseforge] -> smooth boot
+- [Get It Together Drops](https://modrinth.com/mod/get-it-together-drops) [modrinth] -> drop optimization
 
 #### Resource packs
 

@@ -461,6 +461,11 @@ hash = "9c7bc14c64f1f137158c65d87820499e42ba0cde2063be5e3ca80ef0af8c689c"
 metafile = true
 
 [[files]]
+file = "mods/get-it-together-drops.pw.toml"
+hash = "10aba4987aa3bbfbd2216ebf9170ef8a1a335fdbadbbe823e55294a6add863b6"
+metafile = true
+
+[[files]]
 file = "mods/in-control.pw.toml"
 hash = "317eb19f430bbc6bc21dc5d605fc1db01c01c35c4d12a5bc6f10cc9d5cccbbee"
 metafile = true
@@ -468,6 +473,11 @@ metafile = true
 [[files]]
 file = "mods/kubejs.pw.toml"
 hash = "03b95396f886a22987e8fee18d1b9855e4f06c09d166e180e3e0339665aeb36b"
+metafile = true
+
+[[files]]
+file = "mods/lazy-dfu-forge.pw.toml"
+hash = "4cbade87fef39ba34f9b459b8d238fa761901c4817db0564ef4dae1a06e4b832"
 metafile = true
 
 [[files]]

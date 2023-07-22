@@ -82,6 +82,10 @@ Every mod, resourcepack or music included in this modpack can be used freely if 
 - [Default Options](https://www.curseforge.com/minecraft/mc-mods/default-options) [curseforge but newest version is on modrinth] -> setup the default options
 - [Default Server Properties](https://www.curseforge.com/minecraft/mc-mods/default-server-properties) [curseforge] -> setup the default server properties
 
+#### Optimizations
+
+- [LazyDFU](https://www.curseforge.com/minecraft/mc-mods/lazy-dfu-forge) [curseforge] -> smooth boot
+
 #### Resource packs
 
 - [Tissou's Zombie Pack](https://www.curseforge.com/minecraft/texture-packs/tissous-zombie-pack-optifine-1-7x-1-19) [curseforge] -> better zombies textures
