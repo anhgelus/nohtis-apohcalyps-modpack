@@ -129,7 +129,7 @@
 				},
 				{
 					"type": "item",
-					"name": "tac:bandage",
+					"name": "firstaid:bandage",
 					"weight": 20,
 					"functions": [
 						{
