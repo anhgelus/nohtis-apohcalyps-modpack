@@ -110,11 +110,6 @@
 			"entries": [
 				{
 					"type": "item",
-					"name": "firstaid:morphine",
-					"weight": 30 
-				},
-				{
-					"type": "item",
 					"name": "tac:nato_556_bullet",
 					"weight": 30,
 					"functions": [
@@ -144,17 +139,17 @@
 				{
 					"type": "item",
 					"name": "tac:m4",
-					"weight": 10 
+					"weight": 20 
 				},
 				{
 					"type": "item",
 					"name": "tac:aa_12",
-					"weight": 5 
+					"weight": 15 
 				},
 				{
 					"type": "item",
 					"name": "tac:acog_4x_scope",
-					"weight": 5 
+					"weight": 15 
 				}
 			]
 		}

@@ -88,7 +88,7 @@
 				{
 					"type": "item",
 					"name": "tac:9mm_round",
-					"weight": 20,
+					"weight": 25,
 					"functions": [
 						{
 							"function": "set_count",
@@ -98,11 +98,6 @@
 							}
 						}
 					]
-				},
-				{
-					"type": "item",
-					"name": "apocalyptic_arsenal:balisong_knife",
-					"weight": 10 
 				},
 				{
 					"type": "item",
@@ -145,7 +140,7 @@
 				{
 					"type": "item",
 					"name": "firstaid:plaster",
-					"weight": 20,
+					"weight": 25,
 					"functions": [
 						{
 							"function": "set_count",
