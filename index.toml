@@ -25,10 +25,6 @@ file = "config/MusicTriggers/debug.toml"
 hash = "7dcb775dcaab14ca6710d70a0df4a4fd9b43de9a635fb6c55641d6029ee2885c"
 
 [[files]]
-file = "config/MusicTriggers/nohtis-apohcalyps/bp-redirect.txt"
-hash = "d34746cffe1e1ce7bf19e96ea2a11a550eb6c046b1933f36b774e736c398d533"
-
-[[files]]
 file = "config/MusicTriggers/nohtis-apohcalyps/commands.toml"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
@@ -42,7 +38,7 @@ hash = "ba59b7d52c1811c7d612b0941add0ba88d448bcf5576526de81cf55f7fb15102"
 
 [[files]]
 file = "config/MusicTriggers/nohtis-apohcalyps/redirect.txt"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+hash = "d34746cffe1e1ce7bf19e96ea2a11a550eb6c046b1933f36b774e736c398d533"
 
 [[files]]
 file = "config/MusicTriggers/nohtis-apohcalyps/toggles.toml"
@@ -55,42 +51,6 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 [[files]]
 file = "config/MusicTriggers/registration.toml"
 hash = "a82fd1880216ba863459c1b5d968aef7fd5d6e352ebcdecdde5bf73e0e2d85e0"
-
-[[files]]
-file = "config/MusicTriggers/songs/danger.ogg"
-hash = "26cc0aded604129045d481beb4c43868f8206ec3b31912576cfc9cb33e2e3b19"
-
-[[files]]
-file = "config/MusicTriggers/songs/generic.ogg"
-hash = "90d9bfab29b433c2e70f683859cd374fdde40341c2e22f38160afee2d0b19be3"
-
-[[files]]
-file = "config/MusicTriggers/songs/high_stress.ogg"
-hash = "d161823582afaec3a5079e69b792df39eb7d1651c9f4945f1c0ac25b9d2a420e"
-
-[[files]]
-file = "config/MusicTriggers/songs/lost.ogg"
-hash = "63d20c3a21ab41af018a4266e52fa31d57865b03e8606502938f911695095b86"
-
-[[files]]
-file = "config/MusicTriggers/songs/menu.ogg"
-hash = "2fa50bcec1f5421097f6292cfa3af143a888ce9d93242fc84d96bc031f1e9119"
-
-[[files]]
-file = "config/MusicTriggers/songs/nostalgia.ogg"
-hash = "fc91882b8e6e24e212c7b5e46480595f1a69863c17d2b453316b04603d34184e"
-
-[[files]]
-file = "config/MusicTriggers/songs/strange.ogg"
-hash = "b6fbe0642ba6b1a2549a5c2ae9e2450dd4c8f59fcdadd5b7431450d2a13e09cc"
-
-[[files]]
-file = "config/MusicTriggers/songs/stress.ogg"
-hash = "b3b67d4b3a3fb7940e40a6d07f1e0e3f9cafdfac66e5deb53970fae31a3bd748"
-
-[[files]]
-file = "config/MusicTriggers/songs/weather.ogg"
-hash = "02aa77c527f39f1cba0f0e973aab73c8cf8e2e47c6f025cc9e28a9c5198943b8"
 
 [[files]]
 file = "config/badmobs-common.toml"
@@ -134,7 +94,7 @@ hash = "219d15711c9f69a4d1b571357707b269ad49ed89be8816b18354191967841588"
 
 [[files]]
 file = "config/incontrol/loot.json"
-hash = "a4c8475743e2a0878ac767c852324437726d55f272f1307f108669f1380be7f7"
+hash = "45bde18dc6e992fcf9185c9b0bbd1b95525027d932c187cfea7369434450a58b"
 
 [[files]]
 file = "config/incontrol/main.cfg"
@@ -257,6 +217,14 @@ file = "config/zombieawareness/PlayerRulesAndLists.toml"
 hash = "736d7212e4211b163876aa7fb892c947a82cdd3f2a9ea91ffaf9cfab375d88c0"
 
 [[files]]
+file = "defaultconfigs/lostcities-server.toml"
+hash = "eb020c4dff0a59e4526e458ea03a2c69cd9528e52690118e81afec30e3dc69ff"
+
+[[files]]
+file = "defaultconfigs/tac-server.toml"
+hash = "e94d0df4a03a47e6c33b9095575be1c42a23602c17106b7f63f99851f09ebae6"
+
+[[files]]
 file = "kubejs/README.txt"
 hash = "35e3c6ff70236e1bb6bf1f12fdbabc9a3e9941cb4e3c3567b5c697d34b210b36"
 
@@ -326,7 +294,7 @@ hash = "b6ae0cd8ba37662f90f3b8cf411309d8ff2c01d1422bbf952f7de30f48ad430d"
 
 [[files]]
 file = "kubejs/data/nohtis-apohcalyps/loot_tables/chests/epic.json"
-hash = "e0c29ffada8a0cc5a5e0838442b7968dbfed7111d82075d5e56744e8db029ec9"
+hash = "4a7aec95568d45115005fc00e255ee0d3efafd0facee16b69f08e2452144f710"
 
 [[files]]
 file = "kubejs/data/nohtis-apohcalyps/loot_tables/chests/legendary.json"
@@ -334,11 +302,11 @@ hash = "e252215d7518e8ef840a5486a7b3694b71f776d3ff26e6bf4f48f0ccf8e1b4d9"
 
 [[files]]
 file = "kubejs/data/nohtis-apohcalyps/loot_tables/chests/rare.json"
-hash = "92ff765633db783da201a11cbb5f75d588fab43fbc20ef74f7c06ccfadead920"
+hash = "8da4588716cc77cf39fd8a39c228345fc39ae6938121fbe6b3affa7b90c24df3"
 
 [[files]]
 file = "kubejs/data/nohtis-apohcalyps/loot_tables/chests/uncommon.json"
-hash = "e0e8b34e439b9259d74188c45dec124648ae755174512ef93de23a6a36a2d870"
+hash = "f5ccd448ab75a60405d3dfd446e8462d9adbcadd881e6dfc558d076a57525894"
 
 [[files]]
 file = "kubejs/exported/tags/blocks.txt"
@@ -611,11 +579,6 @@ hash = "b9dfe191e86b845800691f112707780c9db5ee368956c470e8a80c305b4fe6ca"
 metafile = true
 
 [[files]]
-file = "mods/skin-layers-3d.pw.toml"
-hash = "4beb580f470b78844b1012419ef1f35232b57d8048e45f00b8d795f7f4ec3c73"
-metafile = true
-
-[[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
 hash = "bad0617bb0b09ad4898690c2995408eb54cad32b83d96e04fb2ef1ef277cfd74"
 metafile = true
@@ -702,4 +665,4 @@ metafile = true
 
 [[files]]
 file = "todo.md"
-hash = "c8977472f57319940c1b3d843b0c46115055ae1cff1851972af6ff32d2f34fd8"
+hash = "5e9d2f2fb30f59f3fc7a61c662ef8da403498561dbd63841ecad17c4396996e0"
