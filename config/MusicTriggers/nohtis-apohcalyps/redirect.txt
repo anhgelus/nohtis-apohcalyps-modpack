@@ -1,0 +1,10 @@
+menu = https://feldup.bandcamp.com/track/intro-sirens-announcing-the-end-of-the-world
+danger = https://feldup.bandcamp.com/track/everything-fell-apart-in-a-mere-second
+generic = https://feldup.bandcamp.com/track/a-crushing-silence
+high_stress = https://feldup.bandcamp.com/track/unwanted-thoughts-in-an-overwhelmed-head
+lost = https://feldup.bandcamp.com/track/aimless-walking-in-nothingness
+nostaligia = https://feldup.bandcamp.com/track/your-home-has-been-empty-for-a-year
+strange = https://feldup.bandcamp.com/track/through-the-walls
+stress = https://feldup.bandcamp.com/track/unlit-exit-sign
+weather = https://feldup.bandcamp.com/track/a-season-in-the-dark 
+
