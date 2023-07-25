@@ -1,13 +1,13 @@
 name = "Starter Kit"
-filename = "starterkit_1.12.2-2.4.jar"
+filename = "starterkit_1.16.5-4.1.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/6L3ydNi8/versions/fuk9KbDs/starterkit_1.16.5-4.1.jar"
 hash-format = "sha1"
-hash = "e71b5ff3e49d769b651e494df8ed4278780d9a23"
-mode = "metadata:curseforge"
+hash = "8141a667311c195f124fdc9d0e8ab39e846cd582"
 
 [update]
-[update.curseforge]
-file-id = 3222149
-project-id = 390717
+[update.modrinth]
+mod-id = "6L3ydNi8"
+version = "fuk9KbDs"

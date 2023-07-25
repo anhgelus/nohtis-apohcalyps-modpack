@@ -1,87 +1,128 @@
-# v0.17.0
+## 0.8.0
 
-Add corpse when people die (so the stuff will not be erased)
+Add mods:
+- KubeJS
+- Architectury API
+- Rhino
+- Default Options
+- Default Server Properties
+- LazyDFU
+- Get It Together, Drops!
+- Simple Flashlight Port
 
-Add ambient sounds, comforts and a starter kit
+Remove `Load My Resources`
 
-Add food funk to add more difficulties in the managment of food
+Disable lot of crafts
 
-Add twisted tweaks to add various difficulties
+Loot tables for Lost Cities chests
 
-Add mouse tweaks to improve the managment of storage
+Setup default options
 
-Remove the cars (useless know)
+Fix visual glitches and switch from `Load My Resources` to `KubeJS` for internal resources
 
-Add minecart furnace and minecrat chest in the shop
+Setup custom starter kit
 
-# v0.16.0
+## 0.7.0
 
-Add custom panorama in the main menu
+Add mods:
+- Load My Resources
+- Sound Filter
+- Serene Seasons
+- Music Triggers
 
-Add predefined generation types
+Customize default minecraft music with [A season in the dark, a bottomless trench](https://feldup.bandcamp.com/album/a-season-in-the-dark-a-bottomless-trench) by Feldup
 
-Tweaks loots and chest repartition :
+Add wither effect and cancel break event when player try to mine under Y=50
 
-- Decrease probability to loot mags of non-basic pistols
-- Add probability to loot the glock13 mag
-- Basic chest is less scarce and other types of chest become more rare.
-- Delete the "important" loot in basic chest
-- Change repartition of guns and mags
+## 0.6.0
 
-# v0.15.3
+Add new core mod:
+- BadMobs
 
-Fix invincible when dying
+Add new apocalypse mod:
+- Fx Control!
 
-# v0.15.2
+Customize spawn and loot of zombies
 
-Fix OpenGL error 1283
+Disable spawn of every mobs excepted zombies
 
-Remove Mob Amputation and Improved Mobs
+Customize configs of important mods
 
-Perf remove Chunk Animator
+## 0.5.0
 
-Add Start Of Apocalyps generation mode
+Add new apocalypse mods:
+- Sophisticated Backpacks
+- TinyInv
+- Dynamic Trees
 
-# v0.15.1
+## 0.4.0
 
-Update every mods
+Add specific mods:
+- Simple Voice Chat
+- CraftPresence
+- Custom Player Models
+- cpmsvcc
 
-# v0.15.0
+## 0.3.0
 
-Add Resource Loader, Custom Main Menu, Custom Backgrounds, Dark Theme Mod
+Add optimizations mods:
+- Entity Culling
+- Ferrite Core
+- Memory Leak Fix
+- Rubidium
+- spark
+- Rubidium Extra
+- Radon
+- Textrue's Rubidium Options
 
-Add Mob Amputation
+Add resource packs:
+- Unity
+- Fresh Animations
+- Tissou's Zombie Pack
 
-Add Improved Mobs
+Add compatibility mods:
+- Entity Texture Features
+- MoreMcmeta
+- MoreMcmeta Emissive Textures
 
-Manage the difficulty (higher in the end game)
+Add better audio mods:
+- AmbientSounds 5
+- CreativeCore
+- Drip Sounds
+- Cloth Config API
+- Presence Footsteps
 
-Remove resources packs and turn them into resources
+Add better visual mods:
+- Not Enough Animations
+- TRansliterationLib
+- Toast Control
+- Placebo
 
-Add a custom main menu and change the dirt background into mossy stonebrick background
+Add useful mods:
+- Mouse Tweaks
+- Apple Skin
+- Shutup Experimental Settings!
 
-Update quests and add batery in the shop
+Update `Timeless and Classic Guns` and add `Curios API`
 
-# v0.14.1
+## 0.2.0
 
-Fix forge version crash
+Add apocalypse mods:
+- The Hordes
+- Atlas Lib
+- Decorative Blocks
+- Starter Kit
+- Collective
+- Mob Sunscreen
+- Total Darkness
 
-Add Enhanced Visuals
+## 0.1.0
 
-# v0.14.0
-
-Adjust price of armors and of redstone torchs
-
-Add minecart and boat to the shop
-
-Add a map and a way to move minecart/boat
-
-Disable MTS (cars)
-
-# v0.13.3
-
-Fix bugs while loading loots
-
-Tweak customs zombies' spawn
-
-Remove Immersive Voice (do not work) and Multithreaded Noise (not very usefull)
+Add core mods:
+- Timeless and Classic Guns
+- Obfuscate
+- In Control!
+- Zombie Awarness
+- CoroUtil
+- The Lost Cities
+- Apocalyptic Arsenal

@@ -1,0 +1,13 @@
+name = "Radon"
+filename = "radon-0.8.0a.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/4AiJdRfV/versions/nlueRs6L/radon-0.8.0a.jar"
+hash-format = "sha1"
+hash = "e5ebad2ad51f119c37dd48f0851b3f19f0cbaa4c"
+
+[update]
+[update.modrinth]
+mod-id = "4AiJdRfV"
+version = "nlueRs6L"

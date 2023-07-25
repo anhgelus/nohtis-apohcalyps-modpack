@@ -1,0 +1,16 @@
+
+[general]
+	#Counts slots by their numerical ID - hotbar has IDs 0-8, the top inventory row 9-17,....
+	count_slots_from_start = false
+	#Number of hotbar slots
+	#Range: 1 ~ 9
+	hotbar_slots = 9
+	#Should disable the left hand?
+	disable_offhand = false
+	#Number of slots
+	#Range: 1 ~ 36
+	inventory_slots = 27 
+	#ID of the first armor (non-container) inventory slot)
+	#Range: > 1
+	armor_start_id = 36
+

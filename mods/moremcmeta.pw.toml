@@ -1,0 +1,13 @@
+name = "MoreMcmeta"
+filename = "moremcmeta-1.16.5-4.0.1-forge.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/HFlxNpln/versions/gFKk8xpt/moremcmeta-1.16.5-4.0.1-forge.jar"
+hash-format = "sha1"
+hash = "a949b7a2a398b80c21811de3c4d3c5933a38d511"
+
+[update]
+[update.modrinth]
+mod-id = "HFlxNpln"
+version = "gFKk8xpt"

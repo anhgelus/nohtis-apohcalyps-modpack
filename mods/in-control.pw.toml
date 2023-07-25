@@ -1,13 +1,13 @@
 name = "In Control!"
-filename = "incontrol-1.12-3.9.18.jar"
+filename = "incontrol-1.16-5.2.12.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/KpICtuVx/versions/ud6n7mNu/incontrol-1.16-5.2.12.jar"
 hash-format = "sha1"
-hash = "a9a3b82dc6c8d9a9107f5e03eaa79b5854c2eed2"
-mode = "metadata:curseforge"
+hash = "6dec4c75c8bec9a9bd20147e7611bd61c4dec0b3"
 
 [update]
-[update.curseforge]
-file-id = 3101719
-project-id = 257356
+[update.modrinth]
+mod-id = "KpICtuVx"
+version = "ud6n7mNu"

@@ -1,7 +1,0 @@
-{
-	title: "Vehicle",
-	icon: "unumilitary:unumilitary_vehicle_unu_wolf2_winter",
-	always_invisible: false,
-	group: 0,
-	default_quest_shape: ""
-}

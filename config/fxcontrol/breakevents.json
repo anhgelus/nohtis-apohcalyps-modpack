@@ -1,1 +1,6 @@
-[]
+[
+	{
+		"maxheight": 50,
+		"result": "deny"
+	}
+]

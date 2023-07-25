@@ -1,0 +1,13 @@
+name = "The Impossible Library"
+filename = "theimpossiblelibrary-1.16.5-0.2.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ZyFWSztU/versions/nslxIlEo/theimpossiblelibrary-1.16.5-0.2.4.jar"
+hash-format = "sha1"
+hash = "4bfe75dc19a46145f8d085bc3020716e91a49eaa"
+
+[update]
+[update.modrinth]
+mod-id = "ZyFWSztU"
+version = "nslxIlEo"

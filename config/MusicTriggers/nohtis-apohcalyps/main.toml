@@ -1,0 +1,72 @@
+[triggers]
+	[triggers.universal]
+		fade_out = 150
+	[triggers.generic]
+		priority = 0 
+	[triggers.menu]
+		priority = 1
+	[[triggers.season]]
+		identifier = "winter"
+		level = 3
+		priority = 1
+	[[triggers.time]]
+		identifier = "night"
+		time_bundle = "night"
+		priority = 2 
+	# weather
+	[triggers.raining]
+		priority = 1
+	[triggers.storming]
+		priority = 1
+	[triggers.snowing]
+		priority = 1
+	# danger
+	[triggers.lowhp]
+		priority = 5 
+		level = 50
+	[triggers.dead]
+		priority = 5 
+	[triggers.drowning]
+		priority = 5 
+		level = 150
+	# stress
+	[[triggers.mob]]
+		priority = 3 
+		identifier = "lot-of"
+		resource_name = ["Zombie"]
+		level = 15
+	[[triggers.mob]]
+		priority = 4 
+		identifier = "targeting"
+		resource_name = ["Zombie"]
+		level = 5
+		mob_targeting = true
+
+[songs]
+	[songs.universal]
+		start_delay = "0:250"
+	[songs.generic]
+		triggers = ["generic"]
+		chance = 75
+	[songs.danger]
+		triggers = ["lowhp" "dead" "drowning"]
+	[songs.menu]
+		triggers = ["menu"]
+	[songs.stress]
+		triggers = ["mob-lot-of" "mob-targeting" "time-night"]
+		chance = 75
+	[songs.high_stress]
+		triggers = ["mob-lot-of" "mob-targeting"]
+		chance = 25
+	[songs.weather]
+		triggers = ["raining" "storming" "snowing" "season-winter"]
+	[songs.strange]
+		triggers = ["generic" "time-night"]
+		chance = 25
+	[songs.lost]
+		triggers = ["generic" "season-winter"]
+		chance = 25
+	[songs.nostalgia]
+		triggers = ["generic" "season-winter"]
+		chance = 15
+

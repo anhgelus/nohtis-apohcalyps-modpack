@@ -1,0 +1,13 @@
+name = "Unity"
+filename = "Unity-1.19.2-Base-2.5.0.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/C5cIabB8/versions/8c8Qx9rx/Unity-1.19.2-Base-2.5.0.zip"
+hash-format = "sha1"
+hash = "44d5b99f14c933c34bb7b284dbcb73542ace1d6d"
+
+[update]
+[update.modrinth]
+mod-id = "C5cIabB8"
+version = "8c8Qx9rx"
