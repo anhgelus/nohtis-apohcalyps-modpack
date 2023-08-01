@@ -1,3 +1,14 @@
+## 0.8.1
+
+Make some Curseforge mods client side only to avoid server crash:
+- Ambient Sounds
+- Not Enough Animations
+- Presence Footsteps
+- Sound Filters
+- Toast Control
+- Total Darkness
+- TRansliterationLib
+
 ## 0.8.0
 
 Add mods:
