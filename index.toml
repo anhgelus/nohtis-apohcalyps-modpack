@@ -6,15 +6,15 @@ hash = "18fb5e491dd880526a6d2dba993a1574fb4056ce939004da9b0f677fd6cca434"
 
 [[files]]
 file = "README.md"
-hash = "2d5ab3366f7af65741cea492821dc3bdf2109f8c55d447403977fa3d922b1c7a"
+hash = "b7c8f5a64b902f9d435ef1140173ea999ffd1baeca29cf0565f0244160b65ec9"
 
 [[files]]
 file = "README.modrinth.md"
-hash = "425d3a3662a9913738925e622d38905538719f671eb6a420a705517126bda826"
+hash = "d3faee5820ce6706b602c3630d0a84cd48fb77920ab44fbb5f3ef1027d1e8b3b"
 
 [[files]]
 file = "changelog.md"
-hash = "ca52ca5a267934f421ac1d07608a312296f55e894a4c43841d93fbbcd91f9983"
+hash = "c2d257104adac3a4dca4d3a8bd975d677ff49e44bce17cea7f58c9d6cded6ed1"
 
 [[files]]
 file = "config/MusicTriggers/channels.toml"
@@ -55,6 +55,10 @@ hash = "a82fd1880216ba863459c1b5d968aef7fd5d6e352ebcdecdde5bf73e0e2d85e0"
 [[files]]
 file = "config/badmobs-common.toml"
 hash = "b7f7445f28571409032412e486b412491615c5d9dd954db58fac175e47b9c722"
+
+[[files]]
+file = "config/craftpresence.json"
+hash = "33acfb2f7c5dbf46925e97b5a08b3a64abe96a0e0e3179df5cf503cfea31b737"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
@@ -169,6 +173,10 @@ file = "config/lostcities/userassets.json"
 hash = "f2c3c17c7d41146d90422d14aee2f219a4407f310fa555c26e25305c5c398892"
 
 [[files]]
+file = "config/parcool-client.toml"
+hash = "935f4ab65a676e4790853e6bfce22f787b28c97c205b9c199d28952e50448fa7"
+
+[[files]]
 file = "config/starterkit-common.toml"
 hash = "73a576e07143f9481fbd85f5d0e744b378aa8ae725bfeef6753e3e1c34609eef"
 
@@ -219,6 +227,10 @@ hash = "736d7212e4211b163876aa7fb892c947a82cdd3f2a9ea91ffaf9cfab375d88c0"
 [[files]]
 file = "defaultconfigs/lostcities-server.toml"
 hash = "eb020c4dff0a59e4526e458ea03a2c69cd9528e52690118e81afec30e3dc69ff"
+
+[[files]]
+file = "defaultconfigs/parcool-server.toml"
+hash = "b0a267b010d6ab80a0f537af1a10c2facf6664fd7382c1878bac13b007a0e6e3"
 
 [[files]]
 file = "defaultconfigs/tac-server.toml"
