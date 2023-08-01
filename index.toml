@@ -529,6 +529,11 @@ hash = "0f17b3547f35c092a7bcfba6e4cdaeb12ea1b0b5828c660516bf3148ab44b7a2"
 metafile = true
 
 [[files]]
+file = "mods/parcool.pw.toml"
+hash = "5fe77e45682b625e6567bc4c909053f035e93c1eee6e8fb2609dadb688395e69"
+metafile = true
+
+[[files]]
 file = "mods/placebo.pw.toml"
 hash = "8909f6b209fce7c52d625bc9ad4cb5b2116e4823dd75a71e9a8f5a546d1d0f94"
 metafile = true

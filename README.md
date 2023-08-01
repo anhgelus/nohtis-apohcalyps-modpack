@@ -65,6 +65,7 @@ Every mod, resourcepack or music included in this modpack can be used freely if 
 - [The Impossible Library](https://modrinth.com/mod/the-impossible-library) [modrinth] -> lib for Music Triggers 
 - [Default Options](https://www.curseforge.com/minecraft/mc-mods/default-options) [curseforge but newest version is on modrinth] -> setup the default options
 - [Default Server Properties](https://www.curseforge.com/minecraft/mc-mods/default-server-properties) [curseforge] -> setup the default server properties
+- [ParCool!](https://www.curseforge.com/minecraft/mc-mods/parcool) [curseforge] -> better parkour
 
 #### Optimizations
 
