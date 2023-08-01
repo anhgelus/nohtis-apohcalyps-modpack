@@ -1,3 +1,9 @@
+## 0.9.0
+
+Add ParCool
+
+Edit Discord Reach Presence
+
 ## 0.8.1
 
 Make some Curseforge mods client side only to avoid server crash:
