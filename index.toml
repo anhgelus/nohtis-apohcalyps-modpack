@@ -14,7 +14,7 @@ hash = "d3faee5820ce6706b602c3630d0a84cd48fb77920ab44fbb5f3ef1027d1e8b3b"
 
 [[files]]
 file = "changelog.md"
-hash = "c2d257104adac3a4dca4d3a8bd975d677ff49e44bce17cea7f58c9d6cded6ed1"
+hash = "b5deda880dfa4864eb4c28607778f1b63437cf4e0b689384484ec1f1329c14d2"
 
 [[files]]
 file = "config/MusicTriggers/channels.toml"
@@ -62,7 +62,7 @@ hash = "33acfb2f7c5dbf46925e97b5a08b3a64abe96a0e0e3179df5cf503cfea31b737"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
-hash = "48ddbff24cac7baeb16c5a82c03801b3872608ac919e531bfd786aa965677ad1"
+hash = "434629995953fc320d3886135f31eb120e3a927b9fbf96d6e0d19f77e2d5b3ed"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
@@ -362,7 +362,7 @@ hash = "8f73ef24f8deb74cc9309ec6cb2db7bf6544c4890e8957dd72a5c68d100b3af8"
 
 [[files]]
 file = "mods/ambientsounds.pw.toml"
-hash = "e21edbddb8fa52315ce361379c8988bbcd445a039c0ef351cae6979e14304139"
+hash = "f78f34dd603f8fe55d2e5a920717ca1a22886375c94ce0bbb1992202a0af4a6e"
 metafile = true
 
 [[files]]
@@ -417,7 +417,7 @@ metafile = true
 
 [[files]]
 file = "mods/craftpresence.pw.toml"
-hash = "9eb2c2d76bb0c323550024c1dfbc3ed20214145a174e9a07e2bca7f549464848"
+hash = "15f2bd551365cb74732e76905da8ef4251ea6bd7e2e5cf611dd710234306661b"
 metafile = true
 
 [[files]]
@@ -507,7 +507,7 @@ metafile = true
 
 [[files]]
 file = "mods/mob-sunscreen.pw.toml"
-hash = "cfcb70f200c977ad1808b03c6746af809599d81433e7ef8e3eba2cb78f0ae77e"
+hash = "5af2bac8881fec9397157410239d58e0851cd727ae39fae32e11422625ff467f"
 metafile = true
 
 [[files]]
@@ -517,7 +517,7 @@ metafile = true
 
 [[files]]
 file = "mods/moremcmeta.pw.toml"
-hash = "6f8da721bb7aec1d447de378e2b41642a0e0b16ae15df35d2273969cb228b8d9"
+hash = "33fd20b4558bb34b57eaeb2cc7c6ecca72429b0d942bf52963aba806283d18c2"
 metafile = true
 
 [[files]]
@@ -532,7 +532,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "8cdd668ddf3fb0eba9fc1daa19a3816f571b1714bf8ef26addef9dd21d38fbaa"
+hash = "070ed93a70b1526d047e048cab5feb16288812dfb83402ca5645079ef9287da2"
 metafile = true
 
 [[files]]
@@ -567,7 +567,7 @@ metafile = true
 
 [[files]]
 file = "mods/rubidium-extra.pw.toml"
-hash = "053cc4afbfbeeb45f9864ec9cca222e247d4e3cdf7b84216f770f3b89213d509"
+hash = "2561817a4fa800d26cc5eed57032bdd2544f7472425d4fe7fb8b2fe29514a2da"
 metafile = true
 
 [[files]]
@@ -592,12 +592,12 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "b9dfe191e86b845800691f112707780c9db5ee368956c470e8a80c305b4fe6ca"
+hash = "2fae0800e52c69e103f744bf4103295170fd728583b8d126e24007605695020f"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "bad0617bb0b09ad4898690c2995408eb54cad32b83d96e04fb2ef1ef277cfd74"
+hash = "3f7bdf144b09082021c01cce53753e045f7d2077912057c4f547f3cfe5854e81"
 metafile = true
 
 [[files]]
@@ -637,12 +637,12 @@ metafile = true
 
 [[files]]
 file = "mods/timeless-and-classic-guns-tac.pw.toml"
-hash = "826f00ea83596cc380e65ee36ac7b29a1dc2fb2e03d1a71d3e2e84962cfdae7c"
+hash = "dd5f17f714d9c7fc9885b17ea518272839c806add763793b0b34a2cb8b6f4de9"
 metafile = true
 
 [[files]]
 file = "mods/tinyinv.pw.toml"
-hash = "c827531c073e9fcf8a95f0fe1126ebc9c852b3b15bd467dbc85a75eb209c3053"
+hash = "99aed2fba7b09b9687f350e45f5b9c4a194de023b7bdcefc381669cd00d161f0"
 metafile = true
 
 [[files]]

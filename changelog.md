@@ -2,6 +2,8 @@
 
 Add default keybindings for ParCool
 
+Update every mods
+
 ## 0.9.0
 
 Add ParCool
