@@ -1,6 +1,6 @@
 name = "Presence Footsteps [Forge]"
 filename = "presencefootsteps-r29-1.16.4.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"
