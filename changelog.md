@@ -1,3 +1,7 @@
+## 0.9.1
+
+Add default keybindings for ParCool
+
 ## 0.9.0
 
 Add ParCool
