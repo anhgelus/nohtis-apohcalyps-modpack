@@ -44,6 +44,9 @@ Check the wiki of a special mod if you need more informations about a specific f
 
 Due to the nature of the modpack, you can easily create tons of new way to play this modpack.
 
+You can easily create these new game modes by creating custom datapacks.
+An example is available [here](https://github.com/anhgelus/nohtis-apohcalyps-game-modes): this is a datapack turning Nohtis Apohcalyps into an extraction shooter like Escape From Tarkov.
+
 You can edit this modpack if you respect the AGPL license.
 
 ## Credits 
