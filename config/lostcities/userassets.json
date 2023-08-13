@@ -4,6 +4,11 @@
     "name": "chestloot",
     "values": [
 		{
+			"factor": 10,
+			"value": "nohtis-apohcalyps:chests/attachment",
+			"range": "-100,100"
+		}, 
+		{
 			"factor": 80,
 			"value": "nohtis-apohcalyps:chests/common",
 			"range": "-1,1"

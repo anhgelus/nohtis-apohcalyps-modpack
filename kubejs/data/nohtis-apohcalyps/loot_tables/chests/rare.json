@@ -9,7 +9,7 @@
 			    {
 					"type": "item",
 			        "name": "minecraft:porkchop",
-				    "weight": 10,
+				    "weight": 5,
 					"functions": [
 						{
 							"function": "set_count",
@@ -47,7 +47,7 @@
 			    {
 					"type": "item",
 			        "name": "tac:9mm_round",
-				    "weight": 20,
+				    "weight": 15,
 					"functions": [
 						{
 							"function": "set_count",
@@ -61,7 +61,7 @@
 			    {
 					"type": "item",
 			        "name": "tac:round45",
-				    "weight": 10,
+				    "weight": 15,
 					"functions": [
 						{
 							"function": "set_count",
@@ -85,7 +85,7 @@
 			    {
 					"type": "item",
 			        "name": "tac:coyote_sight",
-				    "weight": 5 
+				    "weight": 10 
 			    }
 	        ]
         },
@@ -108,7 +108,7 @@
 				{
 					"type": "item",
 					"name": "tac:round45",
-					"weight": 30,
+					"weight": 20,
 					"functions": [
 						{
 							"function": "set_count",
@@ -127,7 +127,7 @@
 				{
 					"type": "item",
 					"name": "tac:nato_556_bullet",
-					"weight": 15,
+					"weight": 25,
 					"functions": [
 						{
 							"function": "set_count",

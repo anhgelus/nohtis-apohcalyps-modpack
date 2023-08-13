@@ -1,0 +1,105 @@
+{
+    "pools": [
+        {
+			"rolls": {
+				"min": 2,
+				"max": 4 
+			},
+			"entries": [
+				{
+					"type": "item",
+					"name": "tac:small_extended_mag",
+					"weight": 15 
+				},
+				{
+					"type": "item",
+					"name": "tac:sro_dot",
+					"weight": 10 
+				},
+				{
+					"type": "item",
+					"name": "tac:eotech_n",
+					"weight": 5 
+				},
+				{
+					"type": "item",
+					"name": "tac:coyote_sight",
+					"weight": 5 
+				},
+				{
+					"type": "item",
+					"name": "tac:muzzle_compensator",
+					"weight": 15 
+				},
+				{
+					"type": "item",
+					"name": "tac:muzzle_brake",
+					"weight": 25 
+				},
+				{
+					"type": "item",
+					"name": "tac:pistol_silencer",
+					"weight": 15 
+				},
+				{
+					"type": "item",
+					"name": "tac:light_stock",
+					"weight": 10 
+				}
+			]
+        },
+		{
+			"rolls": {
+				"min": 1,
+				"max": 2 
+			},
+			"entries": [
+				{
+					"type": "item",
+					"name": "tac:medium_extended_mag",
+					"weight": 15 
+				},
+				{
+					"type": "item",
+					"name": "tac:large_extended_mag",
+					"weight": 5 
+				},
+				{
+					"type": "item",
+					"name": "tac:specialised_grip",
+					"weight": 10
+				},
+				{
+					"type": "item",
+					"name": "tac:light_grip",
+					"weight": 15 
+				},
+				{
+					"type": "item",
+					"name": "tac:weighted_stock",
+					"weight": 10 
+				},
+				{
+					"type": "item",
+					"name": "tac:tactical_stock",
+					"weight": 10
+				},
+				{
+					"type": "item",
+					"name": "tac:acog_4x_scope",
+					"weight": 15 
+				},
+				{
+					"type": "item",
+					"name": "tac:lpvo_1_6",
+					"weight": 15
+				},
+				{
+					"type": "item",
+					"name": "tac:8x_scope",
+					"weight": 5 
+				}
+			]
+		}
+    ]
+}
