@@ -9,7 +9,7 @@ Add mods:
 - Tough As Nails
 - Lootr
 
-Replace default server generation with Biomes O' Plenty
+Replace default server-type in `server.properties` by Biomes O' Plenty's server-type.
 
 Add water thirst gestion
 
