@@ -82,7 +82,6 @@ Every mod, resourcepack or music included in this modpack can be used freely if 
 - [Presence Footsteps](https://www.curseforge.com/minecraft/mc-mods/presence-footsteps-forge) [curseforge] -> add footsteps
 - [Sound Filter](https://www.curseforge.com/minecraft/mc-mods/sound-filters) [curseforge] -> improve sounds
 - [Default Options](https://www.curseforge.com/minecraft/mc-mods/default-options) [curseforge but newest version is on modrinth] -> setup the default options
-- [Default Server Properties](https://www.curseforge.com/minecraft/mc-mods/default-server-properties) [curseforge] -> setup the default server properties
 - [ParCool!](https://www.curseforge.com/minecraft/mc-mods/parcool) [curseforge] -> better parkour
 
 #### Optimizations

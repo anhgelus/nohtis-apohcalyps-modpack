@@ -1,13 +1,13 @@
 name = "Default Server Properties"
 filename = "default-server-properties-forge-69.1.0.jar"
-side = "both"
+side = "server"
 
 [download]
+url = "https://cdn.modrinth.com/data/Fnrzx9Jl/versions/hD34LqaO/default-server-properties-forge-69.1.0.jar"
 hash-format = "sha1"
 hash = "444a783faea1a4cd4b62fded99bcb217771abcf1"
-mode = "metadata:curseforge"
 
 [update]
-[update.curseforge]
-file-id = 4622987
-project-id = 676811
+[update.modrinth]
+mod-id = "Fnrzx9Jl"
+version = "hD34LqaO"

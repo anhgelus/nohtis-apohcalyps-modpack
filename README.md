@@ -65,7 +65,7 @@ Every mod, resourcepack or music included in this modpack can be used freely if 
 - [Music Triggers](https://modrinth.com/mod/music-triggers) [modrinth] -> manage music
 - [The Impossible Library](https://modrinth.com/mod/the-impossible-library) [modrinth] -> lib for Music Triggers 
 - [Default Options](https://www.curseforge.com/minecraft/mc-mods/default-options) [curseforge but newest version is on modrinth] -> setup the default options
-- [Default Server Properties](https://www.curseforge.com/minecraft/mc-mods/default-server-properties) [curseforge] -> setup the default server properties
+- [Default Server Properties](https://modrinth.com/mod/default-server-properties) [curseforge] -> setup the default server properties
 - [ParCool!](https://www.curseforge.com/minecraft/mc-mods/parcool) [curseforge] -> better parkour
 - [Tough as Nails](https://modrinth.com/mod/tough-as-nails) [modrinth] -> improves survival experience
 

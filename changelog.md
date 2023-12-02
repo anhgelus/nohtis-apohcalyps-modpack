@@ -1,6 +1,8 @@
 ## 0.10.0
 
-Replace Serene Seasons' Curseforge version by Modrinth version
+Replace these mods by their Modrinth version:
+- Serene Seasons
+- Default Server Properties
 
 Add mods:
 - Biomes O' Plenty

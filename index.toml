@@ -452,7 +452,7 @@ metafile = true
 
 [[files]]
 file = "mods/default-server-properties.pw.toml"
-hash = "924ea145b99bb4e8bedd55c6e142ecd53fa403ccb40d030cba27ffeebb4feedd"
+hash = "aa6016b273e593b2dae48d6a599250eab767a540a542e329f2dba0333f4e89ff"
 metafile = true
 
 [[files]]
