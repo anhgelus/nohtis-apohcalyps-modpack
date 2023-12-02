@@ -1,3 +1,7 @@
+## 0.10.0
+
+Replace Serene Seasons' Curseforge version by Modrinth version
+
 ## 0.9.1
 
 Add default keybindings for ParCool

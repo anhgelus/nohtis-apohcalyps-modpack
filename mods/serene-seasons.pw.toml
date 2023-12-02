@@ -3,11 +3,11 @@ filename = "SereneSeasons-1.16.5-4.0.1.130-universal.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/e0bNACJD/versions/Mu9dnHDM/SereneSeasons-1.16.5-4.0.1.130-universal.jar"
 hash-format = "sha1"
 hash = "ab21168e84c05f5b465bbbf6e06d0d3ae438dacc"
-mode = "metadata:curseforge"
 
 [update]
-[update.curseforge]
-file-id = 4537666
-project-id = 291874
+[update.modrinth]
+mod-id = "e0bNACJD"
+version = "Mu9dnHDM"

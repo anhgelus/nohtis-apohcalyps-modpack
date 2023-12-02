@@ -66,10 +66,9 @@ Every mod, resourcepack or music included in this modpack can be used freely if 
 - [Architectury API](https://www.curseforge.com/minecraft/mc-mods/architectury) [curseforge but newest version is on modrinth] -> lib for KubeJS
 - [Rhino](https://www.curseforge.com/minecraft/mc-mods/rhino) [curseforge but newest version is on modrinth] -> lib for KubeJS
 
-### Mods - Environments
+<!-- ### Mods - Environments -->
 
 <!-- - [Terra](https://modrinth.com/plugin/terra) [modrinth] -> better generation -->
-- [Serene Seasons](https://www.curseforge.com/minecraft/mc-mods/serene-seasons) [curseforge] -> add seasons (every versions for Minecraft 1.17 and below are licensed under CC-BY-NC-SA-4.0)
 
 ### Mods - Improvements
 
