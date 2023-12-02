@@ -68,6 +68,7 @@ Every mod, resourcepack or music included in this modpack can be used freely if 
 - [Default Server Properties](https://modrinth.com/mod/default-server-properties) [curseforge] -> setup the default server properties
 - [ParCool!](https://www.curseforge.com/minecraft/mc-mods/parcool) [curseforge] -> better parkour
 - [Tough as Nails](https://modrinth.com/mod/tough-as-nails) [modrinth] -> improves survival experience
+- [Lootr](https://modrinth.com/mod/lootr) [modrinth] -> refills chest
 
 #### Optimizations
 

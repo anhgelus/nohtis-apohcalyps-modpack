@@ -7,8 +7,13 @@ Replace these mods by their Modrinth version:
 Add mods:
 - Biomes O' Plenty
 - Tough As Nails
+- Lootr
 
 Replace default server generation with Biomes O' Plenty
+
+Add water thirst gestion
+
+Chests are now refilled
 
 ## 0.9.1
 

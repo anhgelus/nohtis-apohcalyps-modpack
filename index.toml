@@ -506,6 +506,11 @@ hash = "4cbade87fef39ba34f9b459b8d238fa761901c4817db0564ef4dae1a06e4b832"
 metafile = true
 
 [[files]]
+file = "mods/lootr.pw.toml"
+hash = "28423f544bbe27a17bf5cfaf8c095cb1a457c77b3eefbb764a742bd2d443d43f"
+metafile = true
+
+[[files]]
 file = "mods/memoryleakfix.pw.toml"
 hash = "c079d2905b1cf1d1535d270e2409274a77b8a5a654537449be5dee1fc23e3cfe"
 metafile = true
