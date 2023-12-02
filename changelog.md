@@ -2,6 +2,11 @@
 
 Replace Serene Seasons' Curseforge version by Modrinth version
 
+Add mods:
+- Biomes O' Plenty
+
+Replace default server generation with Biomes O' Plenty
+
 ## 0.9.1
 
 Add default keybindings for ParCool

@@ -391,6 +391,11 @@ hash = "c8dc3e41cd907d146903a406a0483556e316c1d1371f98faae95442a0b86772b"
 metafile = true
 
 [[files]]
+file = "mods/biomes-o-plenty.pw.toml"
+hash = "d65bf9c5bce5699a5fdb00e545b4e914898f3f09f060c56ef24f22cb1e71ed48"
+metafile = true
+
+[[files]]
 file = "mods/chunky.pw.toml"
 hash = "758e580d7337802e9d470985565bbe1552b537efdf43d85953b1a769186cb31f"
 metafile = true

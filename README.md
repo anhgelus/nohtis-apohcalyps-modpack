@@ -39,7 +39,8 @@ Every mod, resourcepack or music included in this modpack can be used freely if 
 
 <!-- - [Terra](https://modrinth.com/plugin/terra) [modrinth] -> better generation -->
 - [Chunky](https://modrinth.com/plugin/chunky) [modrinth] -> add pre-generation
-- [Serene Seasons](https://www.curseforge.com/minecraft/mc-mods/serene-seasons) [modrinth] -> add seasons 
+- [Serene Seasons](https://modrinth.com/mod/serene-seasons) [modrinth] -> add seasons 
+- [Biomes O' Plenty](https://modrinth.com/mod/biomes-o-plenty) [modrinth] -> add more biomes
 - [Dynamic Trees](https://modrinth.com/mod/dynamictrees) [modrinth] -> obvious
 
 ### Mods - Improvements
