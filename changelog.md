@@ -4,6 +4,7 @@ Replace Serene Seasons' Curseforge version by Modrinth version
 
 Add mods:
 - Biomes O' Plenty
+- Tough As Nails
 
 Replace default server generation with Biomes O' Plenty
 

@@ -661,6 +661,11 @@ hash = "287ecedcb89eec65ff1905d53b2dab01d9c1067c7eb09165d0b1d7c5c8634edc"
 metafile = true
 
 [[files]]
+file = "mods/tough-as-nails.pw.toml"
+hash = "e9ed90c81fd7219034395fabfdf559011ceb5b8164000088c12c328f86f90b82"
+metafile = true
+
+[[files]]
 file = "mods/transliterationlib.pw.toml"
 hash = "1e49566861aef7e3a2b3f1b096ba183c5d78f95ccc0a1ee28af4db4e02b8d267"
 metafile = true
