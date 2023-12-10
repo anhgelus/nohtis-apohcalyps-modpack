@@ -6,15 +6,15 @@ hash = "18fb5e491dd880526a6d2dba993a1574fb4056ce939004da9b0f677fd6cca434"
 
 [[files]]
 file = "README.md"
-hash = "b7c8f5a64b902f9d435ef1140173ea999ffd1baeca29cf0565f0244160b65ec9"
+hash = "73f52d663915c31391a3e798f22b3016f797d3543f77bce8c3a78614269bcafb"
 
 [[files]]
 file = "README.modrinth.md"
-hash = "d3faee5820ce6706b602c3630d0a84cd48fb77920ab44fbb5f3ef1027d1e8b3b"
+hash = "59ba05aaefeb2a343bf5882d837a9362089f9d420729d2808ad9bbaba4445530"
 
 [[files]]
 file = "changelog.md"
-hash = "b5deda880dfa4864eb4c28607778f1b63437cf4e0b689384484ec1f1329c14d2"
+hash = "67b2030f0b8ebf9c60def682d7d43772624f365df23418a198a5120852a69858"
 
 [[files]]
 file = "config/MusicTriggers/channels.toml"
@@ -117,6 +117,14 @@ file = "config/incontrol/spawner.json"
 hash = "28a2ead24acc0e7da4378fa18169c2f7524ea659ea791d774b680694a6867833"
 
 [[files]]
+file = "config/lootr-client.toml"
+hash = "54aca3f0f2733bf9a746e86fa71baed5b4dd45fa6ec49a1e87b55f987be8588e"
+
+[[files]]
+file = "config/lootr-common.toml"
+hash = "06a9e9916ae614c078da0a1c6019f75810a5daaa0f6f9d43457313f512812f60"
+
+[[files]]
 file = "config/lostcities/client.toml"
 hash = "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
 
@@ -170,7 +178,7 @@ hash = "dcd86b2e9154ce0dafd59c9d462a991f609f3b6722214d51a0abb532ad2d0205"
 
 [[files]]
 file = "config/lostcities/userassets.json"
-hash = "f2c3c17c7d41146d90422d14aee2f219a4407f310fa555c26e25305c5c398892"
+hash = "739ba218023c46752689cfe1b6214c5e16100e86b525897bf9ab1b6937945828"
 
 [[files]]
 file = "config/parcool-client.toml"
@@ -182,7 +190,7 @@ hash = "73a576e07143f9481fbd85f5d0e744b378aa8ae725bfeef6753e3e1c34609eef"
 
 [[files]]
 file = "config/starterkit/starterkit.txt"
-hash = "ae63c15bebcc19956d3f26cd258c31cce6c83d108d4f2c943605154e2ed1ddc6"
+hash = "cb028c648e66c396e2287ee25b3e89b11ef4db017ed2df1db5f1a30a8dbfe7ee"
 
 [[files]]
 file = "config/tinyinv-client.toml"
@@ -223,6 +231,10 @@ hash = "8759cc00ac7c505257740a861d81c3354007aec98b65dc9d7510f6bb21fc342a"
 [[files]]
 file = "config/zombieawareness/PlayerRulesAndLists.toml"
 hash = "736d7212e4211b163876aa7fb892c947a82cdd3f2a9ea91ffaf9cfab375d88c0"
+
+[[files]]
+file = "default-server.properties"
+hash = "ff3bef8653198f87cada0f5f23918afe9caf9f1024fe44a7101fa25c29b6a243"
 
 [[files]]
 file = "defaultconfigs/lostcities-server.toml"
@@ -301,24 +313,28 @@ file = "kubejs/config/common.properties"
 hash = "c5d6ddb5b9b6174f4b694652e6c2ecc1afad8d28a67f281142bec8586365b884"
 
 [[files]]
+file = "kubejs/data/nohtis-apohcalyps/loot_tables/chests/attachment.json"
+hash = "2f60a5b05de790395d51d6dd3cb40fc02f4df69bf62d071022a294dfd71fa087"
+
+[[files]]
 file = "kubejs/data/nohtis-apohcalyps/loot_tables/chests/common.json"
-hash = "b6ae0cd8ba37662f90f3b8cf411309d8ff2c01d1422bbf952f7de30f48ad430d"
+hash = "938c24800a16e87238f74b9c7fe42567e700dd942d5d891705ba8eaa4a087c7d"
 
 [[files]]
 file = "kubejs/data/nohtis-apohcalyps/loot_tables/chests/epic.json"
-hash = "4a7aec95568d45115005fc00e255ee0d3efafd0facee16b69f08e2452144f710"
+hash = "5f100e1b539cebcb6b990acde0c61f5d262902d5d59c2464e99da354c7635cc5"
 
 [[files]]
 file = "kubejs/data/nohtis-apohcalyps/loot_tables/chests/legendary.json"
-hash = "e252215d7518e8ef840a5486a7b3694b71f776d3ff26e6bf4f48f0ccf8e1b4d9"
+hash = "3dd3d7efb980f097265c023a5ad6c5929c3b8f4d4df7c087d041e24a2cb9cd3b"
 
 [[files]]
 file = "kubejs/data/nohtis-apohcalyps/loot_tables/chests/rare.json"
-hash = "8da4588716cc77cf39fd8a39c228345fc39ae6938121fbe6b3affa7b90c24df3"
+hash = "0a4d18b34818357e020fa82bc3e870e8f344decad67e3da9912e8592adca0a93"
 
 [[files]]
 file = "kubejs/data/nohtis-apohcalyps/loot_tables/chests/uncommon.json"
-hash = "f5ccd448ab75a60405d3dfd446e8462d9adbcadd881e6dfc558d076a57525894"
+hash = "fa1e785d8ef9971567c36b54e144a4c503ed32c226c9b6e438e95a1bbfa32e48"
 
 [[files]]
 file = "kubejs/exported/tags/blocks.txt"
