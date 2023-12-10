@@ -8,7 +8,7 @@
 2 : '{id:"flashlight:flashlight",Count:1b}',
 3 : '{id:"flashlight:smallredstonebattery",Count:1b}',
 4 : '{id:"tac:9mm_round",Count:18b}',
-5 : '{id:"toughasnails:water_canteen"}',
+5 : '{id:"toughasnails:water_canteen",Count:1b,tag:{Damage:0}}',
 6 : '',
 7 : '',
 8 : '',
