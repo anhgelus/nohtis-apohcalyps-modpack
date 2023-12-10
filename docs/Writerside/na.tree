@@ -10,4 +10,14 @@
         <toc-element topic="Application.md"/>
         <toc-element topic="First-Start.md"/>
     </toc-element>
+    <toc-element topic="First-day.md">
+        <toc-element topic="Finding-Things.md"/>
+        <toc-element topic="Food-and-Water.md"/>
+        <toc-element topic="Guns-and-Ammunition.md"/>
+        <toc-element topic="Safe-Place-for-the-Night.md"/>
+    </toc-element>
+    <toc-element topic="Weapons.md"/>
+    <toc-element topic="Cities.md"/>
+    <toc-element topic="Zombies.md"/>
+    <toc-element topic="FAQ.md"/>
 </instance-profile>
