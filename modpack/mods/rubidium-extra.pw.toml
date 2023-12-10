@@ -1,13 +1,13 @@
 name = "Rubidium Extra"
-filename = "RubidiumExtra-1.16.5-0.4.10.37.jar"
+filename = "rubidium-extra-0.4.18+mc1.16.5-build.107.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/oY2B1pjg/versions/ob9Ibw41/RubidiumExtra-1.16.5-0.4.10.37.jar"
+url = "https://cdn.modrinth.com/data/oY2B1pjg/versions/lRzQatbE/rubidium-extra-0.4.18%2Bmc1.16.5-build.107.jar"
 hash-format = "sha1"
-hash = "8c5c6c2d13ce22a3bfc9cbc874306f7b28f68406"
+hash = "93e55de7dee7985df9c3ec8c1e6ba0c77c8b0f05"
 
 [update]
 [update.modrinth]
 mod-id = "oY2B1pjg"
-version = "ob9Ibw41"
+version = "lRzQatbE"

@@ -15,6 +15,8 @@ Add water thirst gestion
 
 Chests are now refilled
 
+Update every mods
+
 ## 0.9.1
 
 Add default keybindings for ParCool

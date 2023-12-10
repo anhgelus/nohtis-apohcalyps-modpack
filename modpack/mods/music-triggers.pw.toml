@@ -1,13 +1,13 @@
 name = "Music Triggers"
-filename = "musictriggers-1.16.5-6.2.jar"
+filename = "musictriggers-1.16.5-6.3.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/RXDYkg6Z/versions/tiJIRFcW/musictriggers-1.16.5-6.2.jar"
+url = "https://cdn.modrinth.com/data/RXDYkg6Z/versions/UIgBIoRn/musictriggers-1.16.5-6.3.1.jar"
 hash-format = "sha1"
-hash = "47eb437059eb93f81007bb64b25a0687631e07be"
+hash = "a3ad1d22368cd5f6803327d5c66d99842706a419"
 
 [update]
 [update.modrinth]
 mod-id = "RXDYkg6Z"
-version = "tiJIRFcW"
+version = "UIgBIoRn"

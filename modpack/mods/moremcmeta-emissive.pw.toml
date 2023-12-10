@@ -1,13 +1,13 @@
 name = "MoreMcmeta Emissive Textures"
-filename = "emissive-plugin-1.16.5-1.0.1-forge.jar"
+filename = "emissive-plugin-1.16.5-2.0.4-forge.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/oQ0dIGZg/versions/w1QJBBjH/emissive-plugin-1.16.5-1.0.1-forge.jar"
+url = "https://cdn.modrinth.com/data/oQ0dIGZg/versions/u7MWUjYK/emissive-plugin-1.16.5-2.0.4-forge.jar"
 hash-format = "sha1"
-hash = "74b87941badd50cbd6d07e18b0f1191aca1ae1d9"
+hash = "534bb1ff19871445e1a4b1bac5d1fd1b821d9c14"
 
 [update]
 [update.modrinth]
 mod-id = "oQ0dIGZg"
-version = "w1QJBBjH"
+version = "u7MWUjYK"

@@ -23,11 +23,6 @@
 				},
 				{
 					"type": "item",
-					"name": "tac:light_armor",
-					"weight": 15 
-				},
-				{
-					"type": "item",
 					"name": "tac:lpvo_1_6",
 					"weight": 20 
 				}

@@ -6,7 +6,7 @@ hash = "18fb5e491dd880526a6d2dba993a1574fb4056ce939004da9b0f677fd6cca434"
 
 [[files]]
 file = "README.md"
-hash = "73f52d663915c31391a3e798f22b3016f797d3543f77bce8c3a78614269bcafb"
+hash = "ce29697eb32002fcc6db0b577fac077256afe5e376fd178e6b4e5de304945daa"
 
 [[files]]
 file = "README.modrinth.md"
@@ -388,7 +388,7 @@ metafile = true
 
 [[files]]
 file = "mods/appleskin.pw.toml"
-hash = "42ba53cdfea395da6145c7dfe01e524e687811ed216a467a7479e0d82612a2cf"
+hash = "c6512a276d251920a5807c1408368c6c8542cee96e50a4788d0ef596215ad628"
 metafile = true
 
 [[files]]
@@ -438,7 +438,7 @@ metafile = true
 
 [[files]]
 file = "mods/craftpresence.pw.toml"
-hash = "15f2bd551365cb74732e76905da8ef4251ea6bd7e2e5cf611dd710234306661b"
+hash = "db77594dbb9381fd5b541299c2f8786b609adc8760bea1425e3d93a41180ef18"
 metafile = true
 
 [[files]]
@@ -453,7 +453,7 @@ metafile = true
 
 [[files]]
 file = "mods/custom-player-models.pw.toml"
-hash = "6f4fe63a70010124b2fb84525ec8709e453589ee8a3f2f05c8e8984313623298"
+hash = "3405441a14e4792b8ff929d05e5fc3dd0149ce85ed5ace78c96580c88e9d6397"
 metafile = true
 
 [[files]]
@@ -528,7 +528,7 @@ metafile = true
 
 [[files]]
 file = "mods/memoryleakfix.pw.toml"
-hash = "c079d2905b1cf1d1535d270e2409274a77b8a5a654537449be5dee1fc23e3cfe"
+hash = "7ac8ed8f18959aea0f3fae93c8b94755f34d25991fb7e81bd7ddd629596fe2ac"
 metafile = true
 
 [[files]]
@@ -538,12 +538,12 @@ metafile = true
 
 [[files]]
 file = "mods/moremcmeta-emissive.pw.toml"
-hash = "339493e172a5934f4645555e3fdb2d637e11d72cd5975cd2ea00a9c3a2d492f8"
+hash = "1f1cd7fb1674bc8006e10456c78e1b616adb7cd906d433d758cb1dc05a22407d"
 metafile = true
 
 [[files]]
 file = "mods/moremcmeta.pw.toml"
-hash = "33fd20b4558bb34b57eaeb2cc7c6ecca72429b0d942bf52963aba806283d18c2"
+hash = "55b104bbb070ef0d30a863bf983a271426a0b682a5029eab535b178db06e9c9a"
 metafile = true
 
 [[files]]
@@ -553,7 +553,7 @@ metafile = true
 
 [[files]]
 file = "mods/music-triggers.pw.toml"
-hash = "2e2b7a56e475be804e08d27f2f468c3e0e5907c905d80fbe736aa42d38c830aa"
+hash = "0f8752d4a56af57afc021a55fd25152fbaaabfe1fb2e75d637d9f266614c613e"
 metafile = true
 
 [[files]]
@@ -568,7 +568,7 @@ metafile = true
 
 [[files]]
 file = "mods/parcool.pw.toml"
-hash = "5fe77e45682b625e6567bc4c909053f035e93c1eee6e8fb2609dadb688395e69"
+hash = "2f6112a91ed28a8405203cd3363c51a6db1a25782435063bbaf3407139e99880"
 metafile = true
 
 [[files]]
@@ -593,12 +593,12 @@ metafile = true
 
 [[files]]
 file = "mods/rubidium-extra.pw.toml"
-hash = "2561817a4fa800d26cc5eed57032bdd2544f7472425d4fe7fb8b2fe29514a2da"
+hash = "9ef4e3949bd1661f2f4c0a5dd496ec4268eaed39b19a145d044720b3bf887471"
 metafile = true
 
 [[files]]
 file = "mods/rubidium.pw.toml"
-hash = "046b1b3e091e58b3f8a17616249df036d788063cc97fbfc49ba86ee33ac800e4"
+hash = "5840f8d528d81ee9dc155d58d4b22c297b0d0487af72d8fd72256466d1e7438e"
 metafile = true
 
 [[files]]
@@ -618,7 +618,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "2fae0800e52c69e103f744bf4103295170fd728583b8d126e24007605695020f"
+hash = "1abc75f771be38d8575ecb6f938bc9d45b6a43296847c462fc870bf19067b5b0"
 metafile = true
 
 [[files]]
@@ -643,7 +643,7 @@ metafile = true
 
 [[files]]
 file = "mods/textrues-rubidium-options.pw.toml"
-hash = "04d9aeff30bf60b12e6fb2ed076be5eec167fb73bc0f188b397c1890527a4f5a"
+hash = "4a279832b01b43e5e5911dac1ceac2cec1e8bdf7998bc518a772b6cc17794021"
 metafile = true
 
 [[files]]
@@ -653,7 +653,7 @@ metafile = true
 
 [[files]]
 file = "mods/the-impossible-library.pw.toml"
-hash = "d1274fb55805d67a44351686ca1228a352a1988af9f4996d978bfbeb0842ecf0"
+hash = "34d8ff35cdefdd959d886db8a86bddc5b980c1ddc3fb9564c27bdc82c75f6c47"
 metafile = true
 
 [[files]]
@@ -663,7 +663,7 @@ metafile = true
 
 [[files]]
 file = "mods/timeless-and-classic-guns-tac.pw.toml"
-hash = "dd5f17f714d9c7fc9885b17ea518272839c806add763793b0b34a2cb8b6f4de9"
+hash = "ddd7dc43ba0407e4266c92df61ae8eb9805dfa32ad37d12855de79a30c97c0c1"
 metafile = true
 
 [[files]]
