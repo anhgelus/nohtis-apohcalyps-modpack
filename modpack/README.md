@@ -2,7 +2,7 @@
 
 Modpack aiming to recreate DayZ in Minecraft.
 
-See [changelog.md](/changelog.md) for the latest changelog
+See [changelog.md](/modpack/changelog.md) for the latest changelog
 
 Powered by [Packwiz](https://github.com/packwiz/packwiz).
 
