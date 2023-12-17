@@ -2,11 +2,11 @@
 
 ## Can I use this modpack on my server?
 
-Yes you can, but you have to credit me (Anhgelus Morhtuuzh)
+Yes you can, but you have to credit me (Anhgelus Morhtuuzh).
 
 ## Can I use this modpack for videos or streams?
 
-Yes you can, but you have to credit me (Anhgelus Morhtuuzh)
+Yes you can, but you have to credit me (Anhgelus Morhtuuzh).
 
 ## Can I edit this modpack?
 
