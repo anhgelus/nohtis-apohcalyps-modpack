@@ -1,5 +1,11 @@
 # FAQ
 
+## WhY i CaN't CrAfT?!?!?!
+
+Because I didn't have the time to implement it.
+
+In future release, the craft system will be powered by Create.
+
 ## Can I use this modpack on my server?
 
 Yes you can, but you have to credit me (Anhgelus Morhtuuzh).
