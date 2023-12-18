@@ -30,6 +30,7 @@ Every thing that is not listed here is not important or is not affected by the m
 ### Movement {collapsible="true"}
 
 ![Movement settings part 1 in Minecraft](movement-settings1.png)
+
 ![Movement settings part 2 in Minecraft](movement-settings2.png)
 
 - `Climb to Cliff` - clinging to the edge
