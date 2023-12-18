@@ -5,7 +5,7 @@ on:
 # Replace `main` with your branch’s name
     push:
         tags:
-            - *-docs*
+            - *-docs
 # Specify to run a workflow manually from the Actions tab on GitHub
     workflow_dispatch:
 
