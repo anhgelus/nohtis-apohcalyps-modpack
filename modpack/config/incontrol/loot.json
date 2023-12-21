@@ -113,7 +113,7 @@
 	},
 	{
 		"mob": "minecraft:zombie",
-		"item": "tac:ae55",
+		"item": "tac:ae50",
 		"random": 0.001,
 		"itemcount": "0-2/1-2/3"
 	},
