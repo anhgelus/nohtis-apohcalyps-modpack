@@ -1,3 +1,12 @@
+## 0.10.2
+
+Improve cities generation
+
+Heal :
+- Increase max health
+- Increase time to apply a bandage
+- Reduce time to regain heal for bandage and plaster
+
 ## 0.10.1
 
 Compatible with 0.10.1 but servers are highly encourage to upgrade
