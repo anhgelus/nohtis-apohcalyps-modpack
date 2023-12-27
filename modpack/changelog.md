@@ -12,6 +12,16 @@ Increase size of biomes
 
 Slightly reduce volume of footsteps
 
+Zombies' AI:
+- Increase capacity to hear sounds
+- Slightly reduce lower volume to active sense
+- Increase capacity to scent platers
+- Slightly increase numbers of extra zombies
+- Increase sight range
+- Can now horde up and wander randomly at the surface
+
+Disable better AI for zombies villager
+
 ## 0.10.0
 
 Replace these mods by their Modrinth version:

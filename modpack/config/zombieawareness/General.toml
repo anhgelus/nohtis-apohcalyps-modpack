@@ -3,17 +3,17 @@
 [general]
 	#Effects how far monsters will sense sound sources from
 	#Range: > -2147483648
-	soundStrength = 60
+	soundStrength = 100
 	#Block mining before it breaks cause sound senses to spawn
 	blockHittingEvent_Active = true
 	#The amount of delay in game ticks between processing mobs with enhanced AI, less is more frequent [performance sensitive]
 	#Range: > -2147483648
-	tickRateAILoop = 5
+	tickRateAILoop = 3
 	#skips line of sight check on targetting [performance sensitive]
 	seeThroughWalls = false
 	#Effects how far monsters will sense scents from
 	#Range: > -2147483648
-	scentStrength = 60
+	scentStrength = 100
 	#Always target closest player [performance sensitive]
 	omniscient = false
 	#Days before all of the mods features will be activated
@@ -31,7 +31,7 @@
 	blockBreakEvent_PlayersOnly = false
 	#Range of extra random speed to give a zombie for extra spawns and zombie duplications, eg: 0 = no boost, 1 = up to double speed (works for my extra spawned mobs only)
 	#Range: 4.9E-324 ~ 1.7976931348623157E308
-	zombieRandSpeedBoost = 0.3
+	zombieRandSpeedBoost = 0.4
 	#Prevent non zombies from being attracted to light
 	awareness_Light_OnlyZombies = true
 	#No comment
@@ -40,10 +40,10 @@
 	debugConsoleSuperDetailed = false
 	#Max strength allowed for a sense, in case senses get a super high base strength or large buff
 	#Range: > -2147483648
-	senseMaxStrength = 300
+	senseMaxStrength = 350
 	#Custom targetting sight range on top of vanilla sight based targetting
 	#Range: > -2147483648
-	sightRange = 16
+	sightRange = 24
 	#Max awareness range for zombies
 	#Range: > -2147483648
 	maxPFRangeSense = 64
