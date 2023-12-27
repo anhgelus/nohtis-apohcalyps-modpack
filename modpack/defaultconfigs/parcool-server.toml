@@ -1,74 +1,85 @@
-#Whether these limitations will be imposed to players
-limitations_imposed = true 
 
-["Action Permissions"]
-	permit_FastRun = true
-	permit_ClimbUp = true
-	permit_Roll = true
-	permit_WallJump = false 
-	permit_Dive = false 
-	permit_HorizontalWallRun = false 
-	permit_JumpFromBar = true
-	permit_QuickTurn = false 
-	permit_CatLeap = false 
-	permit_Vault = true
-	permit_WallSlide = true
-	permit_BreakfallReady = false 
-	permit_Dodge = false 
-	permit_Slide = false 
-	permit_Tap = true
-	permit_Flipping = true
-	permit_ClingToCliff = true 
-	permit_Crawl = true
-	permit_HangDown = true
+[Limitations]
+	#Whether these limitations will be imposed to players
+	limitation_imposed = true
 
-[Stamina]
-	#Limitation of max stamina recovery
-	#Range: 1 ~ 10000
-	max_value_of_stamina_recovery = 6 
-	#Allow Infinite Stamina
-	infinite_stamina = false 
-	#Limitation of max stamina
-	#Range: 300 ~ 100000
-	max_value_of_stamina = 1000
+	[Limitations."Action Permissions"]
+		permit_FastRun = true
+		permit_ClimbUp = true
+		permit_Roll = true
+		permit_WallJump = false
+		permit_Dive = false
+		permit_ClimbPoles = true
+		permit_HorizontalWallRun = false
+		permit_JumpFromBar = true
+		permit_QuickTurn = false
+		permit_CatLeap = false
+		permit_Vault = true
+		permit_WallSlide = true
+		permit_BreakfallReady = false
+		permit_Dodge = false
+		permit_Slide = false
+		permit_Tap = true
+		permit_Flipping = true
+		permit_ClingToCliff = true
+		permit_Crawl = true
+		permit_VerticalWallRun = false
+		permit_SkyDive = false
+		permit_HangDown = true
 
-	[Stamina."Least Consumption"]
-		#Range: 0 ~ 10000
-		stamina_consumption_of_WallJump = 120
-		#Range: 0 ~ 10000
-		stamina_consumption_of_WallSlide = 50
-		#Range: 0 ~ 10000
-		stamina_consumption_of_Vault = 100
-		#Range: 0 ~ 10000
-		stamina_consumption_of_CatLeap = 150
-		#Range: 0 ~ 10000
-		stamina_consumption_of_Dodge = 80
-		#Range: 0 ~ 10000
-		stamina_consumption_of_Slide = 15
-		#Range: 0 ~ 10000
-		stamina_consumption_of_BreakfallReady = 0
-		#Range: 0 ~ 10000
-		stamina_consumption_of_ClingToCliff = 2
-		#Range: 0 ~ 10000
-		stamina_consumption_of_Crawl = 15 
-		#Range: 0 ~ 10000
-		stamina_consumption_of_JumpFromBar = 100
-		#Range: 0 ~ 10000
-		stamina_consumption_of_Roll = 100
-		#Range: 0 ~ 10000
-		stamina_consumption_of_HangDown = 3
-		#Range: 0 ~ 10000
-		stamina_consumption_of_HorizontalWallRun = 50 
-		#Range: 0 ~ 10000
-		stamina_consumption_of_ClimbUp = 50
-		#Range: 0 ~ 10000
-		stamina_consumption_of_Flipping = 80
-		#Range: 0 ~ 10000
-		stamina_consumption_of_Tap = 100
-		#Range: 0 ~ 10000
-		stamina_consumption_of_FastRun = 10 
-		#Range: 0 ~ 10000
-		stamina_consumption_of_Dive = 0
-		#Range: 0 ~ 10000
-		stamina_consumption_of_QuickTurn = 0
+	[Limitations.Stamina]
+
+		[Limitations.Stamina."Least Consumption"]
+			#Range: 0 ~ 10000
+			stamina_consumption_of_WallJump = 120
+			#Range: 0 ~ 10000
+			stamina_consumption_of_Dodge = 80
+			#Range: 0 ~ 10000
+			stamina_consumption_of_Slide = 15
+			#Limitation of max stamina value
+			#Range: > 300
+			max_stamina_limit = 1000
+			#Range: 0 ~ 10000
+			stamina_consumption_of_SkyDive = 0
+			#Range: 0 ~ 10000
+			stamina_consumption_of_BreakfallReady = 0
+			#Range: 0 ~ 10000
+			stamina_consumption_of_HangDown = 3
+			#Range: 0 ~ 10000
+			stamina_consumption_of_HorizontalWallRun = 50
+			#Range: 0 ~ 10000
+			stamina_consumption_of_Tap = 100
+			#Limitation of max stamina recovery
+			#Range: > 1
+			max_stamina_recovery_limit = 6
+			#Range: 0 ~ 10000
+			stamina_consumption_of_FastRun = 10 
+			#Range: 0 ~ 10000
+			stamina_consumption_of_WallSlide = 50
+			#Range: 0 ~ 10000
+			stamina_consumption_of_VerticalWallRun = 50
+			#Range: 0 ~ 10000
+			stamina_consumption_of_Vault = 100
+			#Range: 0 ~ 10000
+			stamina_consumption_of_CatLeap = 150
+			#Range: 0 ~ 10000
+			stamina_consumption_of_ClingToCliff = 2
+			#Range: 0 ~ 10000
+			stamina_consumption_of_Crawl = 15
+			#Range: 0 ~ 10000
+			stamina_consumption_of_JumpFromBar = 100
+			#Range: 0 ~ 10000
+			stamina_consumption_of_Roll = 100
+			#Range: 0 ~ 10000
+			stamina_consumption_of_ClimbUp = 50
+			#Range: 0 ~ 10000
+			stamina_consumption_of_Flipping = 80
+			#Range: 0 ~ 10000
+			stamina_consumption_of_ClimbPoles = 0
+			#Permission of infinite stamina
+			allow_infinite_stamina = false
+			#Range: 0 ~ 10000
+			stamina_consumption_of_Dive = 0
+			#Range: 0 ~ 10000
+			stamina_consumption_of_QuickTurn = 0
 
