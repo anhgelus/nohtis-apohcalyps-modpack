@@ -9,12 +9,8 @@ file = "README.md"
 hash = "ce29697eb32002fcc6db0b577fac077256afe5e376fd178e6b4e5de304945daa"
 
 [[files]]
-file = "README.modrinth.md"
-hash = "59ba05aaefeb2a343bf5882d837a9362089f9d420729d2808ad9bbaba4445530"
-
-[[files]]
 file = "changelog.md"
-hash = "e4260e9c5f6bfc471431e336899f14cf42a5496565ac5e4be471b4a18044ab61"
+hash = "cadbdbb5be87530e6e2a66bce640847890cf72a38c2a4bd21d60c51266a6b092"
 
 [[files]]
 file = "config/MusicTriggers/channels.toml"
@@ -57,6 +53,18 @@ file = "config/badmobs-common.toml"
 hash = "b7f7445f28571409032412e486b412491615c5d9dd954db58fac175e47b9c722"
 
 [[files]]
+file = "config/biomesoplenty/biomes.json"
+hash = "f672f706909971c3f4cf9523ab93a161d6e5f1da2e70c5678e241813093d4b63"
+
+[[files]]
+file = "config/biomesoplenty/client.toml"
+hash = "38fd5adb6d3817a74f41e21fd859b266f0d9a2ada8a3d7058b49b1cd5af82598"
+
+[[files]]
+file = "config/biomesoplenty/generation.toml"
+hash = "6dcf72b07cee685990e748ce0597275f64fc1b3ded8cf9f4b95847283f780729"
+
+[[files]]
 file = "config/craftpresence.json"
 hash = "33acfb2f7c5dbf46925e97b5a08b3a64abe96a0e0e3179df5cf503cfea31b737"
 
@@ -67,6 +75,14 @@ hash = "434629995953fc320d3886135f31eb120e3a927b9fbf96d6e0d19f77e2d5b3ed"
 [[files]]
 file = "config/defaultoptions/options.txt"
 hash = "59754624eb3e433ff36d6a7469dde3c62281ab2edca2b22993b71d0e8d4e6048"
+
+[[files]]
+file = "config/dynamictrees-common.toml"
+hash = "74c2cd911d849969bf2774a08bd9cd399a02a5f29a6ea313c90ecf505dc1c751"
+
+[[files]]
+file = "config/forge-client.toml"
+hash = "d8f7a2d6f4d9ef841d34497bf4ff4570b3f5e48d974e3408279cbb740004451c"
 
 [[files]]
 file = "config/fxcontrol/breakevents.json"
@@ -90,15 +106,15 @@ hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
 
 [[files]]
 file = "config/hordes-client.toml"
-hash = "000df155e7860ba47e1e7e4d066fd714f018398aeb354df07ae4385474f4e509"
+hash = "36719cd988b4df451d5f9b45c5ecdaf08b106b3884d9bdfe6feb40c1c334c375"
 
 [[files]]
 file = "config/hordes-common.toml"
-hash = "219d15711c9f69a4d1b571357707b269ad49ed89be8816b18354191967841588"
+hash = "d3895860afef00125e9361cd08225e2504c36a47c8d6da4ff43fbf4e389788f4"
 
 [[files]]
 file = "config/incontrol/loot.json"
-hash = "45bde18dc6e992fcf9185c9b0bbd1b95525027d932c187cfea7369434450a58b"
+hash = "f8a181c8bb2bd4d80ee7eb30957b01bbaf95b4b90260150d4a8ae25a1e96e482"
 
 [[files]]
 file = "config/incontrol/main.cfg"
@@ -182,7 +198,15 @@ hash = "739ba218023c46752689cfe1b6214c5e16100e86b525897bf9ab1b6937945828"
 
 [[files]]
 file = "config/parcool-client.toml"
-hash = "935f4ab65a676e4790853e6bfce22f787b28c97c205b9c199d28952e50448fa7"
+hash = "20042c31d27b3dba8bc10e0d70c398daa35ab48c3e023ea44cb15a01d826d210"
+
+[[files]]
+file = "config/presencefootsteps/userconfig.json"
+hash = "636a415b417f1cf276c4778af31f9386112fd999544537c80c48c5b68450bd5e"
+
+[[files]]
+file = "config/sereneseasons/seasons.toml"
+hash = "c565399b32bc32ef92294f719779b337e45745550ac7d12dd6801ad67941a040"
 
 [[files]]
 file = "config/starterkit-common.toml"
@@ -206,35 +230,39 @@ hash = "509058ff43f6aa56f9e1e8a1445f16393c74e9c315024c42fc03a031d1bd10ea"
 
 [[files]]
 file = "config/totaldarkness-client.toml"
-hash = "3c80c8b1dd8bfc9a8fd51d8022b486e4d3262b8b9234e03320f6c91efe986db2"
+hash = "7875fa35b1e7755dbad464562b645e65073266d631c5e3906dcf1d3531f5e218"
+
+[[files]]
+file = "config/voicechat/voicechat-client.properties"
+hash = "fe026c9ad1aeba597240c8f50d34ff64fe6a4f180b1aa2db2ff5cd009337df31"
 
 [[files]]
 file = "config/zombieawareness/ClientConfig.toml"
-hash = "a43785705dd6c6527c949b01b20dc5f0ac906cf079a8a8b0fceff951d08222d2"
+hash = "36bdc1a72a06da895d1d55d2d5ecbb46a5be6f0b22bdc8d899a146274a8dba78"
 
 [[files]]
 file = "config/zombieawareness/Features.toml"
-hash = "59c0f2e3e1013941c10d21fff8cb9bbae1d72ab4dbc532abee4e057611f33697"
-
-[[files]]
-file = "config/zombieawareness/General-1.toml.bak"
-hash = "fb1d2a38bfac3b87d46cc896e28584bd160e15104e1bd063c8d038858794e67e"
+hash = "30bfaddda49936c432355453593121d5f4270c58e5feb1ce24714dd1bb05ab2c"
 
 [[files]]
 file = "config/zombieawareness/General.toml"
-hash = "76296a6a040fa63a5287b4c2229c33b43e84e01d5be4616e53c8daf133d45c68"
+hash = "7d131105cf4e13ad73c3de125bed7f66312520ca43d9b4dae083a413f37bb43b"
 
 [[files]]
 file = "config/zombieawareness/MobLists.toml"
-hash = "8759cc00ac7c505257740a861d81c3354007aec98b65dc9d7510f6bb21fc342a"
+hash = "9e41e9425ba92f65695327159a88d13654afe64fdc9b565427955200865185e9"
 
 [[files]]
 file = "config/zombieawareness/PlayerRulesAndLists.toml"
-hash = "736d7212e4211b163876aa7fb892c947a82cdd3f2a9ea91ffaf9cfab375d88c0"
+hash = "6ffb104a711fca6703e200287e1cab2f279d00a6428014b5371cf2093ee1561a"
 
 [[files]]
 file = "default-server.properties"
-hash = "ff3bef8653198f87cada0f5f23918afe9caf9f1024fe44a7101fa25c29b6a243"
+hash = "6a80d3e6000de92ff94f9df7f23adf778e19803d46f02fee36c37215a4f6e69f"
+
+[[files]]
+file = "defaultconfigs/getittogetherdrops-server.toml"
+hash = "7bc74e99be18b070738a799eebe60369a57e6a0d778072da9ee048bc072fe8c5"
 
 [[files]]
 file = "defaultconfigs/lostcities-server.toml"
@@ -242,7 +270,7 @@ hash = "eb020c4dff0a59e4526e458ea03a2c69cd9528e52690118e81afec30e3dc69ff"
 
 [[files]]
 file = "defaultconfigs/parcool-server.toml"
-hash = "b0a267b010d6ab80a0f537af1a10c2facf6664fd7382c1878bac13b007a0e6e3"
+hash = "e2ae25ed9e5392d9af1956d37929b1aef9d0f1c80374a58c8ed7254198041694"
 
 [[files]]
 file = "defaultconfigs/tac-server.toml"
@@ -710,7 +738,3 @@ metafile = true
 file = "resourcepacks/unity.pw.toml"
 hash = "57eca4f53af25130d30d4ab51e5562453b5dca4d1eb786447f24974fc900b85a"
 metafile = true
-
-[[files]]
-file = "todo.md"
-hash = "5e9d2f2fb30f59f3fc7a61c662ef8da403498561dbd63841ecad17c4396996e0"

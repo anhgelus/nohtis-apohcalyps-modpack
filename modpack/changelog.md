@@ -15,7 +15,7 @@ Slightly reduce volume of footsteps
 Zombies' AI:
 - Increase capacity to hear sounds
 - Slightly reduce lower volume to active sense
-- Increase capacity to scent platers
+- Decrease capacity to scent platers
 - Slightly increase numbers of extra zombies
 - Increase sight range
 - Can now horde up and wander randomly at the surface
