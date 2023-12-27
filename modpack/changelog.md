@@ -28,6 +28,8 @@ Make chunk update async (increase performance for client and server who have a s
 
 Disable notification of hordes and change timings
 
+Increase darkness of the most lightful nights
+
 ## 0.10.0
 
 Replace these mods by their Modrinth version:
