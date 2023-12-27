@@ -10,6 +10,8 @@ Set a random season at the beginning and the season will not progress when no on
 
 Increase size of biomes
 
+Slightly reduce volume of footsteps
+
 ## 0.10.0
 
 Replace these mods by their Modrinth version:
