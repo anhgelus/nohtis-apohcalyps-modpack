@@ -1,5 +1,7 @@
 ## 0.10.1
 
+Compatible with 0.10.1 but servers are highly encourage to upgrade
+
 Fixed Parcool config
 
 Increase range of get it togheter drops
