@@ -22,6 +22,8 @@ Zombies' AI:
 
 Disable better AI for zombies villager
 
+Disable Dynamic Trees generation (increase performance for client and server)
+
 ## 0.10.0
 
 Replace these mods by their Modrinth version:
