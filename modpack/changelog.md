@@ -30,6 +30,8 @@ Disable notification of hordes and change timings
 
 Increase darkness of the most lightful nights
 
+Disable broadcast of achievements
+
 ## 0.10.0
 
 Replace these mods by their Modrinth version:
