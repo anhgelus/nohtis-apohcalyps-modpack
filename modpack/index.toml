@@ -10,7 +10,7 @@ hash = "ce29697eb32002fcc6db0b577fac077256afe5e376fd178e6b4e5de304945daa"
 
 [[files]]
 file = "changelog.md"
-hash = "cadbdbb5be87530e6e2a66bce640847890cf72a38c2a4bd21d60c51266a6b092"
+hash = "95406c4c09afc251f9fb6307dc7aab0fb78a0ee9c8f6139aff8b92046aec0e2d"
 
 [[files]]
 file = "config/MusicTriggers/channels.toml"
@@ -62,7 +62,7 @@ hash = "38fd5adb6d3817a74f41e21fd859b266f0d9a2ada8a3d7058b49b1cd5af82598"
 
 [[files]]
 file = "config/biomesoplenty/generation.toml"
-hash = "6dcf72b07cee685990e748ce0597275f64fc1b3ded8cf9f4b95847283f780729"
+hash = "cb2d367e968140ce76569ad5133a404a1847c0621f596de2003b835309a94833"
 
 [[files]]
 file = "config/craftpresence.json"
@@ -246,7 +246,7 @@ hash = "30bfaddda49936c432355453593121d5f4270c58e5feb1ce24714dd1bb05ab2c"
 
 [[files]]
 file = "config/zombieawareness/General.toml"
-hash = "7d131105cf4e13ad73c3de125bed7f66312520ca43d9b4dae083a413f37bb43b"
+hash = "99979ad16c10a5592dd9ca66b64d1c90ef762d75b61e8f62508e37b257887802"
 
 [[files]]
 file = "config/zombieawareness/MobLists.toml"
