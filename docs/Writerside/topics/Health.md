@@ -22,4 +22,4 @@ You can select the part that you want to heal.
 A plaster will increase the health by 2 points (1 heart) and it will be 4 points (2 heart) for the bandage.
 
 The health is not regenerated instantly.
-You have to wait one or two minutes to regain the heart.
+You have to wait one or two minutes to regain your hearts.
