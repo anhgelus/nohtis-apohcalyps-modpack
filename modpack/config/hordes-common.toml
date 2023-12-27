@@ -3,9 +3,9 @@
 	#Time in ticks between spawns for the horde spawn event.
 	hordeSpawnInterval = 1000
 	#Amount of days between horde spawns
-	hordeSpawnDays = 10
+	hordeSpawnDays = 7
 	#Amount of days a horde event can be randomly extended by
-	hordeSpawnVariation = 0
+	hordeSpawnVariation = 1
 	#Set to false to completely disable the horde event and anything relating to it.
 	enableHordeEvent = true
 	#Set to false to disable the use of beds during a horde event.
@@ -19,7 +19,7 @@
 	#Time in ticks the event lasts for
 	hordeSpawnDuration = 6000
 	#A list of entities to spawn followed by the spawn weight then the day they first appear on then the last day. Higher weight is more common. Leave the last value to 0 to set no max day, entities can have nbt attached to them.(e.g. minecraft:zombie{ActiveEffects:[{Id:12,Amplifier:0,Duration:10000}]}-20-0-0)
-	spawnList = ["minecraft:zombie-30-0-20", "minecraft:zombie_villager-3-0-20"]
+	spawnList = ["minecraft:zombie-30-0-20"]
 	#Do the daylight cycle (and active horde events get paused while there are no players online.).
 	pauseEventServer = true
 	#Set to true to enable the horde spawning on the first day. (Game day 0)
@@ -29,7 +29,7 @@
 	#What time of day does the horde event start? eg 18000 is midnight with default day length.
 	hordeStartTime = 18000
 	#Max cap for the number of entities that can exist from the horde at once.
-	hordeSpawnMax = 160
+	hordeSpawnMax = 100
 
 [Infection]
 	#Whether later levels of infected should slightly slow movement speed? 
@@ -51,7 +51,7 @@
 	#Mobs in this list can cause the infection effect.)
 	infectionEntities = ["minecraft:zombie", "minecraft:zombie_villager", "hordes:zombie_player", "hordes:drowned_player"]
 	#Chance out of 100 for a player to get infected
-	playerInfectChance = 10 
+	playerInfectChance = 10
 	#Do entities on the infectionEntities list automatically target entities on the infectionConversionList
 	infectionEntitiesAggroConversions = true
 	#Set to false to completely disable mob infection and anything related to it.

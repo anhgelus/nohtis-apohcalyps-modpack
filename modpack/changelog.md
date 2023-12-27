@@ -26,6 +26,8 @@ Disable Dynamic Trees generation (increase performance for client and server)
 
 Make chunk update async (increase performance for client and server who have a significant number of cores available)
 
+Disable notification of hordes and change timings
+
 ## 0.10.0
 
 Replace these mods by their Modrinth version:
