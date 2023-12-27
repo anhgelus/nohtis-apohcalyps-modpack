@@ -1,3 +1,15 @@
+## 0.10.1
+
+Fixed Parcool config
+
+Increase range of get it togheter drops
+
+Replace default voicechat activation type "PTT" by "Voice"
+
+Set a random season at the beginning and the season will not progress when no one is connected
+
+Increase size of biomes
+
 ## 0.10.0
 
 Replace these mods by their Modrinth version:
