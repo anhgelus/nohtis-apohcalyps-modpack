@@ -24,6 +24,8 @@ Disable better AI for zombies villager
 
 Disable Dynamic Trees generation (increase performance for client and server)
 
+Make chunk update async (increase performance for client and server who have a significant number of cores available)
+
 ## 0.10.0
 
 Replace these mods by their Modrinth version:
