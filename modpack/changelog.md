@@ -1,5 +1,7 @@
 ## 0.10.2
 
+**Theoretically compatible with 0.10.0 and 0.10.1 but not tested. Servers are highly encourage to upgrade**
+
 Improve cities generation
 
 Heal :
@@ -7,9 +9,11 @@ Heal :
 - Increase time to apply a bandage
 - Reduce time to regain heal for bandage and plaster
 
+Replace Ambient Sounds, TinyInv and Flashlight by their modrinth version
+
 ## 0.10.1
 
-Compatible with 0.10.1 but servers are highly encourage to upgrade
+**Compatible with 0.10.1 but servers are highly encourage to upgrade**
 
 Fixed Parcool config
 

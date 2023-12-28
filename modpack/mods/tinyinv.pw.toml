@@ -3,11 +3,11 @@ filename = "tinyinv-1.16.5-1.0.4.1.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/Eg2PfUjr/versions/fhYelLgh/tinyinv-1.16.5-1.0.4.1.jar"
 hash-format = "sha1"
 hash = "3e9f9d50c4d3c05c133df153a25aa1d6d26ac5a6"
-mode = "metadata:curseforge"
 
 [update]
-[update.curseforge]
-file-id = 3640062
-project-id = 455299
+[update.modrinth]
+mod-id = "Eg2PfUjr"
+version = "fhYelLgh"

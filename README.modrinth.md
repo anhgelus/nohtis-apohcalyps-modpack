@@ -1,12 +1,25 @@
 # Nohtis Apohcalyps
 
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KObdaI9pQL0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</center>
+
 The entire world was infected by an unknown disease. This disease is turning infected humans into zombies.
 
 You are one of humanity's last survivant.
 
-You can craft guns, ammunitions, find food, resources and you know how to survive in this dangerous world.
+You have to find guns, ammunitions, food and resources to survive in this dangerous world.
 
 Travel accros a living abandoned world, fight against hostile players and create a factory to get new weapons.
+
+<details>
+<summary>Craft</summary>
+
+Craft has not yet been implemented. In the futur, it will be based on Create.
+
+Currently, you can find everything needed in loot chests.
+
+</details>
 
 ## Usage
 
@@ -60,9 +73,9 @@ Every mod, resourcepack or music included in this modpack can be used freely if 
 - [Zombie Awarness](https://www.curseforge.com/minecraft/mc-mods/zombie-awareness) [curseforge] -> control zombies 
 - [CoroUtil](https://www.curseforge.com/minecraft/mc-mods/coroutil) [curseforge] -> lib for Zombie Awarness 
 - [Apocalyptic Arsenal](https://www.curseforge.com/minecraft/mc-mods/apocalyptic-arsenal) [curseforge] -> weapons
-- [KubeJS](https://modrinth.com/mod/kubejs) [curseforge but newest version is on modrinth] -> customize the game with JS
-- [Architectury API](https://www.curseforge.com/minecraft/mc-mods/architectury) [curseforge but newest version is on modrinth] -> lib for KubeJS
-- [Rhino](https://www.curseforge.com/minecraft/mc-mods/rhino) [curseforge but newest version is on modrinth] -> lib for KubeJS
+- [KubeJS](https://modrinth.com/mod/kubejs) [curseforge but newest versions are on modrinth] -> customize the game with JS
+- [Architectury API](https://www.curseforge.com/minecraft/mc-mods/architectury) [curseforge but newest versions are on modrinth] -> lib for KubeJS
+- [Rhino](https://www.curseforge.com/minecraft/mc-mods/rhino) [curseforge but newest versions are on modrinth] -> lib for KubeJS
 
 <!-- ### Mods - Environments -->
 
@@ -70,17 +83,15 @@ Every mod, resourcepack or music included in this modpack can be used freely if 
 
 ### Mods - Improvements
 
-- [AmbientSounds 5](https://www.curseforge.com/minecraft/mc-mods/ambientsounds) [curseforge] -> add bunch of new sounds
-- [Not Enough Animations](https://www.curseforge.com/minecraft/mc-mods/not-enough-animations) [curseforge but newest version is on modrinth] -> add animations for player
+- [Not Enough Animations](https://www.curseforge.com/minecraft/mc-mods/not-enough-animations) [curseforge but newest versions are on modrinth] -> add animations for player
 - [TRansliterationLib](https://www.curseforge.com/minecraft/mc-mods/transliterationlib) [curseforge] -> lib for Not Enough Animations
-- [3D Skin Layers](https://www.curseforge.com/minecraft/mc-mods/skin-layers-3d) [curseforge but newest version is on modrinth] -> improve skins
 - [Shutup Experimental Settings!](https://www.curseforge.com/minecraft/mc-mods/shutup-experimental-settings) [curseforge] -> remove boring experimental features warning
 - [Toast Control](https://www.curseforge.com/minecraft/mc-mods/toast-control) [curseforge] -> obvious
-- [Placebo](https://www.curseforge.com/minecraft/mc-mods/placebo) [curseforge] -> lib for Toast Control 
-- [Presence Footsteps](https://www.curseforge.com/minecraft/mc-mods/presence-footsteps-forge) [curseforge] -> add footsteps
+- [Placebo](https://www.curseforge.com/minecraft/mc-mods/placebo) [curseforge but newest versions are on modrinth] -> lib for Toast Control 
 - [Sound Filter](https://www.curseforge.com/minecraft/mc-mods/sound-filters) [curseforge] -> improve sounds
-- [Default Options](https://www.curseforge.com/minecraft/mc-mods/default-options) [curseforge but newest version is on modrinth] -> setup the default options
+- [Default Options](https://www.curseforge.com/minecraft/mc-mods/default-options) [curseforge but newest versions are on modrinth] -> setup the default options
 - [ParCool!](https://www.curseforge.com/minecraft/mc-mods/parcool) [curseforge] -> better parkour
+- [Presence Footsteps](https://www.curseforge.com/minecraft/mc-mods/presence-footsteps-forge) [curseforge] -> add footsteps
 
 #### Optimizations
 
@@ -93,14 +104,11 @@ Every mod, resourcepack or music included in this modpack can be used freely if 
 ### Mods - Apocalypse
 
 <!-- - [ChestRefill](https://modrinth.com/mod/chestrefill) [modrinth] -> refill chests NOT AVAILABLE FOR 1.16.5 -->
-- [Decorative Blocks](https://www.curseforge.com/minecraft/mc-mods/decorative-blocks) [curseforge] -> obvious
-- [Mob Sunscreen](https://modrinth.com/mod/mob-sunscreen) [curseforge but newest version is on modrinth] -> make zombies not burning during the day
+- [Decorative Blocks](https://www.curseforge.com/minecraft/mc-mods/decorative-blocks) [curseforge but newest versions are on modrinth] -> obvious
+- [Mob Sunscreen](https://modrinth.com/mod/mob-sunscreen) [curseforge but newest versions are on modrinth] -> make zombies not burning during the day
 - [Total Darkness](https://www.curseforge.com/minecraft/mc-mods/total-darkness) [curseforge] -> total darkness during the night
 - [Sophisticated Backpacks](https://www.curseforge.com/minecraft/mc-mods/sophisticated-backpacks) [curseforge] -> add backpacks
-- [TinyInv](https://www.curseforge.com/minecraft/mc-mods/tinyinv) [curseforge] -> reduce inventory size
-- [Simple Flash Light Port](https://www.curseforge.com/minecraft/mc-mods/simple-flashlight-port) [curseforge] -> add a flashlight 
 
 ### Music
 
 The modpack is using the album [A season in the dark, a bottomless trench](https://feldup.bandcamp.com/album/a-season-in-the-dark-a-bottomless-trench) by Feldup.
-

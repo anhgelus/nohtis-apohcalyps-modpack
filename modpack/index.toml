@@ -406,7 +406,7 @@ hash = "8f73ef24f8deb74cc9309ec6cb2db7bf6544c4890e8957dd72a5c68d100b3af8"
 
 [[files]]
 file = "mods/ambientsounds.pw.toml"
-hash = "f78f34dd603f8fe55d2e5a920717ca1a22886375c94ce0bbb1992202a0af4a6e"
+hash = "86212c38d984c16d1ff9de6b69cb29d570f55e7d86b352be5d3ab73695d8fd8a"
 metafile = true
 
 [[files]]
@@ -525,6 +525,11 @@ hash = "0eb4c27343f92386c14ca565b835219913213358e659d673b4a88cf83f230a15"
 metafile = true
 
 [[files]]
+file = "mods/flashlight.pw.toml"
+hash = "8b432d3004e20e9597ce74eaaf102a422f215df5369b1618318156f7651930ea"
+metafile = true
+
+[[files]]
 file = "mods/fx-control.pw.toml"
 hash = "9c7bc14c64f1f137158c65d87820499e42ba0cde2063be5e3ca80ef0af8c689c"
 metafile = true
@@ -606,7 +611,7 @@ metafile = true
 
 [[files]]
 file = "mods/presence-footsteps-forge.pw.toml"
-hash = "114b883fd8c74b4e1dfd1ec68facea70aa8ed79a3ec6e1c1d14b051993988a58"
+hash = "65e33e37ae72d59e23b479d6e6506bd5ab16aad91eeae68a58a8b5bc5e6d0813"
 metafile = true
 
 [[files]]
@@ -637,11 +642,6 @@ metafile = true
 [[files]]
 file = "mods/shutup-experimental-settings.pw.toml"
 hash = "bdbf0e89c6bdfcac33f44921835b4a7e7b909214d99badb1d8e15200f836bb90"
-metafile = true
-
-[[files]]
-file = "mods/simple-flashlight-port.pw.toml"
-hash = "81c6c45f13547865c076f1418204241f7098dd3b44047a12b1c4ea2a2e1135cf"
 metafile = true
 
 [[files]]
@@ -696,7 +696,7 @@ metafile = true
 
 [[files]]
 file = "mods/tinyinv.pw.toml"
-hash = "99aed2fba7b09b9687f350e45f5b9c4a194de023b7bdcefc381669cd00d161f0"
+hash = "34ef5655fa7cbd2bf976c281ecfa56a2c0c229b8dd73c21b4b778baaff169462"
 metafile = true
 
 [[files]]
