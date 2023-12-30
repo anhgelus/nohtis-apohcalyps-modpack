@@ -6,11 +6,11 @@ hash = "18fb5e491dd880526a6d2dba993a1574fb4056ce939004da9b0f677fd6cca434"
 
 [[files]]
 file = "README.md"
-hash = "ce29697eb32002fcc6db0b577fac077256afe5e376fd178e6b4e5de304945daa"
+hash = "5d071284c860fd61bc1624081cd1c82e49e0134f1e3ea62a12ff6c3690354c50"
 
 [[files]]
 file = "changelog.md"
-hash = "95406c4c09afc251f9fb6307dc7aab0fb78a0ee9c8f6139aff8b92046aec0e2d"
+hash = "db62bc2c9ed745e9127092adbcea778f4488e493d230f96efe26b4e452760aaa"
 
 [[files]]
 file = "config/MusicTriggers/channels.toml"
@@ -170,7 +170,7 @@ hash = "ee0db8463dc5220a0397eb362e8583747c265882456e808076d7d6e86271c222"
 
 [[files]]
 file = "config/lostcities/profiles/nothis-apohcalyps.json"
-hash = "b328e4c8f4b79a1d0b61aaf42b27ba05fdb37df020207ec7d9764e2ff25c07f8"
+hash = "2e0b569d9a2c7261bf2314c45e1cf7a932bdd0ff3694d4db33faebc6e0be8347"
 
 [[files]]
 file = "config/lostcities/profiles/onlycities.json"
@@ -207,6 +207,10 @@ hash = "636a415b417f1cf276c4778af31f9386112fd999544537c80c48c5b68450bd5e"
 [[files]]
 file = "config/sereneseasons/seasons.toml"
 hash = "c565399b32bc32ef92294f719779b337e45745550ac7d12dd6801ad67941a040"
+
+[[files]]
+file = "config/sodium-extra-options.json"
+hash = "58680aefa3560fced1bd6bc7e3f6a84925645cad176721e66f2b9891d7e3a7e6"
 
 [[files]]
 file = "config/starterkit-common.toml"
@@ -259,6 +263,10 @@ hash = "6ffb104a711fca6703e200287e1cab2f279d00a6428014b5371cf2093ee1561a"
 [[files]]
 file = "default-server.properties"
 hash = "6a80d3e6000de92ff94f9df7f23adf778e19803d46f02fee36c37215a4f6e69f"
+
+[[files]]
+file = "defaultconfigs/firstaid-server.toml"
+hash = "cb90885f424d8888c5b039b87eea184f49ab6d1e17eea3450262c158025dd60c"
 
 [[files]]
 file = "defaultconfigs/getittogetherdrops-server.toml"

@@ -1,3 +1,7 @@
+## 0.10.3
+
+Remove lootr due to unintended behavior
+
 ## 0.10.2
 
 **Theoretically compatible with 0.10.0 and 0.10.1 but not tested. Servers are highly encourage to upgrade**
