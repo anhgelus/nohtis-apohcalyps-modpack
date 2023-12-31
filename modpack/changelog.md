@@ -21,7 +21,10 @@ Replace these mods by their modrinth version:
 - Default Options
 - Mob Sunscreen
 
-Add RyoamicLights and Framework
+Add:
+- RyoamicLights 
+- Framework
+- SophisticatedCore
 
 ## 0.10.2
 
