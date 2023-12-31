@@ -8,14 +8,14 @@ The entire world was infected by an unknown disease. This disease is turning inf
 
 You are one of humanity's last survivant.
 
-You have to find guns, ammunitions, food and resources to survive in this dangerous world.
+You have to find guns, ammunition, food and resources to survive in this dangerous world.
 
-Travel accros a living abandoned world, fight against hostile players and create a factory to get new weapons.
+Travel across a living abandoned world, fight against hostile players and create a factory to get new weapons.
 
 <details>
 <summary>Craft</summary>
 
-Craft has not yet been implemented. In the futur, it will be based on Create.
+Craft has not yet been implemented. In the future, it will be based on Create.
 
 Currently, you can find everything needed in loot chests.
 
