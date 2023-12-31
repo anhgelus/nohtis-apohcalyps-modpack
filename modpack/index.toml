@@ -6,11 +6,11 @@ hash = "18fb5e491dd880526a6d2dba993a1574fb4056ce939004da9b0f677fd6cca434"
 
 [[files]]
 file = "README.md"
-hash = "5d071284c860fd61bc1624081cd1c82e49e0134f1e3ea62a12ff6c3690354c50"
+hash = "6eacd5504914b83fc71faca16065488147655f4ed0d8090ed76d6f69401f4ebe"
 
 [[files]]
 file = "changelog.md"
-hash = "db62bc2c9ed745e9127092adbcea778f4488e493d230f96efe26b4e452760aaa"
+hash = "f0bbf995fdc8364fccc9bfd1a3e9eea11584a3fd6360a38b8a79b7e79b9b97a3"
 
 [[files]]
 file = "config/MusicTriggers/channels.toml"
@@ -643,6 +643,15 @@ hash = "113badc00d2fd77f1e09e91a1c200e54316dc6264fcc2fd5c46b374a0cc511ae"
 metafile = true
 
 [[files]]
+file = "mods/sophisticated-core.pw.toml"
+hash = "2ca9c2e9eeadc58994c510e19b8cf3a04950358d7e309eab43632a9b67804735"
+metafile = true
+
+[[files]]
+file = "mods/sophisticatedbackpacks-1.18.2-3.19.5.990.jar"
+hash = "66891e16ca7335e8b686d54a274f0a483847f21dfe70ce15eb26ec4ab0680aac"
+
+[[files]]
 file = "mods/sound-physics-remastered.pw.toml"
 hash = "53ace67b4c03bdccf7e31726a8055d8a80139295c57f7bf42aa113a6424df0bb"
 metafile = true
@@ -706,6 +715,10 @@ metafile = true
 file = "mods/waterdripsound.pw.toml"
 hash = "36e3fcec1b471d45e47002e08d8bae7ff755d5f472a8e9bbe9a5cda67c8a2a9d"
 metafile = true
+
+[[files]]
+file = "mods/zombieawareness-1.18.1-1.12.3.jar"
+hash = "6a280de1f0420b2e068d7e8d829e9594a1bf06ce7a7731f22321a63690663fda"
 
 [[files]]
 file = "resourcepacks/tissous-zombie-pack-optifine-1-7x-1-19.pw.toml"
