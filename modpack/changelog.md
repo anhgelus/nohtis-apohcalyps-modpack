@@ -1,3 +1,9 @@
+## 0.11.0
+
+Remove Radon and Flashlight
+
+Add RyoamicLights and ObsidianUI
+
 ## 0.10.3
 
 Remove lootr due to unintended behavior
