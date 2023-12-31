@@ -1,3 +1,28 @@
+## 0.11.0
+
+Update modpack to 1.18.2 and every mod
+
+Remove:
+- DynamicTrees
+- Flashlight
+- Obfuscate
+- Radon
+- TRansliterationLib
+
+Replace Sound Filter by Sound Physics Remastered
+
+Replace Total Darkness by True Darkness
+
+Replace these mods by their modrinth version:
+- KubeJS
+- ArchitecturyAPI
+- Rhino
+- Not Enough Animations
+- Default Options
+- Mob Sunscreen
+
+Add RyoamicLights and Framework
+
 ## 0.10.2
 
 **Theoretically compatible with 0.10.0 and 0.10.1 but not tested. Servers are highly encourage to upgrade**

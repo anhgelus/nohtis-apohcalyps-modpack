@@ -1,13 +1,13 @@
 name = "Apocalyptic Arsenal"
-filename = "Apocalyptic_arsenal_1.16.5.jar"
+filename = "Apocalyptic_arsenal_1.18.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "9e51e6c8c9a356a44ae85b0883ade7f49c4779e1"
+hash = "8326b89c5d4b42369f6b9bc9060bd13d2db0b0e1"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3944359
+file-id = 3944361
 project-id = 663051

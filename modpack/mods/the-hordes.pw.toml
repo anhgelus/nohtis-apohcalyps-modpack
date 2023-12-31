@@ -1,13 +1,13 @@
 name = "The Hordes"
-filename = "The-Hordes-1.16.5-1.1.5c.jar"
+filename = "The-Hordes-1.18.2-1.2.1a.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/O3HDffUR/versions/t6mUHsW0/The-Hordes-1.16.5-1.1.5c.jar"
+url = "https://cdn.modrinth.com/data/O3HDffUR/versions/GPrwvzKT/The-Hordes-1.18.2-1.2.1a.jar"
 hash-format = "sha1"
-hash = "b477d9e8fc1c84995a7e805744a8928926c9c38e"
+hash = "ac79924b5aa403f6c9ed479882cd76ce718e3142"
 
 [update]
 [update.modrinth]
 mod-id = "O3HDffUR"
-version = "t6mUHsW0"
+version = "GPrwvzKT"

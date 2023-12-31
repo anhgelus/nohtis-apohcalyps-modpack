@@ -1,13 +1,13 @@
 name = "Bad Mobs"
-filename = "BadMobs-1.16.5-9.1.9.jar"
+filename = "BadMobs-1.18.2-13.01.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/2NEKo1EX/versions/SuM7sas2/BadMobs-1.16.5-9.1.9.jar"
+url = "https://cdn.modrinth.com/data/2NEKo1EX/versions/acUHEpWP/BadMobs-1.18.2-13.01.jar"
 hash-format = "sha1"
-hash = "e527935ebd938849ec7975d1897efc9c970b6ead"
+hash = "ee39b5e987a3576b23acd78cac9ea8beab16a449"
 
 [update]
 [update.modrinth]
 mod-id = "2NEKo1EX"
-version = "SuM7sas2"
+version = "acUHEpWP"

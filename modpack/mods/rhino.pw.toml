@@ -1,13 +1,13 @@
 name = "Rhino"
-filename = "rhino-forge-1605.1.5-build.75.jar"
+filename = "rhino-forge-1802.2.1-build.255.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/sk9knFPE/versions/N59eFKIq/rhino-forge-1802.2.1-build.255.jar"
 hash-format = "sha1"
-hash = "d7cf08ed860845564a22cd17c1f17f857d4b33dd"
-mode = "metadata:curseforge"
+hash = "75416af83d41e260a0d5a1e9789ba1914ac0bd1b"
 
 [update]
-[update.curseforge]
-file-id = 3525704
-project-id = 416294
+[update.modrinth]
+mod-id = "sk9knFPE"
+version = "N59eFKIq"

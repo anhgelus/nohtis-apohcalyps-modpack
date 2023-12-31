@@ -1,13 +1,13 @@
 name = "Serene Seasons"
-filename = "SereneSeasons-1.16.5-4.0.1.130-universal.jar"
+filename = "SereneSeasons-1.18.2-7.0.0.15.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/e0bNACJD/versions/Mu9dnHDM/SereneSeasons-1.16.5-4.0.1.130-universal.jar"
+url = "https://cdn.modrinth.com/data/e0bNACJD/versions/k8G3p1jL/SereneSeasons-1.18.2-7.0.0.15.jar"
 hash-format = "sha1"
-hash = "ab21168e84c05f5b465bbbf6e06d0d3ae438dacc"
+hash = "47f8b65a75468142836a73c0ab396ed34989931d"
 
 [update]
 [update.modrinth]
 mod-id = "e0bNACJD"
-version = "Mu9dnHDM"
+version = "k8G3p1jL"

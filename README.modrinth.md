@@ -69,13 +69,9 @@ Every mod, resourcepack or music included in this modpack can be used freely if 
 ### Mods - Core
 
 - [Timeless and Classics Guns](https://www.curseforge.com/minecraft/mc-mods/timeless-and-classic-guns-tac) [curseforge] -> Guns
-- [Obfuscate](https://www.curseforge.com/minecraft/mc-mods/obfuscate) [curseforge] -> lib for Timeless and Classics Guns 
 - [Zombie Awarness](https://www.curseforge.com/minecraft/mc-mods/zombie-awareness) [curseforge] -> control zombies 
 - [CoroUtil](https://www.curseforge.com/minecraft/mc-mods/coroutil) [curseforge] -> lib for Zombie Awarness 
 - [Apocalyptic Arsenal](https://www.curseforge.com/minecraft/mc-mods/apocalyptic-arsenal) [curseforge] -> weapons
-- [KubeJS](https://modrinth.com/mod/kubejs) [curseforge but newest versions are on modrinth] -> customize the game with JS
-- [Architectury API](https://www.curseforge.com/minecraft/mc-mods/architectury) [curseforge but newest versions are on modrinth] -> lib for KubeJS
-- [Rhino](https://www.curseforge.com/minecraft/mc-mods/rhino) [curseforge but newest versions are on modrinth] -> lib for KubeJS
 
 <!-- ### Mods - Environments -->
 
@@ -83,13 +79,10 @@ Every mod, resourcepack or music included in this modpack can be used freely if 
 
 ### Mods - Improvements
 
-- [Not Enough Animations](https://www.curseforge.com/minecraft/mc-mods/not-enough-animations) [curseforge but newest versions are on modrinth] -> add animations for player
-- [TRansliterationLib](https://www.curseforge.com/minecraft/mc-mods/transliterationlib) [curseforge] -> lib for Not Enough Animations
 - [Shutup Experimental Settings!](https://www.curseforge.com/minecraft/mc-mods/shutup-experimental-settings) [curseforge] -> remove boring experimental features warning
 - [Toast Control](https://www.curseforge.com/minecraft/mc-mods/toast-control) [curseforge] -> obvious
 - [Placebo](https://www.curseforge.com/minecraft/mc-mods/placebo) [curseforge but newest versions are on modrinth] -> lib for Toast Control 
-- [Sound Filter](https://www.curseforge.com/minecraft/mc-mods/sound-filters) [curseforge] -> improve sounds
-- [Default Options](https://www.curseforge.com/minecraft/mc-mods/default-options) [curseforge but newest versions are on modrinth] -> setup the default options
+- [Sound Physics Remastered](https://www.curseforge.com/minecraft/mc-mods/sound-physics-remastered) [curseforge but newest versions are on modrinth] -> improve sounds
 - [ParCool!](https://www.curseforge.com/minecraft/mc-mods/parcool) [curseforge] -> better parkour
 - [Presence Footsteps](https://www.curseforge.com/minecraft/mc-mods/presence-footsteps-forge) [curseforge] -> add footsteps
 
@@ -105,8 +98,6 @@ Every mod, resourcepack or music included in this modpack can be used freely if 
 
 <!-- - [ChestRefill](https://modrinth.com/mod/chestrefill) [modrinth] -> refill chests NOT AVAILABLE FOR 1.16.5 -->
 - [Decorative Blocks](https://www.curseforge.com/minecraft/mc-mods/decorative-blocks) [curseforge but newest versions are on modrinth] -> obvious
-- [Mob Sunscreen](https://modrinth.com/mod/mob-sunscreen) [curseforge but newest versions are on modrinth] -> make zombies not burning during the day
-- [Total Darkness](https://www.curseforge.com/minecraft/mc-mods/total-darkness) [curseforge] -> total darkness during the night
 - [Sophisticated Backpacks](https://www.curseforge.com/minecraft/mc-mods/sophisticated-backpacks) [curseforge] -> add backpacks
 
 ### Music

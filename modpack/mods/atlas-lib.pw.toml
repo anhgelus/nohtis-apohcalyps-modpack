@@ -1,13 +1,13 @@
 name = "Atlas Lib"
-filename = "Atlas-Lib-1.16.5-1.1.3c.jar"
+filename = "Atlas-Lib-1.18.2-1.1.8.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/G6VHtQr4/versions/QimyuHhC/Atlas-Lib-1.16.5-1.1.3c.jar"
+url = "https://cdn.modrinth.com/data/G6VHtQr4/versions/yDWpDwYV/Atlas-Lib-1.18.2-1.1.8.jar"
 hash-format = "sha1"
-hash = "524940ff3338ee2ec46afb6cdff1bec8af0cd5d2"
+hash = "03020eea75a7a619800384d6982d720d5e71fb3b"
 
 [update]
 [update.modrinth]
 mod-id = "G6VHtQr4"
-version = "QimyuHhC"
+version = "yDWpDwYV"

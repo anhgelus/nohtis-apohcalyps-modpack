@@ -1,13 +1,13 @@
 name = "The Impossible Library"
-filename = "theimpossiblelibrary-1.16.5-0.3.1.jar"
+filename = "theimpossiblelibrary-1.18.2-0.3.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/ZyFWSztU/versions/lBoW0OT6/theimpossiblelibrary-1.16.5-0.3.1.jar"
+url = "https://cdn.modrinth.com/data/ZyFWSztU/versions/75AtcMDM/theimpossiblelibrary-1.18.2-0.3.1.jar"
 hash-format = "sha1"
-hash = "edfb1f3513aab6c65fa7715345550637834a0356"
+hash = "6cebe07c2d9218062c5895accda171ff5b066764"
 
 [update]
 [update.modrinth]
 mod-id = "ZyFWSztU"
-version = "lBoW0OT6"
+version = "75AtcMDM"
