@@ -643,6 +643,11 @@ hash = "113badc00d2fd77f1e09e91a1c200e54316dc6264fcc2fd5c46b374a0cc511ae"
 metafile = true
 
 [[files]]
+file = "mods/sophisticated-backpacks.pw.toml"
+hash = "c15ab8d9735df4800aa4b8cb8f0ff4c88ed1a75fb9b5bf45b6ae90c9d9a69172"
+metafile = true
+
+[[files]]
 file = "mods/sophisticated-core.pw.toml"
 hash = "2ca9c2e9eeadc58994c510e19b8cf3a04950358d7e309eab43632a9b67804735"
 metafile = true
@@ -714,6 +719,11 @@ metafile = true
 [[files]]
 file = "mods/waterdripsound.pw.toml"
 hash = "36e3fcec1b471d45e47002e08d8bae7ff755d5f472a8e9bbe9a5cda67c8a2a9d"
+metafile = true
+
+[[files]]
+file = "mods/zombie-awareness.pw.toml"
+hash = "337ae83946b43c0ca3c231fd89c43ef2f79e4968bd8b22e5a3c0e87ebe86b4ad"
 metafile = true
 
 [[files]]
