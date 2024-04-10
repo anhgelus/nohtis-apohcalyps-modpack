@@ -41,7 +41,7 @@ onEvent('recipes', event => {
 		'IFI',
 		'SSS'
 	], {
-		I: 'minecraft:iron_ingot',
+		I: '#forge:ingots/iron',
 		F: 'minecraft:furnace',
 		S: 'minecraft:smooth_stone'
 	})
@@ -56,12 +56,12 @@ onEvent('recipes', event => {
 	})
 
 	// Materials
-	event.shaped('minecraft:iron_ingot', [
+	event.shaped('#forge:ingots/iron', [
 		'NN ',
 		'NN ',
 		'   '
 	], {
-		N: 'minecraft:iron_nugget'
+		N: '#forge:nuggets/iron'
 	})
 
 	// Tools
@@ -70,7 +70,7 @@ onEvent('recipes', event => {
 		' S ',
 		' S '
 	], {
-		I: 'minecraft:iron_ingot',
+		I: '#forge:ingots/iron',
 		S: 'minecraft:stick'
 	})
 	event.shaped('minecraft:iron_axe', [
@@ -78,7 +78,7 @@ onEvent('recipes', event => {
 		' SI',
 		' S '
 	], {
-		I: 'minecraft:iron_ingot',
+		I: '#forge:ingots/iron',
 		S: 'minecraft:stick'
 	})
 	event.shaped('minecraft:iron_shovel', [
@@ -86,7 +86,7 @@ onEvent('recipes', event => {
 		' S ',
 		' S '
 	], {
-		I: 'minecraft:iron_ingot',
+		I: '#forge:ingots/iron',
 		S: 'minecraft:stick'
 	})
 	event.shaped('minecraft:iron_hoe', [
@@ -94,13 +94,13 @@ onEvent('recipes', event => {
 		' S ',
 		' S '
 	], {
-		I: 'minecraft:iron_ingot',
+		I: '#forge:ingots/iron',
 		S: 'minecraft:stick'
 	})
 
 	// Furnace
-	event.smelting('minecraft:iron_nugget', 'minecraft:iron_bars')
-	event.blasting('2x minecraft:iron_nugget', 'minecraft:iron_bars')
+	event.smelting('#forge:nuggets/iron', 'minecraft:iron_bars')
+	event.blasting('2x #forge:nuggets/iron', 'minecraft:iron_bars')
 
 	event.smelting('minecraft:cooked_porkchop', 'minecraft:porkchop')
 	event.smoking('2x minecraft:cooked_porkchop', 'minecraft:porkchop')
