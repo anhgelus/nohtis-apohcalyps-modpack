@@ -6,7 +6,7 @@ hash = "18fb5e491dd880526a6d2dba993a1574fb4056ce939004da9b0f677fd6cca434"
 
 [[files]]
 file = "README.md"
-hash = "6eacd5504914b83fc71faca16065488147655f4ed0d8090ed76d6f69401f4ebe"
+hash = "2d7f6d4bfdb63ebef73ee107d8bdbd58c7dbbea81efb55c5444b291fc438834f"
 
 [[files]]
 file = "changelog.md"
@@ -429,7 +429,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "4864451af376b26104b421900f69a0bea7c462edc2e47e359a341dbc457f3508"
+hash = "5438581aa8967b7ce1fd496f02e058b27855ccedef2f5b3dbb197ad41ae3931c"
 metafile = true
 
 [[files]]
@@ -474,12 +474,12 @@ metafile = true
 
 [[files]]
 file = "mods/cpmsvcc.pw.toml"
-hash = "d0e91b32ef14cf85c0a847f4900051e1f087407d444019e06bcb8d13b8d705e1"
+hash = "86d286f2447e1362ecc2a4697dffa2afea9f75f34b5bad990b9e5c864344c7e6"
 metafile = true
 
 [[files]]
 file = "mods/craftpresence.pw.toml"
-hash = "f280a22f97fe45c8520ed03cd562f9f7bd10b159adc057613efdb4c301a33df8"
+hash = "f63c60479522aa788aea049e80ca27bb0097afe027b135cf96753f6797c462c9"
 metafile = true
 
 [[files]]
@@ -494,7 +494,7 @@ metafile = true
 
 [[files]]
 file = "mods/custom-player-models.pw.toml"
-hash = "3c06a6e4dbca905f31dd1113a805ef0041a14561aebd559dcc33f75f6d5bce1c"
+hash = "7088adc7ca140e407d327b583c978c1f519ffaf522a43d69f318548667d98dff"
 metafile = true
 
 [[files]]
@@ -519,7 +519,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "f7d23b86508306a293b01d43e2e470850c5bbfb7dd36e7a0bb9d8c344ec06ad4"
+hash = "07d20ef0ee972b58c08dca2a6f40db266592822a6b9474f01ea17dcec4f5a528"
 metafile = true
 
 [[files]]
@@ -563,11 +563,6 @@ hash = "ebb19e9c7a826f2d820671cdb8fc3aebb45cccf0751235b46a20701b9a6772b4"
 metafile = true
 
 [[files]]
-file = "mods/memoryleakfix.pw.toml"
-hash = "d6b707c0673cde38765d81a99deb45f213e0f8ea1842784310bb5ab311fefe5e"
-metafile = true
-
-[[files]]
 file = "mods/mob-sunscreen.pw.toml"
 hash = "7cad1863512171dee4be58ab44b10589173d9709a916aff1da5a3afa7f40919b"
 metafile = true
@@ -579,7 +574,7 @@ metafile = true
 
 [[files]]
 file = "mods/moremcmeta.pw.toml"
-hash = "142ec2886277382aa45c33a75ff02d4ddad8c6dacd75e85ac28c5d79afc6ea18"
+hash = "7692c4bce8f891fdd0116767af260bf31286b86d0e4a1d064e86abada8781db6"
 metafile = true
 
 [[files]]
@@ -594,7 +589,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "805dded546acbf94889d96bceacb5496f7e84054dfd7a00b1970968522287ad1"
+hash = "60d8696608ba54e1dca36c4da0f37fe070cf1468ddce4762d3d5ba432685a253"
 metafile = true
 
 [[files]]
@@ -639,17 +634,17 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "113badc00d2fd77f1e09e91a1c200e54316dc6264fcc2fd5c46b374a0cc511ae"
+hash = "c3aa4d13466fd96483ddf44d8c0a99002804e6d53b2728ba5cb768573fc66d6c"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "c15ab8d9735df4800aa4b8cb8f0ff4c88ed1a75fb9b5bf45b6ae90c9d9a69172"
+hash = "3b31859609021956bc0198d1630d327f269eac125042c3f5482d47d7204dbbfe"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "2ca9c2e9eeadc58994c510e19b8cf3a04950358d7e309eab43632a9b67804735"
+hash = "49f90dea0a7cc6a1cb100ca1e052f4a964a4e9a7ec63f6e18fb47e34b88ff69a"
 metafile = true
 
 [[files]]
@@ -679,7 +674,7 @@ metafile = true
 
 [[files]]
 file = "mods/the-hordes.pw.toml"
-hash = "a4f591caddc3fff27e4bdc5f7537ff07838dffb5125c3e29f921e6eeaf7458b8"
+hash = "ab45d2169447eb2f3d3140082cb00ae4535faeb228e0a676b8ac0ab749f9eeff"
 metafile = true
 
 [[files]]
@@ -689,7 +684,7 @@ metafile = true
 
 [[files]]
 file = "mods/the-lost-cities.pw.toml"
-hash = "fd13d12284e3a1061782d59a95eec80bd25a77af147a6a1389287d7e5e4f3c7a"
+hash = "6021cc659043546b1dfff08514f5d28a1f9ded30bf360da0fd38b63cf2213b55"
 metafile = true
 
 [[files]]
@@ -724,7 +719,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/tissous-zombie-pack-optifine-1-7x-1-19.pw.toml"
-hash = "9292a38a6d15ab5aff343a1ab467bd6f11603d2766aac942adcb4bf47e9c687b"
+hash = "84dc4ef3fb4a79979789491901f9ef19044128fc250ed677bd9cc5dbdb6eeea8"
 metafile = true
 
 [[files]]

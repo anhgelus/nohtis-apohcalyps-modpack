@@ -1,13 +1,13 @@
 name = "Architectury API"
-filename = "architectury-4.11.93-forge.jar"
+filename = "architectury-4.12.94-forge.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/lhGA9TYQ/versions/o069zrDa/architectury-4.11.93-forge.jar"
+url = "https://cdn.modrinth.com/data/lhGA9TYQ/versions/3ChyUkZQ/architectury-4.12.94-forge.jar"
 hash-format = "sha1"
-hash = "745f674393a9d5827ee92fcd5c6c350c9aeeed97"
+hash = "a6705e4ae7acb91870cdb63bc86dadf3dd97ec08"
 
 [update]
 [update.modrinth]
 mod-id = "lhGA9TYQ"
-version = "o069zrDa"
+version = "3ChyUkZQ"
