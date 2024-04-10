@@ -63,6 +63,16 @@ onEvent('recipes', event => {
 	], {
 		N: '#forge:nuggets/iron'
 	})
+	event.recipes.createPressing('kubejs:iron_plate', '2x #forge:ingots/iron')
+	event.recipes.createPressing('kubejs:iron_large_plate', '2x kubejs:iron_plate')
+	event.shaped('kubejs:iron_long_plate', [
+		'III',
+		'   ',
+		'   '
+	], {
+		I: '#forge:ingots/iron'
+	})
+	event.recipes.createPressing('kubejs:iron_big_plate', ['2x kubejs:iron_large_plate', '2x kubejs:iron_long_plate'])
 
 	// Tools
 	event.shaped('minecraft:iron_pickaxe', [
