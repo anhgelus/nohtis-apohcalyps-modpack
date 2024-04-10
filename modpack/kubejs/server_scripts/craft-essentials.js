@@ -108,3 +108,4 @@ onEvent('recipes', event => {
 	// Campfire
 	event.campfireCooking('minecraft:porkchop', 'minecraft:rotten_flesh')
 })
+
