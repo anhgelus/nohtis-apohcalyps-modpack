@@ -19,6 +19,7 @@ onEvent('recipes', event => {
 
 	event.shapeless('2x minecraft:stick', ['#minecraft:planks', '#minecraft:planks'])
 
+	// Craft
 	event.shaped('minecraft:crafting_table', [
 		'PP ',
 		'PP ',
@@ -26,10 +27,84 @@ onEvent('recipes', event => {
 	], {
 		P: '#minecraft:planks'
 	})
+	event.shaped('minecraft:campfire', [
+		' S ',
+		'SCS',
+		'LLL'
+	], {
+		S: 'minecraft:stick',
+		C: 'minecraft:coal',
+		L: '#minecraft:logs'
+	})
+	event.shaped('minecraft:blast_furnace', [
+		'III',
+		'IFI',
+		'SSS'
+	], {
+		I: 'minecraft:iron_ingot',
+		F: 'minecraft:furnace',
+		S: 'minecraft:smooth_stone'
+	})
+	event.shaped('minecraft:smoker', [
+		' W ',
+		'WFW',
+		' C '
+	], {
+		W: '#minecraft:logs',
+		F: 'minecraft:furnace',
+		C: 'minecraft:campfire'
+	})
+
+	// Materials
+	event.shaped('minecraft:iron_ingot', [
+		'NN ',
+		'NN ',
+		'   '
+	], {
+		N: 'minecraft:iron_nugget'
+	})
+
+	// Tools
+	event.shaped('minecraft:iron_pickaxe', [
+		'III',
+		' S ',
+		' S '
+	], {
+		I: 'minecraft:iron_ingot',
+		S: 'minecraft:stick'
+	})
+	event.shaped('minecraft:iron_axe', [
+		' II',
+		' SI',
+		' S '
+	], {
+		I: 'minecraft:iron_ingot',
+		S: 'minecraft:stick'
+	})
+	event.shaped('minecraft:iron_shovel', [
+		' I ',
+		' S ',
+		' S '
+	], {
+		I: 'minecraft:iron_ingot',
+		S: 'minecraft:stick'
+	})
+	event.shaped('minecraft:iron_hoe', [
+		' II',
+		' S ',
+		' S '
+	], {
+		I: 'minecraft:iron_ingot',
+		S: 'minecraft:stick'
+	})
 
 	// Furnace
-	event.smelting('minecraft:iron_ingot', 'minecraft:iron_bars')
+	event.smelting('minecraft:iron_nugget', 'minecraft:iron_bars')
+	event.blasting('2x minecraft:iron_nugget', 'minecraft:iron_bars')
+
+	event.smelting('minecraft:cooked_porkchop', 'minecraft:porkchop')
+	event.smoking('2x minecraft:cooked_porkchop', 'minecraft:porkchop')
+
 	// Campfire
 	event.campfireCooking('minecraft:porkchop', 'minecraft:rotten_flesh')
 })
-
