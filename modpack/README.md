@@ -68,9 +68,7 @@ Every mod, resourcepack or music included in this modpack can be used freely if 
 
 ### Mods - Core
 
-- [Timeless and Classics Guns](https://www.curseforge.com/minecraft/mc-mods/timeless-and-classic-guns-tac) [curseforge] -> Guns
 - [Zombie Awarness](https://www.curseforge.com/minecraft/mc-mods/zombie-awareness) [curseforge] -> control zombies 
-- [CoroUtil](https://www.curseforge.com/minecraft/mc-mods/coroutil) [curseforge] -> lib for Zombie Awarness 
 - [Apocalyptic Arsenal](https://www.curseforge.com/minecraft/mc-mods/apocalyptic-arsenal) [curseforge] -> weapons
 
 <!-- ### Mods - Environments -->
@@ -83,7 +81,6 @@ Every mod, resourcepack or music included in this modpack can be used freely if 
 - [Toast Control](https://www.curseforge.com/minecraft/mc-mods/toast-control) [curseforge] -> obvious
 - [Placebo](https://www.curseforge.com/minecraft/mc-mods/placebo) [curseforge but newest versions are on modrinth] -> lib for Toast Control 
 - [Sound Physics Remastered](https://www.curseforge.com/minecraft/mc-mods/sound-physics-remastered) [curseforge but newest versions are on modrinth] -> improve sounds
-- [ParCool!](https://www.curseforge.com/minecraft/mc-mods/parcool) [curseforge] -> better parkour
 - [Presence Footsteps](https://www.curseforge.com/minecraft/mc-mods/presence-footsteps-forge) [curseforge] -> add footsteps
 
 #### Optimizations

@@ -10,7 +10,7 @@ hash = "6eacd5504914b83fc71faca16065488147655f4ed0d8090ed76d6f69401f4ebe"
 
 [[files]]
 file = "changelog.md"
-hash = "f0bbf995fdc8364fccc9bfd1a3e9eea11584a3fd6360a38b8a79b7e79b9b97a3"
+hash = "cdb0660ed28b1869004c52feefce8e79135e4ea271671f1f573bf264c75993d3"
 
 [[files]]
 file = "config/MusicTriggers/channels.toml"
@@ -469,7 +469,7 @@ metafile = true
 
 [[files]]
 file = "mods/coroutil.pw.toml"
-hash = "f8f870fbe565f81156ac054ab32ebb6009e214af70b057874965b99896e059eb"
+hash = "98191563e8bc8c11ee92a6e7d8484a13038e8d4ab11cfc61f68fdc939f9ae333"
 metafile = true
 
 [[files]]
@@ -599,7 +599,7 @@ metafile = true
 
 [[files]]
 file = "mods/parcool.pw.toml"
-hash = "09f4066e7ff353848489f9750be66c6f26ff12231b5f4a9c3d8220d594589769"
+hash = "f9c39572734ef8a502fde6cf5977fd5851b872465e0df0b0b615183c26ce61e1"
 metafile = true
 
 [[files]]
@@ -653,10 +653,6 @@ hash = "2ca9c2e9eeadc58994c510e19b8cf3a04950358d7e309eab43632a9b67804735"
 metafile = true
 
 [[files]]
-file = "mods/sophisticatedbackpacks-1.18.2-3.19.5.990.jar"
-hash = "66891e16ca7335e8b686d54a274f0a483847f21dfe70ce15eb26ec4ab0680aac"
-
-[[files]]
 file = "mods/sound-physics-remastered.pw.toml"
 hash = "53ace67b4c03bdccf7e31726a8055d8a80139295c57f7bf42aa113a6424df0bb"
 metafile = true
@@ -697,8 +693,8 @@ hash = "fd13d12284e3a1061782d59a95eec80bd25a77af147a6a1389287d7e5e4f3c7a"
 metafile = true
 
 [[files]]
-file = "mods/timeless-and-classic-guns-tac.pw.toml"
-hash = "ec3f2daf489371bdec23f2bd2089300ed0bc0898ae9555140b2bfefef0b9532f"
+file = "mods/timeless-and-classics-guns.pw.toml"
+hash = "ecfbd30423c4d14afbb59a72c420b40bb52a0cea3b723344624099c607bcf165"
 metafile = true
 
 [[files]]
@@ -725,10 +721,6 @@ metafile = true
 file = "mods/zombie-awareness.pw.toml"
 hash = "337ae83946b43c0ca3c231fd89c43ef2f79e4968bd8b22e5a3c0e87ebe86b4ad"
 metafile = true
-
-[[files]]
-file = "mods/zombieawareness-1.18.1-1.12.3.jar"
-hash = "6a280de1f0420b2e068d7e8d829e9594a1bf06ce7a7731f22321a63690663fda"
 
 [[files]]
 file = "resourcepacks/tissous-zombie-pack-optifine-1-7x-1-19.pw.toml"

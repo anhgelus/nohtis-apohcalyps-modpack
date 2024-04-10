@@ -3,11 +3,11 @@ filename = "ParCool-1.18.2-3.1.0.6-R.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/Fsvx2bdR/versions/FPw0Zf14/ParCool-1.18.2-3.1.0.6-R.jar"
 hash-format = "sha1"
 hash = "e5b3b12fdda07392c79ffc9b4b7b2cf3580010a8"
-mode = "metadata:curseforge"
 
 [update]
-[update.curseforge]
-file-id = 4944977
-project-id = 482378
+[update.modrinth]
+mod-id = "Fsvx2bdR"
+version = "FPw0Zf14"

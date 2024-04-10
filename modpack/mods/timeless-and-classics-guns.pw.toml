@@ -1,0 +1,13 @@
+name = "Timeless and Classics Guns"
+filename = "tac-0.3.10.2-1.18.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/hudztH4j/versions/hqaRxH2K/tac-0.3.10.2-1.18.2.jar"
+hash-format = "sha1"
+hash = "4b59995d4fb155a19ae94f3d415821f57a17dc39"
+
+[update]
+[update.modrinth]
+mod-id = "hudztH4j"
+version = "hqaRxH2K"
