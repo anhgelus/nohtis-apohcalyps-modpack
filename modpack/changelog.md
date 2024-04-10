@@ -27,6 +27,8 @@ Add:
 - RyoamicLights 
 - Framework
 - SophisticatedCore
+- Create
+- KubeJS Create
 
 ## 0.10.2
 

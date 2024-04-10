@@ -483,6 +483,11 @@ hash = "f63c60479522aa788aea049e80ca27bb0097afe027b135cf96753f6797c462c9"
 metafile = true
 
 [[files]]
+file = "mods/create.pw.toml"
+hash = "8cd6e0ba62f3f5962a824170bbf52fd502cbfec5b861fb24757e8283dd351fd1"
+metafile = true
+
+[[files]]
 file = "mods/creativecore.pw.toml"
 hash = "0d72545d14aec02b349975bf6bb0e715ccd5cfd108c5250a77603ab6009cfa2b"
 metafile = true
@@ -550,6 +555,11 @@ metafile = true
 [[files]]
 file = "mods/in-control.pw.toml"
 hash = "930395329a9f970cc0a45db41c2675256435c31c3873a401985c82b14cdc08df"
+metafile = true
+
+[[files]]
+file = "mods/kubejs-create.pw.toml"
+hash = "6ba38b772ff6217503bbba600deef53ae2b57b481fc7bcb304642e24e0f79136"
 metafile = true
 
 [[files]]

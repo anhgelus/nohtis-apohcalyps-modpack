@@ -1,0 +1,13 @@
+name = "KubeJS Create"
+filename = "kubejs-create-forge-1802.2.4-build.16.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/T38eAZQC/versions/ClnUsQ85/kubejs-create-forge-1802.2.4-build.16.jar"
+hash-format = "sha1"
+hash = "aca0f668ce8c0804f128a75c813cc3b2202734fe"
+
+[update]
+[update.modrinth]
+mod-id = "T38eAZQC"
+version = "ClnUsQ85"
