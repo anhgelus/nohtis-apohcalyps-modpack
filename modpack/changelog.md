@@ -20,6 +20,8 @@ Replace these mods by their modrinth version:
 - Not Enough Animations
 - Default Options
 - Mob Sunscreen
+- CoroUtil
+- Timeless and Classics Guns
 
 Add:
 - RyoamicLights 
