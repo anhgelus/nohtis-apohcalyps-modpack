@@ -75,6 +75,8 @@ Every mod, resourcepack or music included in this modpack can be used freely if 
 - [KubeJS](https://modrinth.com/mod/kubejs) [curseforge but newest versions are on modrinth] -> customize the game with JS
 - [Architectury API](https://www.curseforge.com/minecraft/mc-mods/architectury) [curseforge but newest versions are on modrinth] -> lib for KubeJS
 - [Rhino](https://www.curseforge.com/minecraft/mc-mods/rhino) [curseforge but newest versions are on modrinth] -> lib for KubeJS
+- [Create](https://www.curseforge.com/minecraft/mc-mods/create) [curseforge but newest versions are on modrinth] -> base of the craft system
+- [Flywheel](https://www.curseforge.com/minecraft/mc-mods/flywheel) [curseforge but newest versions are on modrinth] -> lib for Create
 
 <!-- ### Mods - Environments -->
 
