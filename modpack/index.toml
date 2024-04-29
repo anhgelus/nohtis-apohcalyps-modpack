@@ -456,7 +456,7 @@ metafile = true
 
 [[files]]
 file = "mods/coroutil.pw.toml"
-hash = "1f77e29a07cc10fd4a91e11e68299629e126b69797fcb9619ee2bceeecf8a62a"
+hash = "9465bf94962e8f1cf4146bbb93856c798477cecf9d6ba5c0051956dd548a1865"
 metafile = true
 
 [[files]]
@@ -581,7 +581,7 @@ metafile = true
 
 [[files]]
 file = "mods/parcool.pw.toml"
-hash = "2361f06eda1463353bbd5612db14f83ad4072b1605d9434d74b2e93a47afa03f"
+hash = "f131b2203066074df79ab1c44644d619d0d80651c90a941150b4eb40b33cff04"
 metafile = true
 
 [[files]]

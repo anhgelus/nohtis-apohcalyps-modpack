@@ -1,13 +1,13 @@
-name = "ParCool! ~ Minecraft Parkour ~"
-filename = "ParCool-1.16.5-3.2.1.0-R.jar"
+name = "ParCool!"
+filename = "ParCool-1.16.5-3.1.0.6-R.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/Fsvx2bdR/versions/D2IzG0P1/ParCool-1.16.5-3.1.0.6-R.jar"
 hash-format = "sha1"
-hash = "82a46cd0dc9d376ba69834cf166645a7db04c78e"
-mode = "metadata:curseforge"
+hash = "ba72d618201c5cb770f11062b66fa87b26b34e23"
 
 [update]
-[update.curseforge]
-file-id = 5290268
-project-id = 482378
+[update.modrinth]
+mod-id = "Fsvx2bdR"
+version = "D2IzG0P1"

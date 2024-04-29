@@ -8,14 +8,14 @@ The entire world was infected by an unknown disease. This disease is turning inf
 
 You are one of humanity's last survivant.
 
-You have to find guns, ammunitions, food and resources to survive in this dangerous world.
+You have to find guns, ammunition, food and resources to survive in this dangerous world.
 
-Travel accros a living abandoned world, fight against hostile players and create a factory to get new weapons.
+Travel accross a living abandoned world, fight against hostile players and create a factory to get new weapons.
 
 <details>
 <summary>Craft</summary>
 
-Craft has not yet been implemented. In the futur, it will be based on Create.
+Craft has not yet been implemented. In the future, it will be based on Create.
 
 Currently, you can find everything needed in loot chests.
 
@@ -71,7 +71,6 @@ Every mod, resourcepack or music included in this modpack can be used freely if 
 - [Timeless and Classics Guns](https://www.curseforge.com/minecraft/mc-mods/timeless-and-classic-guns-tac) [curseforge] -> Guns
 - [Obfuscate](https://www.curseforge.com/minecraft/mc-mods/obfuscate) [curseforge] -> lib for Timeless and Classics Guns 
 - [Zombie Awarness](https://www.curseforge.com/minecraft/mc-mods/zombie-awareness) [curseforge] -> control zombies 
-- [CoroUtil](https://www.curseforge.com/minecraft/mc-mods/coroutil) [curseforge] -> lib for Zombie Awarness 
 - [Apocalyptic Arsenal](https://www.curseforge.com/minecraft/mc-mods/apocalyptic-arsenal) [curseforge] -> weapons
 - [KubeJS](https://modrinth.com/mod/kubejs) [curseforge but newest versions are on modrinth] -> customize the game with JS
 - [Architectury API](https://www.curseforge.com/minecraft/mc-mods/architectury) [curseforge but newest versions are on modrinth] -> lib for KubeJS
@@ -90,7 +89,6 @@ Every mod, resourcepack or music included in this modpack can be used freely if 
 - [Placebo](https://www.curseforge.com/minecraft/mc-mods/placebo) [curseforge but newest versions are on modrinth] -> lib for Toast Control 
 - [Sound Filter](https://www.curseforge.com/minecraft/mc-mods/sound-filters) [curseforge] -> improve sounds
 - [Default Options](https://www.curseforge.com/minecraft/mc-mods/default-options) [curseforge but newest versions are on modrinth] -> setup the default options
-- [ParCool!](https://www.curseforge.com/minecraft/mc-mods/parcool) [curseforge] -> better parkour
 - [Presence Footsteps](https://www.curseforge.com/minecraft/mc-mods/presence-footsteps-forge) [curseforge] -> add footsteps
 
 #### Optimizations
