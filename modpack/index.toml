@@ -670,6 +670,11 @@ hash = "b77216bd370d24fb852243556ab90dcb9b24d881f335b7093066247139d3f9c2"
 metafile = true
 
 [[files]]
+file = "mods/timeless-and-classics-guns.pw.toml"
+hash = "8fdd7598f975885b180e5eda26a9725feefe69b8b51c94decf7aa7330ff93f41"
+metafile = true
+
+[[files]]
 file = "mods/tinyinv.pw.toml"
 hash = "34ef5655fa7cbd2bf976c281ecfa56a2c0c229b8dd73c21b4b778baaff169462"
 metafile = true

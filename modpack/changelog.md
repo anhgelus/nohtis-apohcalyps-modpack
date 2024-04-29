@@ -6,6 +6,10 @@ Remove:
 - Radon
 - MemomryLeakFix
 
+Replace these mods by their modrinth version:
+- Timeless and Classics Guns
+- CoroUtil
+- ParCool!
 
 ## 0.10.2
 
