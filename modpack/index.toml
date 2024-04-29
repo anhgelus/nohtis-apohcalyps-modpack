@@ -456,17 +456,17 @@ metafile = true
 
 [[files]]
 file = "mods/coroutil.pw.toml"
-hash = "bc18684b6e860da60a7d1c35b7ef261aba39d369f584d4284d438ed931788dc3"
+hash = "1f77e29a07cc10fd4a91e11e68299629e126b69797fcb9619ee2bceeecf8a62a"
 metafile = true
 
 [[files]]
 file = "mods/cpmsvcc.pw.toml"
-hash = "219c991a5c431918275f1af91a51b314e4275ab6f2aee47715fafe2c9d33df71"
+hash = "e3785538d64c836a12692a41765ec2e5b8da1c6fc3e8b35049147eec16370992"
 metafile = true
 
 [[files]]
 file = "mods/craftpresence.pw.toml"
-hash = "db77594dbb9381fd5b541299c2f8786b609adc8760bea1425e3d93a41180ef18"
+hash = "c3874db9feb9c3b9adef86eb27d13b95b310accbdf96cc9d7fd6722d09dc216f"
 metafile = true
 
 [[files]]
@@ -481,7 +481,7 @@ metafile = true
 
 [[files]]
 file = "mods/custom-player-models.pw.toml"
-hash = "3405441a14e4792b8ff929d05e5fc3dd0149ce85ed5ace78c96580c88e9d6397"
+hash = "d871c46f66e6a660db82a7d865accde1ad6bde3edf4c0c25302d6405e94796a2"
 metafile = true
 
 [[files]]
@@ -556,7 +556,7 @@ metafile = true
 
 [[files]]
 file = "mods/memoryleakfix.pw.toml"
-hash = "7ac8ed8f18959aea0f3fae93c8b94755f34d25991fb7e81bd7ddd629596fe2ac"
+hash = "0660051671089ec453f5d40fa1762786e8aadd3818cdfa488c5b8c0f00ad19da"
 metafile = true
 
 [[files]]
@@ -571,7 +571,7 @@ metafile = true
 
 [[files]]
 file = "mods/moremcmeta.pw.toml"
-hash = "55b104bbb070ef0d30a863bf983a271426a0b682a5029eab535b178db06e9c9a"
+hash = "e67f3148809588b481ef738360417348b0fc6e65b53955157444a83d447e38a3"
 metafile = true
 
 [[files]]
@@ -586,7 +586,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "070ed93a70b1526d047e048cab5feb16288812dfb83402ca5645079ef9287da2"
+hash = "9a7d75e1d6d2a0aa479d2ca25c9732a31dacadfeea5c8ca6cc30b779148d8c3e"
 metafile = true
 
 [[files]]
@@ -596,7 +596,7 @@ metafile = true
 
 [[files]]
 file = "mods/parcool.pw.toml"
-hash = "2f6112a91ed28a8405203cd3363c51a6db1a25782435063bbaf3407139e99880"
+hash = "2361f06eda1463353bbd5612db14f83ad4072b1605d9434d74b2e93a47afa03f"
 metafile = true
 
 [[files]]
@@ -641,7 +641,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "1abc75f771be38d8575ecb6f938bc9d45b6a43296847c462fc870bf19067b5b0"
+hash = "5f8a49287a8199b381774c0c23558106dfc4ba1c5f7c9703eb82562b2e379928"
 metafile = true
 
 [[files]]
@@ -686,7 +686,7 @@ metafile = true
 
 [[files]]
 file = "mods/timeless-and-classic-guns-tac.pw.toml"
-hash = "ddd7dc43ba0407e4266c92df61ae8eb9805dfa32ad37d12855de79a30c97c0c1"
+hash = "b77216bd370d24fb852243556ab90dcb9b24d881f335b7093066247139d3f9c2"
 metafile = true
 
 [[files]]
