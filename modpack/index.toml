@@ -470,6 +470,11 @@ hash = "c3874db9feb9c3b9adef86eb27d13b95b310accbdf96cc9d7fd6722d09dc216f"
 metafile = true
 
 [[files]]
+file = "mods/create.pw.toml"
+hash = "cf6a575860bb0c9ce92aa33ccf881a6a57363914f3c83487e9743f063fef7a91"
+metafile = true
+
+[[files]]
 file = "mods/creativecore.pw.toml"
 hash = "04c59cad26fb818ee8c6c361d50d696c53e71ea5473562b3d3f204359c86ccf9"
 metafile = true
@@ -520,6 +525,11 @@ hash = "0eb4c27343f92386c14ca565b835219913213358e659d673b4a88cf83f230a15"
 metafile = true
 
 [[files]]
+file = "mods/flywheel.pw.toml"
+hash = "fdde87c3450325f15a72576976f305ca943953650b4c2b63e52186ad54c50307"
+metafile = true
+
+[[files]]
 file = "mods/fx-control.pw.toml"
 hash = "9c7bc14c64f1f137158c65d87820499e42ba0cde2063be5e3ca80ef0af8c689c"
 metafile = true
@@ -532,6 +542,11 @@ metafile = true
 [[files]]
 file = "mods/in-control.pw.toml"
 hash = "317eb19f430bbc6bc21dc5d605fc1db01c01c35c4d12a5bc6f10cc9d5cccbbee"
+metafile = true
+
+[[files]]
+file = "mods/kubejs-create.pw.toml"
+hash = "2788c7385ce99205644eed9455db75f8d29b3a133c50b0c25b46faa7f055c878"
 metafile = true
 
 [[files]]

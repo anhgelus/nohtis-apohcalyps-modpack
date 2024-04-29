@@ -1,0 +1,13 @@
+name = "KubeJS Create"
+filename = "kubejs-create-1605.1.4-build.12.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/T38eAZQC/versions/uMNhEyBG/kubejs-create-1605.1.4-build.12.jar"
+hash-format = "sha1"
+hash = "be87887093cfe365e88ad2422b38e95bfb88326b"
+
+[update]
+[update.modrinth]
+mod-id = "T38eAZQC"
+version = "uMNhEyBG"
