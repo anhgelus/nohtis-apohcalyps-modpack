@@ -1,3 +1,12 @@
+## 0.11.0
+
+Remove:
+- DynamicTrees
+- Flashlight
+- Radon
+- MemomryLeakFix
+
+
 ## 0.10.2
 
 **Theoretically compatible with 0.10.0 and 0.10.1 but not tested. Servers are highly encourage to upgrade**

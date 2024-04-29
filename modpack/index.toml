@@ -500,11 +500,6 @@ hash = "aa6016b273e593b2dae48d6a599250eab767a540a542e329f2dba0333f4e89ff"
 metafile = true
 
 [[files]]
-file = "mods/dynamictrees.pw.toml"
-hash = "b62bcd17cbfa6170b472fcab14d73fcc25fe661f2b99fd55ad702fcbc0817b3a"
-metafile = true
-
-[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "b3a6b53d4c840fbcd72686d9de2d557e4cd4f735a719ae13f28a6d80087b17c8"
 metafile = true
@@ -522,11 +517,6 @@ metafile = true
 [[files]]
 file = "mods/firstaid.pw.toml"
 hash = "0eb4c27343f92386c14ca565b835219913213358e659d673b4a88cf83f230a15"
-metafile = true
-
-[[files]]
-file = "mods/flashlight.pw.toml"
-hash = "8b432d3004e20e9597ce74eaaf102a422f215df5369b1618318156f7651930ea"
 metafile = true
 
 [[files]]
@@ -552,11 +542,6 @@ metafile = true
 [[files]]
 file = "mods/lazy-dfu-forge.pw.toml"
 hash = "4cbade87fef39ba34f9b459b8d238fa761901c4817db0564ef4dae1a06e4b832"
-metafile = true
-
-[[files]]
-file = "mods/memoryleakfix.pw.toml"
-hash = "0660051671089ec453f5d40fa1762786e8aadd3818cdfa488c5b8c0f00ad19da"
 metafile = true
 
 [[files]]
@@ -607,11 +592,6 @@ metafile = true
 [[files]]
 file = "mods/presence-footsteps-forge.pw.toml"
 hash = "65e33e37ae72d59e23b479d6e6506bd5ab16aad91eeae68a58a8b5bc5e6d0813"
-metafile = true
-
-[[files]]
-file = "mods/radon.pw.toml"
-hash = "d50f6dc631da47fc9e7e322c0c1426795893819a6c0fd4afd2afaa2ab5a5c3c1"
 metafile = true
 
 [[files]]
